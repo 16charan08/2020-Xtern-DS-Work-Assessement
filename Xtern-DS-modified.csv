@@ -1,0 +1,1883 @@
+,Latitude,Longitude,Cuisines,Average_Cost,Minimum_Order,Rating,Votes,Reviews,Cook_Time,Locality
+0,39.26260512,-85.83737224,"Fast Food, Rolls, Burger, Salad, Wraps",20.0,50.00,3.5,12,4,30,Hope
+1,39.77593257,-85.74058103,"Ice Cream, Desserts",10.0,50.00,3.5,11,4,30,Greenfield
+2,39.25343575,-85.12377878,"Italian, Street Food, Fast Food",15.0,50.00,3.6,99,30,65,Sunman
+3,39.02984064,-85.33205,"Mughlai, North Indian, Chinese",25.0,99.00,3.7,176,95,30,Versailles
+4,39.88228385,-85.51740684,"Cafe, Beverages",20.0,99.00,3.2,521,235,65,Knightstown
+5,39.37044062,-85.73951559999999,"South Indian, North Indian, Chinese",15.0,50.00,3.8,46,18,30,Geneva
+6,39.82180556,-85.00557692,"Beverages, Fast Food",15.0,50.00,3.7,108,31,30,Centerville
+7,39.28032424,-85.14436284,"Chinese, Thai, Asian",65.0,50.00,4.0,1731,1235,45,Sunman
+8,39.26881632,-85.60216807,"Mithai, Street Food",10.0,50.00,3.9,110,26,30,Westport
+9,39.87452148,-85.43996296,"Fast Food, North Indian, Rolls, Chinese, Momos, Mughlai",20.0,50.00,3.9,562,294,65,New Castle
+10,39.9283325,-85.16769125,"North Indian, Chinese, Mughlai",35.0,50.00,3.8,186,61,30,Hagerstown
+11,39.39713844,-85.13530029,"Chinese, Thai, Indonesian, Italian",80.0,50.00,4.2,1693,1239,45,Brookville
+12,39.30732483,-85.95007009999999,"Burger, Fast Food, Desserts, Beverages",15.0,50.00,0,0,0,30,Edinburgh
+13,39.691917700000005,-85.44103659,Beverages,5.0,0.00,3.8,184,128,45,Rushville
+14,39.65671842,-85.58876556,Fast Food,10.0,50.00,3.5,23,5,30,Morristown
+15,39.97728307,-85.093808,"Biryani, Mughlai",10.0,50.00,3.6,353,53,30,Hagerstown
+16,39.08688537,-85.86213009,Italian,10.0,50.00,0,0,0,30,Columbus
+17,39.3169186,-85.03286776,"Chinese, North Indian, South Indian, Fast Food",20.0,50.00,3.7,139,47,30,Sunman
+18,39.32256304,-85.91417317,"Kerala, Bihari",15.0,50.00,0,0,0,30,Edinburgh
+19,39.01537008,-85.48212577,South Indian,10.0,50.00,3.7,159,46,30,North Vernon
+20,39.04035565,-85.07508699,"Chinese, North Indian, Rolls, Momos",20.0,99.00,2.8,67,23,45,Dillsboro
+21,39.26024791,-85.1826796,"North Indian, Rolls",15.0,50.00,3.9,387,160,45,Batesville
+22,39.50725946,-85.3282007,"North Indian, Chinese",25.0,50.00,3.0,5,2,30,Rushville
+23,39.12819257,-85.51174157,"Biryani, North Indian",20.0,99.00,3.7,138,26,65,Westport
+24,39.17216717,-85.13841279,"North Indian, Chinese, Fast Food",15.0,50.00,3.2,4,1,30,Milan
+25,39.33152871,-85.59425749,"Desserts, Ice Cream",10.0,50.00,0,0,0,45,Saint Paul
+26,39.35372398,-85.72067562,"North Indian, Chinese",10.0,99.00,3.7,110,38,45,Geneva
+27,39.15068439,-85.84951567,"Fast Food, South Indian, Street Food",15.0,50.00,3.2,15,9,45,Columbus
+28,39.90737096,-85.77399833,North Indian,15.0,50.00,3.3,44,19,45,Ingalls
+29,39.25831369,-85.34571572,"North Indian, Chinese",20.0,50.00,3.8,18,18,30,Batesville
+30,39.73309187,-85.99816833,North Indian,15.0,50.00,3.2,18,7,30,Cumberland
+31,39.04356204,-85.48927318,"Cafe, Mexican, Japanese, Italian, Chinese",40.0,50.00,4.0,189,132,30,North Vernon
+32,39.27094825,-85.87305721,"Bakery, Fast Food, Rolls, Beverages",20.0,50.00,3.1,279,74,45,Lowell
+33,39.25619902,-85.99034723,"North Indian, Chinese",35.0,99.00,3.3,22,13,45,Lowell
+34,39.12420165,-85.93904552,North Indian,10.0,50.00,4.0,581,111,30,Columbus
+35,39.24628894,-85.15291546,"Asian, Burmese, Bubble Tea, Desserts, Salad, Tea, Beverages, Ice Cream",60.0,50.00,4.7,914,499,45,Sunman
+36,39.37648495,-85.82867796,Street Food,10.0,50.00,3.4,23,7,30,Hope
+37,39.40411112,-85.26715519,"Fast Food, South Indian",10.0,50.00,3.6,105,53,30,Batesville
+38,39.62969093,-85.16622409,"Pizza, Fast Food",20.0,50.00,3.5,305,29,45,Connersville
+39,39.54322828,-85.30579037,"Cafe, Desserts",30.0,50.00,3.6,54,34,30,Rushville
+40,39.01000957,-85.86389745,"Mughlai, North Indian",20.0,50.00,4.0,1408,851,45,Seymour
+41,39.49198127,-85.74235762,"Desserts, Beverages",15.0,50.00,4.1,806,513,45,Shelbyville
+42,39.04229877,-85.89778192,"Bakery, Desserts, Beverages",15.0,50.00,3.7,41,22,30,Seymour
+43,39.33423916,-85.7847045,South Indian,10.0,50.00,3.7,100,27,45,Hope
+44,39.55719429,-85.0490149,North Indian,20.0,50.00,3.6,106,32,30,Connersville
+45,39.33905711,-85.11733849,"North Indian, Street Food",20.0,50.00,3.8,37,25,30,Sunman
+46,39.23335694,-85.15432866,"North Indian, Chinese",20.0,50.00,3.4,45,37,30,Sunman
+48,39.97170279,-85.73759102,"Chinese, Fast Food",20.0,99.00,3.5,63,8,45,Pendleton
+49,39.10785293,-85.99409462,Lucknowi,20.0,50.00,0,0,0,30,Columbus
+50,39.86886292,-85.40162847,"South Indian, North Indian",15.0,50.00,3.1,253,35,30,New Castle
+51,39.31408607,-85.33092024,"Biryani, Chinese",15.0,50.00,3.2,4,4,30,Batesville
+52,39.61635616,-85.77939082,"Tea, Fast Food",10.0,50.00,3.3,12,6,30,Shelbyville
+53,39.79155572,-85.19682518,"Fast Food, Italian, Beverages",20.0,50.00,3.9,327,173,45,Cambridge City
+54,39.29536284,-85.4130969,"North Indian, Beverages",25.0,50.00,3.4,49,36,30,Greensburg
+55,39.15300254,-85.83125677,Fast Food,10.0,50.00,3.3,11,1,30,Columbus
+56,39.73816993,-85.98774145,"Street Food, Fast Food, North Indian",15.0,50.00,2.9,8,5,45,Cumberland
+57,39.246060899999996,-85.24840142,Chinese,25.0,50.00,3.8,19,15,30,Batesville
+58,39.21416154,-85.42028542,"Rolls, Chinese",10.0,50.00,3.7,18,6,30,Greensburg
+59,39.91202387,-85.20009258,"South Indian, Chinese, Street Food",10.0,50.00,3.1,7,2,30,Hagerstown
+60,39.24761498,-85.74017071,"North Indian, Mangalorean",35.0,50.00,3.5,16,8,45,Hope
+62,39.97149012,-85.10478656,"Cafe, European, Continental, Sandwich, Salad, Healthy Food",60.0,50.00,4.6,391,174,30,Hagerstown
+63,39.78608859,-85.51391817,Bengali,20.0,50.00,3.5,32,23,30,Knightstown
+64,39.32966552,-85.46539025,"Bakery, Fast Food",20.0,50.00,3.3,39,11,30,Greensburg
+65,39.72123107,-85.61547416,Fast Food,15.0,99.00,3.9,116,19,30,Morristown
+66,39.66355779,-85.70068965,Desserts,10.0,50.00,3.4,22,9,45,Morristown
+67,39.74835955,-85.90493956,"Desserts, Beverages, American",20.0,50.00,3.9,51,29,45,New Palestine
+68,39.59264057,-85.51534624,"Chinese, Thai",15.0,50.00,3.2,9,1,30,Rushville
+69,39.94383202,-85.75792858,"Chinese, Fast Food, Mughlai",30.0,50.00,3.7,128,30,45,Ingalls
+70,39.85778082,-85.12994293,"Cafe, Continental, Fast Food",30.0,50.00,4.1,119,59,30,Cambridge City
+71,39.14680695,-85.43812391,"Chinese, Rolls",15.0,50.00,0,0,0,30,Westport
+72,39.95687758,-85.18973037,"North Indian, Fast Food",20.0,50.00,3.4,26,16,30,Hagerstown
+73,39.92103884,-85.06719759999999,"Mishti, Fast Food, South Indian",10.0,50.00,4.0,381,89,65,Hagerstown
+74,39.28679651,-85.76768119,"South Indian, North Indian, Chinese, Beverages",35.0,50.00,4.2,441,170,30,Hope
+75,39.08513835,-85.07752799,"Fast Food, Bengali",10.0,50.00,0,0,0,30,Milan
+76,39.54833494,-85.24905623,"Mithai, Street Food",10.0,50.00,3.7,62,10,30,Connersville
+77,39.50948504,-85.88419991,"Beverages, Desserts",10.0,50.00,3.6,7,4,30,Shelbyville
+78,39.19541646,-85.83185344,Fast Food,10.0,50.00,3.6,90,31,30,Columbus
+80,39.57111405,-85.06931999,"European, Continental, North Indian, Desserts",75.0,50.00,4.3,3124,1660,45,Connersville
+81,39.37777066,-85.4736907,"Biryani, Mughlai, North Indian",10.0,50.00,3.5,69,37,30,Greensburg
+82,39.17314653,-85.10999179999999,"North Indian, Mughlai",15.0,50.00,3.3,0,0,30,Milan
+83,39.50901051,-85.82570309,"North Indian, Chinese",20.0,50.00,3.9,385,71,30,Shelbyville
+84,39.78082675,-85.55778348,"North Indian, Chinese",15.0,99.00,2.8,96,41,45,Knightstown
+86,39.24100187,-85.70933415,"Chinese, Pizza, Fast Food",15.0,50.00,3.7,55,20,30,Hope
+87,39.66478804,-85.27301244,North Indian,20.0,50.00,3.3,9,5,30,Connersville
+88,39.57761635,-85.73713378,"Biryani, Hyderabadi, North Indian, Mughlai",10.0,50.00,2.6,0,0,30,Shelbyville
+89,39.8290004,-85.93120517,South Indian,5.0,50.00,3.5,12,2,30,Cumberland
+90,39.37638564,-85.6029476,"Momos, Fast Food",15.0,50.00,3.5,85,40,30,Saint Paul
+92,39.76194520000001,-85.57936126,"South Indian, North Indian",10.0,50.00,3.7,27,5,30,Knightstown
+94,39.18524521,-85.17021406,"Fast Food, Ice Cream, Beverages",20.0,50.00,3.8,107,47,30,Milan
+95,39.64833524,-85.62629733,Fast Food,10.0,50.00,3.3,13,4,30,Morristown
+96,39.68103152,-85.96604888,Fast Food,20.0,50.00,3.3,25,16,30,New Palestine
+97,39.42686417,-85.48908376,Chinese,10.0,50.00,3.5,24,1,30,Greensburg
+98,39.73842325,-85.88475452,"Burger, Fast Food",10.0,50.00,0,0,0,30,New Palestine
+99,39.00550966,-85.03997818,Mughlai,15.0,50.00,2.8,7,3,30,Dillsboro
+100,39.85621377,-85.79863499,Chinese,30.0,99.00,2.9,393,191,65,Greenfield
+101,39.91420209,-85.35087349999999,"North Indian, Rolls, Chinese",20.0,50.00,3.9,348,105,30,New Castle
+102,39.95387767,-85.02931789,"Andhra, Biryani",20.0,50.00,3.4,15,7,30,Lynn
+103,39.4404387,-85.24962077,Street Food,10.0,50.00,4.1,260,100,65,Batesville
+104,39.839910100000004,-85.27466544,"Burger, Fast Food",20.0,50.00,3.9,326,106,30,Cambridge City
+105,39.93249086,-85.99246381,Street Food,10.0,50.00,3.5,18,8,30,Fishers
+107,39.62526568,-85.69871441,"North Indian, Lucknowi",20.0,50.00,2.8,150,89,45,Morristown
+108,39.57945615,-85.281867,"Fast Food, Beverages",15.0,50.00,3.7,35,21,30,Connersville
+109,39.53340855,-85.82740285,North Indian,10.0,50.00,3.0,7,1,30,Shelbyville
+110,39.55404852,-85.70631456,North Indian,20.0,50.00,3.3,28,9,30,Shelbyville
+111,39.29004322,-85.26581427,Pizza,20.0,50.00,3.5,87,37,45,Batesville
+112,39.23931591,-85.24280484,"Chinese, Fast Food",15.0,50.00,3.5,187,65,30,Batesville
+113,39.90441069,-85.99210118,"Desserts, Ice Cream",10.0,50.00,2.6,28,13,30,Fishers
+114,39.01373357,-85.70063756,"North Indian, Chinese, Street Food",15.0,50.00,2.8,0,0,30,Country Squire Lakes
+115,39.88801779,-85.18924812,Fast Food,15.0,50.00,3.0,4,0,30,Hagerstown
+116,39.22084771,-85.03278242,"North Indian, Fast Food",30.0,50.00,3.5,15,7,30,Sunman
+117,39.42858533,-85.20761253,"Beverages, Cafe, Sandwich, Fast Food, Desserts",25.0,50.00,3.8,118,69,45,Batesville
+119,39.65036419,-85.70901558,North Indian,15.0,50.00,0,0,0,30,Morristown
+120,39.34868386,-85.16214663,"Street Food, Beverages",10.0,50.00,0,0,0,30,Batesville
+121,39.91827901,-85.98922282,Bakery,20.0,50.00,3.1,12,2,30,Fishers
+122,39.74895142,-85.70729255,North Indian,30.0,50.00,4.2,0,0,45,Greenfield
+123,39.5435464,-85.18679656,"German, Italian, Cafe",45.0,50.00,4.3,4691,2547,45,Connersville
+124,39.14950349,-85.25127309999999,"North Indian, South Indian, Chinese, Arabian",35.0,50.00,3.1,89,10,30,Osgood
+125,39.78850907,-85.5055908,North Indian,10.0,50.00,3.9,70,9,30,Knightstown
+126,39.6543456,-85.72041391,"North Indian, Mughlai",15.0,50.00,3.1,9,2,30,Morristown
+127,39.69471185,-85.99475034,Mithai,5.0,50.00,2.8,11,2,30,Cumberland
+128,39.24297904,-85.30919376,"Burger, Fast Food",20.0,50.00,3.8,349,159,45,Batesville
+129,39.82756806,-85.30530302,"Finger Food, North Indian",30.0,50.00,3.0,6,1,30,New Castle
+130,39.39617399,-85.27029783,"North Indian, Chinese",25.0,99.00,4.5,143,110,65,Batesville
+131,39.33356397,-85.18352137,Bakery,15.0,50.00,3.2,7,3,30,Batesville
+132,39.20001943,-85.18549405,"Fast Food, Beverages",10.0,50.00,0,0,0,30,Milan
+133,39.50670932,-85.24685413,"North Indian, South Indian, Fast Food, Beverages",15.0,50.00,3.6,81,42,30,Connersville
+134,39.02706528,-85.46473359999999,Street Food,5.0,50.00,3.7,63,36,45,North Vernon
+135,39.76457091,-85.94239909,"Sandwich, Chinese, North Indian, Pizza, Rolls, Fast Food, Desserts, Beverages",20.0,50.00,3.4,417,181,45,Cumberland
+136,39.84686053,-85.16093401,"Street Food, Fast Food",15.0,50.00,3.4,20,16,30,Cambridge City
+137,39.74758059,-85.05253846,Chinese,15.0,50.00,4.2,124,109,30,Centerville
+138,39.10847827,-85.20806781,"Fast Food, Street Food, Momos",10.0,50.00,3.3,12,1,30,Versailles
+139,39.26540035,-85.48216432,"North Indian, Fast Food",20.0,50.00,2.9,47,10,45,Greensburg
+140,39.42232062,-85.30285583,"Street Food, Fast Food",10.0,50.00,4.0,242,179,65,Batesville
+141,39.86541915,-85.21974523,"Italian, Beverages",30.0,50.00,3.5,12,5,30,Cambridge City
+142,39.17656867,-85.11412483,Mughlai,15.0,50.00,3.4,9,2,30,Milan
+143,39.29635295,-85.77463462,Fast Food,10.0,50.00,0,0,0,30,Hope
+144,39.33842589,-85.05245608,"Biryani, North Indian, Mughlai, Kebab, Rolls",25.0,99.00,4.7,706,490,30,Brookville
+145,39.73504772,-85.63514556,South Indian,5.0,50.00,4.0,109,28,30,Morristown
+146,39.17786602,-85.93043892,Desserts,15.0,50.00,4.4,584,343,45,Columbus
+147,39.46381376,-85.84282636,"Fast Food, Rolls, Beverages",15.0,50.00,3.6,37,16,30,Shelbyville
+148,39.44419204,-85.84200597,"Street Food, Fast Food",15.0,50.00,4.3,253,118,30,Shelbyville
+149,39.59856885,-85.22711007,"North Indian, Chinese",15.0,50.00,3.4,123,37,30,Connersville
+150,39.11130285,-85.67338662,"Chettinad, North Indian, Seafood",20.0,50.00,4.1,1665,690,30,Country Squire Lakes
+151,39.66011329,-85.04340273,"Ice Cream, Fast Food",15.0,50.00,3.3,9,3,30,Connersville
+152,39.69399226,-85.73634293,"Pizza, Burger, Fast Food, Desserts",20.0,50.00,3.9,191,72,45,Morristown
+153,39.00180264,-85.75861338,"Biryani, Mughlai",10.0,50.00,0,0,0,30,Country Squire Lakes
+154,39.2486385,-85.86583989,"Chinese, South Indian, North Indian",25.0,50.00,3.0,4,2,30,Columbus
+155,39.38267148,-85.10729284,South Indian,15.0,50.00,3.5,40,6,30,Brookville
+156,39.41714904,-85.01070388,"North Indian, Street Food, Desserts",15.0,50.00,4.0,696,296,45,Brookville
+157,39.51315953,-85.43814981,"Bakery, Desserts",15.0,50.00,3.8,72,33,45,Rushville
+158,39.74187426,-85.97823426,"Chinese, Fast Food, North Indian, Momos",20.0,99.00,4.0,334,164,45,Cumberland
+160,39.28008133,-85.06996606,"North Indian, Mughlai, Momos",25.0,50.00,3.8,173,29,45,Sunman
+161,39.62323954,-85.73190646,Juices,10.0,50.00,3.1,5,2,30,Morristown
+162,39.05755093,-85.48767512,"Desserts, Beverages",20.0,50.00,4.1,62,50,30,North Vernon
+163,39.95728594,-85.78271623,"Chinese, North Indian",10.0,50.00,3.8,85,27,30,Ingalls
+164,39.57045542,-85.99243282,"Sandwich, Italian, Desserts",25.0,50.00,3.8,224,129,45,Whiteland
+165,39.18302594,-85.48377028,Mughlai,20.0,50.00,0,0,0,30,Westport
+166,39.5415937,-85.90436351,North Indian,10.0,50.00,0,0,0,30,Shelbyville
+167,39.60256378,-85.44360947,"Cafe, Italian",60.0,50.00,4.2,2653,1581,65,Rushville
+168,39.50980278,-85.81317119,"North Indian, Chinese",15.0,50.00,0,0,0,30,Shelbyville
+169,39.38242655,-85.49986405,"North Indian, Chinese, Rolls",15.0,50.00,4.8,326,234,30,Greensburg
+170,39.03108594,-85.91333604,"Bengali, Fast Food",30.0,50.00,3.5,90,45,45,Seymour
+171,39.80854209,-85.56866417,"North Indian, Street Food",20.0,50.00,3.9,175,59,45,Knightstown
+172,39.68350135,-85.56374304,North Indian,15.0,50.00,3.1,4,0,30,Knightstown
+173,39.24208924,-85.37933894,"Ice Cream, Desserts",20.0,50.00,4.1,0,0,30,Greensburg
+174,39.961127399999995,-85.39974215,Mithai,10.0,50.00,3.3,15,7,30,New Castle
+175,39.24472701,-85.74167043,"Parsi, Bakery",20.0,50.00,4.0,4335,2363,30,Hope
+176,39.19960225,-85.39468573,"Japanese, Sushi",40.0,50.00,3.6,163,72,45,Osgood
+177,39.40821447,-85.2306036,"North Indian, Chinese",55.0,50.00,3.4,53,24,30,Batesville
+178,39.09530132,-85.28355119,"Beverages, Desserts, Ice Cream",15.0,50.00,2.9,6,2,45,Osgood
+179,39.85550184,-85.1841455,Rolls,5.0,50.00,3.1,6,2,30,Cambridge City
+180,39.59319619,-85.58713284,"North Indian, South Indian, Chinese, Fast Food",35.0,50.00,3.0,19,5,45,Morristown
+181,39.37885729,-85.1632968,"North Indian, Chinese",15.0,99.00,3.9,216,115,45,Batesville
+182,39.95669365,-85.99287673,"North Indian, Chinese",20.0,50.00,3.7,45,12,45,Fishers
+183,39.6172414,-85.87857241,"North Indian, Chinese",20.0,50.00,3.8,302,138,45,New Palestine
+184,39.96086584,-85.85826794,North Indian,15.0,50.00,2.8,16,8,45,Fortville
+185,39.44554131,-85.0539755,"Fast Food, Chinese",20.0,50.00,3.1,76,36,45,Brookville
+186,39.25691399,-85.77568989,Street Food,10.0,50.00,3.1,4,1,30,Hope
+188,39.12204924,-85.74231609,South Indian,15.0,50.00,3.6,87,45,45,Country Squire Lakes
+189,39.75808644,-85.0256734,Cafe,20.0,50.00,3.3,9,1,30,Centerville
+190,39.40960094,-85.79575013,"Chinese, Fast Food",10.0,50.00,3.2,12,7,30,Geneva
+191,39.2781527,-85.51213762,"Chinese, Fast Food, North Indian, Mughlai",30.0,50.00,3.4,298,175,65,Greensburg
+192,39.73447419,-85.6676522,Desserts,15.0,50.00,3.6,18,3,45,Morristown
+193,39.83404267,-85.96384913,"Fast Food, Street Food, Beverages",15.0,50.00,3.7,77,39,45,Cumberland
+194,39.55576058,-85.03469752,"Fast Food, American",15.0,50.00,3.5,101,53,45,Liberty
+195,39.97414069,-85.13041294,"Fast Food, Mughlai",10.0,50.00,3.9,116,66,45,Hagerstown
+196,39.32309293,-85.5555206,"Fast Food, Biryani, Beverages",20.0,50.00,0,0,0,30,Greensburg
+197,39.16900616,-85.23023738,"Italian, Pizza, Salad, Healthy Food, Mexican, Cafe, Desserts, Continental",65.0,50.00,4.4,3248,1603,45,Osgood
+198,39.49687086,-85.10108978,"Chinese, North Indian",20.0,50.00,3.6,125,29,30,Brookville
+199,39.69136984,-85.98165258,"Pizza, Beverages",35.0,50.00,3.3,11,6,30,Cumberland
+200,39.76189105,-85.80440431,"Beverages, Juices, Fast Food",10.0,50.00,3.6,31,15,30,Greenfield
+201,39.93338583,-85.61524275,North Indian,15.0,50.00,3.0,4,1,30,Pendleton
+202,39.37153329,-85.49585042,"Chinese, North Indian",15.0,50.00,3.1,192,50,45,Greensburg
+203,39.88892074,-85.18747675,"Cafe, Continental, Italian",40.0,50.00,4.2,2828,1443,45,Hagerstown
+204,39.69826678,-85.71493875,"Bakery, Desserts",15.0,50.00,3.2,6,4,30,Morristown
+205,39.1756346,-85.83250275,"Japanese, Sushi, Asian",80.0,50.00,4.2,721,390,45,Columbus
+206,39.50584154,-85.64310772,"North Indian, Mughlai",15.0,50.00,3.3,4,2,30,Saint Paul
+207,39.66594512,-85.18535852,"North Indian, Mughlai",20.0,50.00,3.7,66,42,30,Connersville
+208,39.46234282,-85.76016409,"Chinese, Fast Food, Momos",15.0,50.00,0,0,0,30,Shelbyville
+209,39.25713091,-85.48716084,"North Indian, South Indian, Chinese, Bengali, Odia, Biryani, Beverages",15.0,50.00,3.5,45,29,45,Greensburg
+211,39.80036552,-85.47746046,South Indian,15.0,50.00,3.9,219,108,30,Knightstown
+212,39.4179752,-85.19872789,"Salad, Beverages, Healthy Food, Desserts",20.0,50.00,3.5,36,24,65,Batesville
+213,39.2000858,-85.57600617,"Ice Cream, Cafe, Pizza, Burger, Beverages",20.0,50.00,4.5,2805,1457,45,Westport
+214,39.38987618,-85.25071566,"Asian, Biryani, North Indian, Desserts",20.0,50.00,4.1,37,30,45,Batesville
+215,39.13506409,-85.52749596,"Continental, Burger, Wraps, Beverages",15.0,50.00,4.0,34,27,30,Westport
+218,39.13778347,-85.64076778,Chinese,10.0,50.00,0,0,0,30,Westport
+219,39.15072708,-85.97615301,"Mithai, Street Food, Chinese",15.0,50.00,3.3,35,16,65,Columbus
+221,39.655727399999996,-85.61685088,"North Indian, Chinese",25.0,50.00,2.8,27,11,30,Morristown
+222,39.30274588,-85.22881832,"Tamil, Biryani, South Indian, Chettinad, North Indian, Chinese",25.0,50.00,3.9,163,112,30,Batesville
+223,39.55651432,-85.25544435,"South Indian, North Indian, Fast Food",20.0,50.00,3.7,182,107,45,Connersville
+225,39.22516297,-85.95871471,"Chinese, Cantonese",100.0,50.00,4.7,441,259,30,Lowell
+226,39.03212772,-85.37542576,"North Eastern, Momos, Fast Food, Beverages, Tibetan",10.0,50.00,2.9,0,0,30,Osgood
+227,39.71585139,-85.67012084,"Fast Food, Chinese",15.0,50.00,3.5,26,6,30,Morristown
+228,39.66336762,-85.23633025,Street Food,10.0,50.00,0,0,0,30,Connersville
+229,39.37752057,-85.67963759999999,"Maharashtrian, South Indian, Chinese",15.0,50.00,3.3,12,7,30,Geneva
+230,39.76045015,-85.43283885,Bakery,5.0,50.00,3.2,11,1,30,Knightstown
+231,39.79990658,-85.36537419,Mithai,10.0,99.00,3.9,60,15,45,New Castle
+232,39.83027348,-85.17769982,"North Indian, South Indian, Fast Food",10.0,50.00,0,0,0,30,Cambridge City
+233,39.97208006,-85.59388866,"Biryani, Mughlai",10.0,50.00,3.6,353,53,30,Middletown
+234,39.43350401,-85.35182426,"Chinese, North Indian",10.0,50.00,0,0,0,30,Greensburg
+235,39.00676544,-85.44521732,"North Indian, Rolls",10.0,50.00,3.6,27,12,30,North Vernon
+236,39.44003752,-85.30156625,"Pizza, Fast Food",15.0,50.00,3.7,43,9,30,Batesville
+237,39.72516092,-85.79834239,Bengali,15.0,50.00,0,0,0,30,Greenfield
+238,39.054129499999995,-85.61080468,Fast Food,10.0,50.00,3.3,10,4,30,North Vernon
+239,39.72568009,-85.56576247,"Chinese, Thai",20.0,50.00,3.5,13,9,30,Knightstown
+240,39.49133839,-85.08672131,"North Indian, Chinese, Mughlai",30.0,50.00,3.4,47,25,30,Brookville
+241,39.45146393,-85.54563707,"North Indian, Fast Food",10.0,50.00,3.3,10,0,30,Saint Paul
+242,39.36411384,-85.95979724,"Mithai, Street Food",15.0,50.00,3.4,13,1,30,Edinburgh
+243,39.80772224,-85.06620497,"Tibetan, Chinese, Momos",25.0,50.00,4.2,633,269,45,Centerville
+244,39.42654039,-85.65616257,"Fast Food, Burger",15.0,50.00,3.5,23,6,30,Saint Paul
+245,39.77788859,-85.55905528,"Street Food, Fast Food, Beverages",15.0,50.00,3.4,13,10,45,Knightstown
+246,39.98479257,-85.45500416,Bakery,30.0,50.00,3.8,77,52,30,New Castle
+247,39.57368515,-85.96901208,"North Indian, Chinese",30.0,50.00,0,0,0,30,Whiteland
+249,39.42730019,-85.48654647,"Cafe, Desserts",30.0,50.00,3.6,54,34,30,Greensburg
+250,39.199033,-85.45164903,"Cafe, Fast Food",20.0,50.00,0,0,0,30,Westport
+251,39.8943061,-85.06488272,"Andhra, Hyderabadi, Biryani, South Indian, North Indian, Rolls, Mughlai",20.0,50.00,3.7,112,41,30,Hagerstown
+253,39.53644927,-85.74856886,"North Indian, Chinese",15.0,50.00,0,0,0,30,Shelbyville
+254,39.48853199,-85.83505663,"North Indian, Chinese, Mughlai",25.0,50.00,3.6,76,38,30,Shelbyville
+256,39.14422024,-85.39256245,"North Indian, Chinese",20.0,50.00,0,0,0,65,Osgood
+257,39.30066639,-85.98493865,"Italian, Fast Food",20.0,50.00,3.7,101,29,45,Edinburgh
+258,39.59094786,-85.71158244,North Indian,15.0,50.00,4.1,144,33,30,Morristown
+259,39.69496741,-85.94624143,North Indian,10.0,50.00,3.5,49,7,30,New Palestine
+260,39.47932741,-85.97100748,"Desserts, Bakery",15.0,50.00,3.5,20,16,30,Franklin
+261,39.41700395,-85.14852065,"Fast Food, Sandwich",10.0,50.00,3.0,4,1,30,Brookville
+262,39.18820669,-85.66876661,"Italian, Lebanese, North Indian",15.0,50.00,3.2,15,7,30,Westport
+263,39.33500305,-85.15778878,"North Indian, Mughlai, Beverages",15.0,50.00,0,0,0,30,Batesville
+264,39.81481863,-85.30611169,"North Eastern, Momos, Fast Food, Beverages, Tibetan",10.0,50.00,2.9,0,0,30,New Castle
+265,39.85851875,-85.32829146,"Chinese, Mughlai, North Indian, Seafood, Biryani",20.0,50.00,3.8,426,196,45,New Castle
+266,39.99853621,-85.23294933,Ice Cream,10.0,50.00,4.0,61,40,30,Hagerstown
+267,39.29149882,-85.57633818,"Cafe, Spanish, Italian, Mexican, Salad, Juices",25.0,50.00,4.1,1307,794,45,Greensburg
+268,39.228725,-85.14755236,Salad,15.0,50.00,3.7,26,10,30,Sunman
+269,39.32222282,-85.23504733,"Chinese, North Indian, Mughlai",25.0,50.00,3.1,9,1,30,Batesville
+270,39.65543407,-85.53185527,"North Indian, South Indian",20.0,99.00,3.2,7,2,65,Rushville
+271,39.63530201,-85.07667939,"South Indian, Fast Food",10.0,50.00,0,0,0,30,Connersville
+272,39.43883198,-85.34951142,"Chinese, Sushi, Asian, Thai",65.0,50.00,4.4,925,589,30,Greensburg
+273,39.89207084,-85.65340736,"South Indian, North Indian, Chinese",15.0,50.00,3.3,24,8,30,Pendleton
+274,39.78803292,-85.65571757,"North Indian, Rolls, Lebanese",25.0,50.00,3.4,40,7,45,Greenfield
+275,39.79211376,-85.63726724,South Indian,10.0,50.00,3.6,33,8,30,Knightstown
+276,39.47538445,-85.16476607,Maharashtrian,10.0,0.00,3.3,12,1,30,Brookville
+277,39.07375864,-85.20642875,"North Indian, Chinese",30.0,0.00,3.6,102,48,45,Versailles
+278,39.19748469,-85.52119473,"Chinese, North Indian",15.0,50.00,3.7,53,18,30,Westport
+279,39.18538153,-85.89000925,"North Indian, South Indian, Chinese",20.0,50.00,3.4,47,6,65,Columbus
+280,39.71396508,-85.40157626,"Continental, Pizza, Italian",25.0,50.00,3.9,297,145,45,Rushville
+281,39.94290669,-85.58778419,"Parsi, Bakery",20.0,50.00,4.0,4335,2363,30,Middletown
+282,39.75914439,-85.5715014,"North Indian, Chinese, Fast Food",60.0,50.00,3.9,750,536,30,Knightstown
+283,39.37831014,-85.47400096,Beverages,10.0,50.00,3.6,11,4,45,Greensburg
+284,39.04246634,-85.36326358,Fast Food,10.0,50.00,3.8,110,53,30,Osgood
+285,39.38745728,-85.9230575,"Fast Food, Pizza, North Indian, Momos",20.0,50.00,4.1,479,247,45,Edinburgh
+286,39.28978639,-85.91211278,North Indian,10.0,50.00,3.3,15,1,30,Lowell
+287,39.22160845,-85.03011555,North Indian,20.0,50.00,2.4,19,11,30,Sunman
+288,39.32816012,-85.06343494,"Bakery, Desserts, Mithai",20.0,50.00,0,0,0,30,Sunman
+289,39.96859931,-85.7242696,Fast Food,15.0,50.00,3.8,112,37,45,Pendleton
+290,39.00170366,-85.33781519,"Mughlai, North Indian, Kebab, Rolls",35.0,50.00,3.6,67,11,30,Versailles
+291,39.66209527,-85.70482318,"North Indian, Chinese",35.0,50.00,3.6,34,18,30,Morristown
+292,39.39997902,-85.01912514,South Indian,5.0,50.00,3.1,98,10,30,Brookville
+293,39.68666935,-85.09517897,North Indian,10.0,50.00,4.2,236,72,45,Connersville
+294,39.45951884,-85.21495581,"Street Food, Fast Food, North Indian",15.0,50.00,2.9,8,5,45,Batesville
+295,39.95076802,-85.06098522,"Bakery, Desserts, Fast Food",20.0,50.00,3.5,32,10,30,Hagerstown
+296,39.25445751,-85.45180140000001,"North Indian, South Indian",20.0,50.00,2.9,4,3,30,Greensburg
+297,39.87506513,-85.98275154,"North Indian, Continental, Chinese, Juices",10.0,50.00,3.4,25,20,30,Lawrence
+298,39.21409683,-85.74466086,"Pizza, Fast Food",20.0,0.00,3.6,277,89,30,Hope
+299,39.25114194,-85.6854691,North Indian,25.0,50.00,3.1,5,0,30,Hope
+300,39.73728616,-85.02648112,Chinese,20.0,50.00,3.4,25,17,30,Centerville
+301,39.6175831,-85.31073351,"North Indian, Chinese, South Indian, Fast Food",20.0,50.00,2.6,123,49,45,Rushville
+303,39.35218735,-85.31889385,"Arabian, North Indian, Biryani, Chinese, Seafood",35.0,50.00,2.9,839,245,45,Batesville
+304,39.17640413,-85.44935425,South Indian,10.0,50.00,3.5,237,2,45,Westport
+305,39.78508728,-85.78103744,Desserts,10.0,50.00,0,0,0,30,Greenfield
+306,39.83607267,-85.57148741,"North Indian, Chinese",10.0,50.00,3.4,29,23,65,Knightstown
+307,39.07233327,-85.12281103,"Burger, Fast Food",15.0,50.00,3.6,374,87,45,Milan
+308,39.71061379,-85.83734799,"Fast Food, Pizza",20.0,50.00,3.3,32,3,45,New Palestine
+309,39.29318641,-85.41979887,North Indian,10.0,50.00,0,0,0,30,Greensburg
+310,39.33913999,-85.71826807,"North Indian, Chinese, Seafood",50.0,99.00,3.1,46,32,30,Geneva
+311,39.79836949,-85.21400447,"South Indian, Chinese",10.0,50.00,2.9,43,15,30,Cambridge City
+312,39.38982249,-85.10113981,"North Indian, Sandwich, Desserts, Beverages, Continental, Chinese, Biryani, Mughlai",20.0,50.00,3.9,59,31,30,Brookville
+313,39.66957622,-85.06094316,"Beverages, Desserts, Ice Cream",20.0,99.00,3.7,246,83,30,Connersville
+314,39.34153496,-85.77153626,"Mughlai, North Indian",15.0,50.00,3.6,36,12,30,Hope
+315,39.47897098,-85.41623320000001,"North Indian, Mughlai, Chinese",20.0,50.00,3.6,87,28,65,Rushville
+316,39.2561611,-85.94916236,"Chinese, North Indian",25.0,99.00,0,0,0,45,Lowell
+317,39.18399311,-85.65205697,"South Indian, Chinese",10.0,50.00,4.0,62,32,30,Westport
+318,39.39723797,-85.65190984,"South Indian, North Indian, Chinese, Biryani",30.0,50.00,4.0,201,54,45,Saint Paul
+319,39.51701188,-85.20988733,Sandwich,10.0,50.00,3.5,44,4,45,Connersville
+320,39.28776591,-85.81400006,"Biryani, Fast Food",10.0,50.00,3.4,15,4,30,Hope
+321,39.70914775,-85.51966766,"North Indian, Chinese",20.0,50.00,3.0,129,42,65,Knightstown
+322,39.52678408,-85.35134026,"North Indian, Mughlai",20.0,99.00,3.2,37,7,65,Rushville
+323,39.86450363,-85.7229686,"Continental, Pizza, Italian",25.0,50.00,3.9,297,145,45,Greenfield
+324,39.63033962,-85.63975763,Fast Food,15.0,50.00,0,0,0,30,Morristown
+325,39.12616786,-85.10833361,"Fast Food, Healthy Food",25.0,50.00,4.7,707,453,30,Milan
+326,39.48912429,-85.68533609999999,"Fast Food, Chinese",10.0,50.00,3.7,62,22,30,Saint Paul
+328,39.65618287,-85.61719979,North Indian,15.0,50.00,0,0,0,30,Morristown
+329,39.57072539,-85.76075104,"Cafe, Tea, Street Food",20.0,50.00,4.3,534,318,30,Shelbyville
+330,39.27303711,-85.08503007,"Chinese, Thai",20.0,99.00,4.1,258,99,45,Sunman
+331,39.87560206,-85.17171317,Fast Food,10.0,50.00,0,0,0,30,Hagerstown
+332,39.99126616,-85.66068657,Juices,5.0,50.00,3.2,5,2,30,Pendleton
+333,39.04901858,-85.49079864,"Biryani, North Indian, Chinese, Andhra, South Indian",30.0,50.00,4.3,313,205,30,North Vernon
+334,39.81304992,-85.42187479,"Pizza, Fast Food",30.0,50.00,3.7,530,165,45,Knightstown
+335,39.09298213,-85.6731666,"Bar Food, North Indian, Italian, Continental",55.0,50.00,4.3,3394,1845,30,Country Squire Lakes
+336,39.28661169,-85.72551931,"North Indian, Chinese, Italian, Finger Food, American",80.0,99.00,4.4,1102,766,30,Hope
+337,39.04746565,-85.7277536,North Indian,10.0,50.00,2.9,37,16,30,Country Squire Lakes
+338,39.43627222,-85.20085538,"Biryani, Mughlai, North Indian, Chinese",20.0,50.00,3.1,25,9,30,Batesville
+339,39.56771598,-85.55134528,"Fast Food, Biryani, North Indian",20.0,50.00,0,0,0,30,Rushville
+340,39.22202222,-85.54977349,"North Indian, Chinese, Thai, European, Italian",65.0,50.00,3.6,186,114,30,Westport
+341,39.71963649,-85.88667315,"Konkan, Maharashtrian",15.0,50.00,3.0,6,3,30,New Palestine
+342,39.44914852,-85.03035907,"Cafe, Beverages, Fast Food, Desserts",25.0,50.00,3.5,158,44,65,Brookville
+343,39.02757128,-85.03500852,Cafe,10.0,50.00,0,0,0,30,Dillsboro
+344,39.64177255,-85.18178309,"Odia, Bengali, Salad, North Indian",10.0,50.00,3.8,51,34,30,Connersville
+346,39.31640782,-85.19722667,South Indian,10.0,99.00,3.5,150,15,45,Batesville
+347,39.47720883,-85.54306609,"Cafe, Beverages, Bakery",20.0,50.00,3.7,126,51,30,Saint Paul
+348,39.87018932,-85.9886582,"Italian, Pizza, Burger",20.0,50.00,3.8,78,44,30,Lawrence
+349,39.28216925,-85.57156245,"Bakery, Desserts, Ice Cream",15.0,50.00,3.9,76,22,45,Greensburg
+350,39.66493632,-85.55721477,"North Indian, Chinese",15.0,50.00,3.3,16,10,65,Rushville
+352,39.55911053,-85.67472657,"North Indian, Fast Food",20.0,50.00,3.7,575,104,45,Shelbyville
+353,39.69857379,-85.1704183,Desserts,15.0,50.00,4.2,192,110,30,Connersville
+354,39.49824866,-85.50909696,"North Indian, Chinese, Fast Food",20.0,50.00,3.5,29,17,30,Rushville
+355,39.72214462,-85.3587474,"Desserts, Beverages",10.0,50.00,4.0,157,83,30,Rushville
+356,39.86792216,-85.76785474,"Ice Cream, Desserts",20.0,50.00,4.0,160,83,30,Greenfield
+357,39.97988437,-85.25419372,"Fast Food, North Eastern, Momos",10.0,50.00,2.7,6,5,30,Hagerstown
+358,39.73752476,-85.01057713,Pizza,15.0,50.00,3.5,4,1,30,Centerville
+359,39.28173315,-85.21716048,"North Indian, Chinese",30.0,50.00,3.3,69,26,30,Batesville
+360,39.82742102,-85.92881106,Rolls,10.0,50.00,3.4,14,8,45,Cumberland
+361,39.82921889,-85.85559494,"North Indian, Mughlai",15.0,50.00,2.8,0,0,30,Greenfield
+362,39.64936625,-85.88453351,Tibetan,10.0,50.00,4.0,126,53,30,New Palestine
+363,39.49941461,-85.1990849,"North Indian, Chinese",30.0,50.00,4.3,1141,478,30,Connersville
+364,39.02206693,-85.73066999,Fast Food,10.0,99.00,3.3,12,1,30,Country Squire Lakes
+365,39.4805224,-85.37040979,"North Indian, Fast Food",10.0,50.00,2.7,22,4,45,Rushville
+366,39.77296983,-85.0654033,"Fast Food, Sandwich",15.0,50.00,4.0,107,32,30,Centerville
+367,39.44796947,-85.03570176,Beverages,10.0,50.00,4.1,139,70,30,Brookville
+368,39.61511237,-85.07848128,Fast Food,10.0,50.00,0,0,0,30,Connersville
+370,39.29544370000001,-85.03671897,Ice Cream,10.0,50.00,0,0,0,30,Sunman
+371,39.44181699,-85.75174607,North Indian,10.0,50.00,3.5,22,13,30,Geneva
+372,39.74651746,-85.05831585,"Biryani, North Indian",20.0,50.00,3.8,58,45,20,Centerville
+373,39.32572191,-85.72901913,"Biryani, Kebab",10.0,50.00,3.7,14,3,30,Hope
+374,39.66719993,-85.25229685,"Street Food, North Indian, Mithai",20.0,50.00,4.1,113,41,30,Connersville
+375,39.21515301,-85.56410295,"Pizza, Italian, Beverages",40.0,50.00,4.5,366,232,45,Westport
+376,39.52941274,-85.01017321,"Beverages, Desserts, Juices",10.0,50.00,4.1,237,95,45,Brookville
+377,39.22352652,-85.68200833,"North Indian, Continental, Asian, Pizza",50.0,50.00,4.1,643,435,65,Westport
+378,39.68752343,-85.72449055,North Indian,20.0,99.00,3.4,37,14,30,Morristown
+379,39.68017134,-85.09836428,"Juices, Beverages",5.0,50.00,3.4,9,1,30,Connersville
+381,39.01897834,-85.7398484,South Indian,10.0,50.00,2.8,6,2,30,Country Squire Lakes
+382,39.57522387,-85.12147779,"Continental, Desserts, Beverages, Sandwich",20.0,50.00,3.2,19,10,30,Connersville
+383,39.85114564,-85.14987997,"North Indian, Chinese",40.0,50.00,3.4,76,40,65,Cambridge City
+384,39.04947154,-85.45540042,"Desserts, Ice Cream",20.0,50.00,4.0,65,39,30,Westport
+385,39.73446475,-85.64148567,"Salad, European, Steak, Healthy Food, Beverages, Finger Food",55.0,50.00,4.2,1319,659,45,Morristown
+386,39.4033025,-85.16559239,"Ice Cream, Paan, Desserts",15.0,50.00,3.9,50,26,30,Batesville
+387,39.8018401,-85.88402487,"North Indian, Chinese",25.0,50.00,3.5,179,53,45,Cumberland
+388,39.77772348,-85.718537,"North Indian, South Indian",15.0,50.00,0,0,0,30,Greenfield
+389,39.04284326,-85.08622207,Desserts,15.0,50.00,3.7,0,0,30,Dillsboro
+390,39.07329144,-85.3849616,"Chinese, Biryani",15.0,50.00,0,0,0,30,Osgood
+391,39.45362531,-85.44007376,"Cafe, Chinese, Italian",30.0,99.00,4.1,803,554,45,Greensburg
+392,39.05182192,-85.09272427,"Fast Food, Sandwich",10.0,50.00,3.8,26,6,45,Dillsboro
+393,39.49317728,-85.55726855,"Wraps, Fast Food",15.0,50.00,0,0,0,30,Saint Paul
+394,39.22728852,-85.5414426,"Lebanese, North Indian, Mediterranean, Biryani, Rolls, Fast Food",20.0,50.00,3.6,785,399,45,Westport
+395,39.59609849,-85.13215206,"Street Food, Desserts",10.0,50.00,0,0,0,30,Connersville
+396,39.16015723,-85.55411813,"Continental, Italian, North Indian, Chinese",20.0,50.00,3.8,286,77,30,Westport
+397,39.96699195,-85.72139262,"Continental, North Indian, Mughlai, Chinese, Italian",30.0,50.00,4.0,267,165,30,Pendleton
+399,39.5501073,-85.42636579,"American, Fast Food",20.0,50.00,3.8,80,27,30,Rushville
+400,39.9637102,-85.55116852,Chinese,15.0,50.00,3.1,4,0,30,Middletown
+401,39.51442335,-85.77487629999999,"North Indian, South Indian, Chinese",20.0,50.00,3.4,27,10,30,Shelbyville
+402,39.83568879,-85.87036944,"Fast Food, Beverages",10.0,50.00,0,0,0,30,McCordsville
+403,39.40952448,-85.13526278,Fast Food,15.0,50.00,0,0,0,30,Brookville
+404,39.68745139,-85.45371294,"Mediterranean, European, Continental",40.0,50.00,4.3,124,88,30,Rushville
+405,39.13094532,-85.31770756,"North Indian, Chinese",20.0,50.00,3.4,17,4,45,Osgood
+406,39.75454947,-85.3204186,"Chinese, Mughlai",25.0,50.00,0,0,0,30,Cambridge City
+408,39.79974658,-85.25667241,Bakery,15.0,50.00,3.7,21,20,30,Cambridge City
+409,39.12285967,-85.87525294,"Chinese, North Indian",20.0,50.00,3.5,110,35,45,Columbus
+410,39.97895143,-85.64720711,"Mughlai, North Indian, Chinese, Seafood",15.0,50.00,4.0,1210,503,45,Pendleton
+411,39.90084667,-85.70412959,"Chinese, North Indian",15.0,50.00,2.5,17,5,30,Pendleton
+412,39.37572895,-85.54640524,"Fast Food, Italian",20.0,50.00,3.4,16,4,30,Greensburg
+413,39.93322966,-85.56874865,"North Indian, Fast Food",20.0,50.00,0,0,0,30,Middletown
+414,39.03276488,-85.12886634,"Cafe, Beverages, Fast Food, Desserts",25.0,50.00,3.5,158,44,65,Dillsboro
+415,39.42646212,-85.91138028,North Indian,15.0,50.00,3.4,18,8,30,Edinburgh
+416,39.54679475,-85.59328793,Chinese,35.0,50.00,3.9,81,47,65,Saint Paul
+417,39.14955724,-85.56511285,Lebanese,10.0,50.00,0,0,0,30,Westport
+418,39.61875048,-85.20241934,"Biryani, Chinese, North Indian",15.0,50.00,3.3,93,13,65,Connersville
+419,39.82935125,-85.24935128,"Bohri, Biryani",25.0,50.00,3.7,96,55,30,Cambridge City
+420,39.27147929,-85.60525292,Bakery,15.0,99.00,0,0,0,45,Westport
+421,39.36675035,-85.23385987,"Rolls, North Indian, Chinese",20.0,50.00,0,0,0,30,Batesville
+422,39.86576254,-85.74516167,"South Indian, Beverages",10.0,50.00,3.3,1097,57,45,Greenfield
+423,39.29453816,-85.84907132,North Indian,15.0,50.00,3.6,16,4,65,Hope
+424,39.37059017,-85.96779154,"Bakery, Fast Food",20.0,50.00,3.7,101,44,120,Edinburgh
+425,39.92119541,-85.30704761,Bakery,15.0,50.00,3.7,79,12,30,New Castle
+426,39.94522397,-85.31642052,"Biryani, Mughlai",20.0,99.00,2.9,6,2,30,New Castle
+427,39.88105546,-85.92984764,"Continental, Beverages, Desserts, Fast Food",50.0,50.00,4.1,1552,855,30,McCordsville
+428,39.13311977,-85.25612530000001,"North Indian, Fast Food",15.0,50.00,3.8,154,71,45,Osgood
+429,39.23981822,-85.07811563,"North Indian, Bengali, Chinese, Odia",20.0,50.00,2.6,19,11,30,Sunman
+430,39.22289214,-85.68428127,"Juices, Beverages",10.0,50.00,3.2,9,2,45,Hope
+431,39.53035789,-85.47728175,"Fast Food, Beverages",5.0,50.00,0,0,0,30,Rushville
+432,39.51568573,-85.77314586,"North Indian, Kebab, Biryani",50.0,99.00,4.2,671,301,65,Shelbyville
+434,39.50842957,-85.97797143,Burger,15.0,50.00,3.4,40,17,30,Franklin
+437,39.00278669,-85.18899321,Bakery,10.0,50.00,0,0,0,30,Versailles
+438,39.42626848,-85.44322815,North Indian,10.0,50.00,3.3,20,11,30,Greensburg
+439,39.59460351,-85.39355248,"North Indian, South Indian, Chinese, Desserts",20.0,50.00,2.8,11,5,30,Rushville
+440,39.9428224,-85.84136003,"Pizza, Continental, Fast Food",20.0,50.00,3.3,22,10,30,Fortville
+442,39.76138884,-85.6568108,"Rolls, Lebanese",10.0,50.00,3.7,55,25,30,Morristown
+443,39.09908068,-85.66162347,"Cafe, Fast Food, Beverages",20.0,50.00,3.7,31,17,30,Country Squire Lakes
+444,39.03932628,-85.23422162,"Fast Food, Pizza",15.0,50.00,3.0,73,28,45,Versailles
+446,39.91571441,-85.84780694,North Indian,30.0,50.00,4.7,81,74,45,Fortville
+447,39.28820186,-85.81356728,"Beverages, Ice Cream",10.0,50.00,0,0,0,30,Hope
+448,39.28980582,-85.23831779999999,"North Indian, Afghan, Lebanese",20.0,50.00,3.3,17,4,30,Batesville
+449,39.55870194,-85.56901941,"Fast Food, Beverages",20.0,50.00,3.3,9,4,30,Rushville
+450,39.77017947,-85.88517071,"North Indian, Chinese, Mughlai",30.0,50.00,3.7,104,47,45,New Palestine
+451,39.11645132,-85.36356440000002,Fast Food,15.0,50.00,3.5,24,9,30,Osgood
+452,39.39043077,-85.63421423,"Beverages, Desserts, Ice Cream",20.0,50.00,4.0,53,42,20,Saint Paul
+453,39.0668056,-85.13472845,"South Indian, Chinese",10.0,50.00,3.4,9,1,30,Milan
+454,39.9780283,-85.01435482,"South Indian, Continental, Fast Food",30.0,99.00,3.9,232,105,65,Lynn
+455,39.54908961,-85.95345859999999,"North Indian, Asian, Biryani, Chinese",40.0,50.00,4.0,648,305,30,Franklin
+457,39.10195326,-85.46425101,"Fast Food, Tea, Beverages",10.0,50.00,4.1,124,48,45,Westport
+458,39.29739368,-85.57641099,"Fast Food, Italian, Chinese, Desserts, Beverages",20.0,50.00,3.7,228,94,45,Greensburg
+459,39.71972716,-85.17352912,"Chinese, North Indian, Maharashtrian",25.0,50.00,3.3,47,23,30,Connersville
+460,39.08697114,-85.23504179999999,Chinese,15.0,50.00,3.8,140,36,30,Versailles
+461,39.10902547,-85.64487333,"Desserts, Ice Cream, Beverages",15.0,50.00,3.8,100,13,45,Country Squire Lakes
+462,39.32779254,-85.92635364,South Indian,10.0,50.00,3.7,75,16,30,Edinburgh
+463,39.74152888,-85.78723962,"North Indian, Mithai, Fast Food, South Indian, Chinese",20.0,50.00,4.0,1169,336,30,Greenfield
+464,39.00186589,-85.31951733,"Chinese, Momos",15.0,50.00,3.9,1450,307,45,Versailles
+465,39.32989752,-85.64221478,"Ice Cream, Desserts",10.0,50.00,0,0,0,30,Saint Paul
+466,39.69766994,-85.02403081,"Chinese, North Indian, Mughlai",35.0,50.00,3.9,2768,1369,30,Liberty
+467,39.75253271,-85.61961458,"Momos, Rolls",10.0,50.00,3.6,52,11,30,Knightstown
+468,39.15100396,-85.99750461,Fast Food,10.0,50.00,3.8,61,11,30,Columbus
+469,39.74732403,-85.83544904,"Chinese, South Indian, North Indian",20.0,50.00,3.6,92,49,30,New Palestine
+470,39.15269541,-85.74593567,Fast Food,10.0,50.00,2.8,12,6,30,Country Squire Lakes
+471,39.98344698,-85.57902722,"Fast Food, Healthy Food, Sandwich, Salad",20.0,50.00,3.7,132,52,30,Middletown
+472,39.53446522,-85.46489766,"South Indian, North Indian, Fast Food",20.0,50.00,3.7,182,107,45,Rushville
+473,39.01405909,-85.58538284,"Cafe, Desserts, Fast Food, Beverages",20.0,0.00,4.3,102,76,30,North Vernon
+474,39.01590152,-85.25565273,South Indian,15.0,99.00,4.1,1008,245,45,Versailles
+475,39.74440993,-85.21275188,"North Indian, Chinese, Mughlai",30.0,50.00,3.6,179,95,45,Cambridge City
+476,39.29164645,-85.63110959,"North Indian, Chinese, Street Food, Fast Food",15.0,50.00,3.2,8,1,30,Westport
+477,39.55971877,-85.91939457,"Chinese, Fast Food",20.0,50.00,3.4,66,4,30,Shelbyville
+478,39.74087926,-85.24530377,"Biryani, Mughlai, Chinese, Seafood",25.0,50.00,0,0,0,30,Cambridge City
+479,39.13786355,-85.59336885,"South Indian, Fast Food, North Indian",20.0,50.00,3.7,68,26,30,Westport
+481,39.93992759,-85.93754721,"North Indian, Mughlai",10.0,50.00,3.4,14,8,30,McCordsville
+482,39.86487359,-85.68518092,"South Indian, Fast Food, Desserts",15.0,50.00,3.8,892,70,45,Greenfield
+484,39.12401762,-85.20474703,"Fast Food, North Eastern, Momos",10.0,50.00,0,0,0,30,Versailles
+485,39.25318087,-85.02435586,"Mughlai, North Indian, Rolls",20.0,50.00,3.9,189,124,45,Sunman
+486,39.97855579,-85.28522976,"Asian, Continental, North Indian",50.0,50.00,4.6,1507,1131,30,New Castle
+487,39.98157687,-85.41092173,"Ice Cream, Desserts, Beverages",10.0,50.00,3.8,60,23,30,New Castle
+488,39.24288439,-85.05300459,"Beverages, Fast Food, Ice Cream",20.0,50.00,3.7,302,155,45,Sunman
+489,39.28697815,-85.54374147,Street Food,5.0,50.00,3.4,14,0,30,Greensburg
+490,39.85776571,-85.07737421,"Bakery, Desserts",20.0,50.00,3.6,28,11,30,Centerville
+491,39.64210778,-85.81052001,"Pizza, Fast Food",20.0,99.00,4.3,110,76,45,New Palestine
+492,39.59431122,-85.79222268,"Mithai, North Indian",20.0,50.00,3.3,26,2,30,Shelbyville
+493,39.32353569,-85.85274234,"Cafe, Fast Food",30.0,50.00,3.9,95,53,45,Hope
+494,39.71079298,-85.79164981,Mangalorean,15.0,50.00,3.5,10,0,30,Greenfield
+495,39.11448204,-85.48940588,"Fast Food, Italian, Chinese",15.0,99.00,3.4,256,90,65,Westport
+496,39.80665123,-85.18201324,"North Indian, Chinese",10.0,50.00,3.4,15,7,30,Cambridge City
+498,39.38443841,-85.00800928,"Ice Cream, Desserts, Fast Food",15.0,50.00,4.2,542,366,30,Brookville
+499,39.57675111,-85.01117161,"Chinese, Continental, Italian, Healthy Food, Asian, North Indian, Pizza, Desserts",20.0,50.00,3.1,41,25,45,Liberty
+500,39.27717039,-85.89487872,"South Indian, Chinese",15.0,50.00,3.7,177,30,30,Lowell
+501,39.54902186,-85.27833497,"North Indian, Chinese",20.0,50.00,3.3,13,9,30,Connersville
+502,39.58859455,-85.1363988,"North Indian, Mughlai, Chinese, Biryani, Rolls",20.0,50.00,3.6,894,256,30,Connersville
+503,39.05692466,-85.97582985,"Biryani, North Indian, Chinese, Kebab",20.0,50.00,4.0,157,17,30,Seymour
+504,39.61031814,-85.83025872,"Finger Food, Salad, Continental, Italian, Sandwich",60.0,50.00,4.2,1392,739,45,Shelbyville
+505,39.9095399,-85.06010029,"Fast Food, Beverages",15.0,50.00,3.1,17,9,30,Hagerstown
+506,39.93743433,-85.00556298,"Chinese, Biryani, North Indian",20.0,50.00,3.4,29,11,30,Centerville
+507,39.68977671,-85.08826568,"South Indian, Street Food, Fast Food",10.0,50.00,3.8,101,38,30,Connersville
+508,39.22083016,-85.83152042,"Fast Food, North Eastern, Momos",10.0,50.00,0,0,0,30,Columbus
+509,39.85025042,-85.89715639,"Street Food, Fast Food, Beverages",20.0,50.00,3.8,150,64,45,McCordsville
+510,39.9326482,-85.97672509,"North Indian, Mughlai",80.0,50.00,4.0,646,351,45,Fishers
+511,39.66232598,-85.73861923,"South Indian, North Indian, Chinese",30.0,50.00,3.8,323,141,65,Morristown
+512,39.51798394,-85.44723384,"Chinese, Thai, Continental",15.0,99.00,3.8,56,15,30,Rushville
+513,39.31565632,-85.58290647,North Indian,25.0,50.00,3.5,488,169,45,Greensburg
+514,39.52563233,-85.29148199,"North Indian, Chinese",20.0,50.00,4.3,250,121,30,Rushville
+515,39.84724783,-85.66856921,Street Food,10.0,50.00,4.0,31,23,30,Greenfield
+516,39.36560471,-85.08139091,"Bakery, Desserts",15.0,50.00,3.3,7,1,30,Brookville
+517,39.89840255,-85.27660125,"Pizza, Fast Food",40.0,50.00,3.8,630,240,30,New Castle
+518,39.53270624,-85.23898526,Bakery,25.0,50.00,0,0,0,65,Connersville
+519,39.57887546,-85.74865278,South Indian,10.0,50.00,3.2,11,0,30,Shelbyville
+520,39.01365042,-85.54285284,"Italian, North Indian, Chinese",80.0,50.00,4.1,903,556,45,North Vernon
+521,39.95986376,-85.78036686,Maharashtrian,10.0,0.00,3.3,12,1,30,Ingalls
+522,39.02835403,-85.60193609999999,"North Indian, Fast Food",15.0,50.00,3.6,43,11,30,North Vernon
+523,39.87538952,-85.90786754,"Desserts, Ice Cream",10.0,50.00,3.8,15,5,30,McCordsville
+524,39.96255112,-85.90542299,"North Indian, South Indian, Chinese, Beverages",15.0,50.00,0,0,0,30,McCordsville
+525,39.39626793,-85.70832826,"Fast Food, North Eastern, Momos",10.0,50.00,0,0,0,30,Geneva
+526,39.8002458,-85.2593142,Biryani,15.0,50.00,3.4,9,0,30,Cambridge City
+527,39.19340863,-85.96242802,"North Indian, Street Food",20.0,99.00,3.1,6,1,30,Columbus
+528,39.26795943,-85.87157906,"North Indian, Chinese",10.0,50.00,0,0,0,30,Lowell
+529,39.5133147,-85.36090299,"Chinese, Fast Food",10.0,50.00,3.1,4,2,30,Rushville
+530,39.79638314,-85.54886277,Beverages,10.0,50.00,3.0,11,4,45,Knightstown
+531,39.24654656,-85.74802998,"Cafe, Italian, North Indian, Chinese",40.0,50.00,4.0,387,220,45,Hope
+532,39.22740833,-85.45919873,South Indian,10.0,50.00,3.6,33,8,30,Greensburg
+533,39.72022753,-85.31277229,Bakery,15.0,99.00,0,0,0,65,Cambridge City
+534,39.05554893,-85.79202419,"South Indian, Chinese",10.0,50.00,3.9,25,9,30,Country Squire Lakes
+535,39.57174344,-85.50391559,"North Indian, Thai, Goan, Mughlai, Seafood",20.0,99.00,4.1,0,0,30,Rushville
+536,39.08026957,-85.66157388,"North Indian, Mughlai, Kebab",50.0,99.00,4.1,872,502,65,Country Squire Lakes
+537,39.0689956,-85.82327957,"Burger, Fast Food, Desserts, Beverages",15.0,50.00,0,0,0,30,Seymour
+538,39.7623203,-85.23798803,"Biryani, Hyderabadi, North Indian, Mughlai",10.0,50.00,2.8,0,0,30,Cambridge City
+539,39.16342947,-85.03036284,"North Indian, Chinese",20.0,50.00,3.4,80,46,30,Sunman
+540,39.07046228,-85.20251834,South Indian,10.0,50.00,3.4,18,1,30,Versailles
+542,39.30286617,-85.27674943,"North Indian, Rolls",25.0,50.00,0,0,0,30,Batesville
+543,39.53498781,-85.69871016,"Fast Food, Street Food, Beverages",20.0,50.00,3.6,109,8,45,Shelbyville
+544,39.52097869,-85.55440578,"Desserts, South Indian",20.0,50.00,4.5,127,80,30,Saint Paul
+545,39.42859349,-85.9908363,North Indian,20.0,50.00,3.2,22,3,45,Edinburgh
+546,39.07993916,-85.16332947,"Desserts, Bakery",10.0,50.00,0,0,0,30,Milan
+547,39.88826617,-85.72089301,"Chinese, Healthy Food",20.0,50.00,3.9,649,351,45,Ingalls
+548,39.18568447,-85.86441628,"Street Food, North Indian, Mithai, South Indian, Burger, Beverages",15.0,50.00,4.0,298,66,30,Columbus
+549,39.9762086,-85.70586289,North Indian,10.0,50.00,3.3,9,1,30,Pendleton
+550,39.59015209,-85.68445634,North Indian,25.0,50.00,4.0,353,176,30,Morristown
+551,39.60222148,-85.14292089,"Fast Food, North Indian, Biryani, Rolls, Wraps",25.0,50.00,3.9,418,121,65,Connersville
+552,39.49884871,-85.46984504,"Pizza, Fast Food, Italian",40.0,200.00,2.6,986,691,45,Rushville
+553,39.53251977,-85.42545356,Desserts,10.0,50.00,4.0,168,102,65,Rushville
+554,39.00164087,-85.60162119,"Arabian, North Indian, Mughlai, Chinese, Beverages, Desserts",35.0,50.00,4.2,431,259,30,North Vernon
+555,39.795604299999994,-85.50424606,Kerala,10.0,50.00,3.8,50,18,30,Knightstown
+556,39.86644263,-85.92752563,"South Indian, Fast Food, Mithai",10.0,50.00,3.5,229,30,45,McCordsville
+557,39.43964307,-85.85571211,"North Indian, Chinese, Beverages",60.0,50.00,4.3,857,621,65,Shelbyville
+558,39.61516875,-85.50734335,Bakery,20.0,50.00,4.2,242,94,80,Rushville
+559,39.91174741,-85.86610989,"Fast Food, Street Food",10.0,50.00,3.4,18,7,30,Fortville
+560,39.93043601,-85.25879909999999,"Chinese, North Indian, Fast Food",35.0,50.00,3.4,29,12,65,Hagerstown
+561,39.57913621,-85.63997481,"North Indian, Chinese, Fast Food",20.0,50.00,4.0,689,310,30,Morristown
+562,39.63168702,-85.95324513,"North Indian, Chinese",20.0,50.00,3.1,21,3,45,New Palestine
+563,39.76001334,-85.11187694,"Bakery, Desserts, Fast Food",20.0,50.00,3.1,8,2,45,Cambridge City
+564,39.92937911,-85.55582069,"North Indian, Street Food, Chinese",20.0,50.00,3.7,660,391,65,Middletown
+565,39.61813382,-85.23963686,"North Indian, Italian, Continental, Finger Food",50.0,50.00,3.9,268,142,45,Connersville
+566,39.79859837,-85.27966824,Street Food,5.0,50.00,3.8,0,0,30,Cambridge City
+567,39.14437865,-85.41879695,"North Indian, Chinese",25.0,50.00,3.9,915,721,45,Osgood
+568,39.94493455,-85.98776488,"Fast Food, Desserts",20.0,50.00,3.7,110,56,65,Fishers
+569,39.53535845,-85.88069877,Chinese,10.0,50.00,3.0,12,2,30,Shelbyville
+571,39.40836593,-85.23471291,"North Indian, South Indian",15.0,50.00,0,0,0,30,Batesville
+572,39.004444899999996,-85.57443586,Desserts,15.0,50.00,0,0,0,30,North Vernon
+573,39.49423784,-85.52083723,"Mishti, Fast Food, South Indian",10.0,50.00,4.0,381,89,65,Saint Paul
+574,39.29015152,-85.10615061,"Beverages, Fast Food",10.0,50.00,3.8,10,4,30,Sunman
+575,39.33485142,-85.39453303,"Desserts, Fast Food",20.0,50.00,3.9,334,189,45,Greensburg
+576,39.12138396,-85.65045788,North Indian,20.0,50.00,3.7,61,7,30,Westport
+577,39.12755881,-85.69439252,"Bakery, Desserts",20.0,50.00,4.4,214,169,65,Country Squire Lakes
+578,39.34149367,-85.37935059,"Chinese, Fast Food",10.0,50.00,0,0,0,30,Greensburg
+579,39.640536499999996,-85.27495841,"Asian, Chinese, Continental, Italian",35.0,50.00,4.3,249,139,30,Connersville
+581,39.55162324,-85.54350505,"Fast Food, Pizza, Desserts",20.0,50.00,3.4,20,5,30,Rushville
+582,39.938758,-85.75467533,North Indian,20.0,50.00,3.4,0,0,30,Ingalls
+584,39.67140772,-85.22342615,"North Indian, South Indian, Chinese, Street Food",20.0,50.00,3.5,121,41,30,Connersville
+585,39.07554001,-85.94060625,North Indian,20.0,50.00,3.1,4,1,30,Seymour
+587,39.56010054,-85.99886447,"Ice Cream, Beverages",10.0,50.00,0,0,0,30,Whiteland
+588,39.33737672,-85.09006452,"North Indian, Chinese, Mughlai, Maharashtrian",25.0,50.00,3.2,74,36,30,Sunman
+589,39.71475749,-85.68246389,"Burger, Fast Food, Beverages",20.0,50.00,4.0,2037,1062,65,Morristown
+591,39.19389517,-85.33315265,"Mithai, Gujarati",15.0,50.00,3.4,19,10,30,Osgood
+592,39.35848172,-85.3477517,"Continental, North Indian, Thai",55.0,50.00,4.6,391,220,30,Greensburg
+593,39.960730299999994,-85.05808049,"North Indian, Beverages",10.0,50.00,2.7,7,0,30,Hagerstown
+594,39.55652928,-85.29149796,"Biryani, North Indian",10.0,50.00,3.1,7,2,30,Rushville
+595,39.52746858,-85.99628578,Paan,5.0,50.00,0,0,0,30,Franklin
+596,39.44050473,-85.96560951,"Bakery, Fast Food",25.0,50.00,2.7,5,3,120,Edinburgh
+597,39.96795061,-85.71506822,"Chinese, Seafood, Biryani",35.0,50.00,3.4,205,97,45,Pendleton
+598,39.75540706,-85.18762894,"North Indian, Chinese, Mughlai, Fast Food, Beverages",25.0,0.00,4.0,1270,741,65,Cambridge City
+599,39.90052867,-85.4204257,"North Indian, Chinese, Italian, Fast Food",55.0,50.00,4.1,897,565,45,New Castle
+600,39.89992217,-85.76324465,"Biryani, Chinese, North Indian",25.0,50.00,3.0,13,2,65,Ingalls
+601,39.21195211,-85.04222875,"Fast Food, North Indian, Beverages",20.0,50.00,4.0,421,165,45,Sunman
+602,39.35606005,-85.01148814,"Cafe, Fast Food",30.0,50.00,4.5,1349,972,65,Brookville
+603,39.22060733,-85.83679745,"North Indian, Chinese, Continental, Seafood",40.0,99.00,3.9,239,98,65,Columbus
+604,39.97479032,-85.7340099,"Cafe, Chinese",15.0,50.00,3.2,73,34,65,Pendleton
+605,39.89871031,-85.94785094,"Bengali, Seafood, Rolls",25.0,50.00,3.7,318,187,45,McCordsville
+606,39.05289535,-85.74359878,"North Indian, Chinese",20.0,50.00,3.3,9,2,30,Country Squire Lakes
+608,39.24126146,-85.21837844,"North Indian, Chinese",15.0,50.00,2.9,41,15,30,Batesville
+609,39.45639615,-85.80495291,South Indian,15.0,50.00,3.3,9,3,30,Shelbyville
+610,39.75949762,-85.82086375,"Chinese, Continental, Italian, Healthy Food, Asian, North Indian, Pizza, Desserts",20.0,50.00,3.7,697,314,45,Greenfield
+611,39.48936782,-85.93117153,"North Indian, Biryani, Kebab, BBQ",20.0,50.00,3.5,21,9,30,Franklin
+612,39.85119236,-85.08552773,"Juices, Fast Food",10.0,50.00,4.0,113,60,30,Cambridge City
+613,39.27360235,-85.79327566,"North Indian, Chinese",15.0,50.00,3.7,59,21,30,Hope
+614,39.82359229,-85.09371759,"Bakery, Sandwich, Desserts",20.0,50.00,3.9,39,25,30,Cambridge City
+615,39.39289972,-85.15515095,"Fast Food, Chinese",10.0,50.00,3.6,17,4,30,Batesville
+616,39.02362465,-85.45531911,"Burger, Sandwich, Finger Food, Beverages",30.0,50.00,3.9,64,11,30,North Vernon
+618,39.03324422,-85.0236698,Biryani,15.0,50.00,3.5,64,15,30,Dillsboro
+619,39.54086336,-85.44181377,Chinese,25.0,50.00,0,0,0,30,Rushville
+620,39.53665656,-85.19965107,"Rolls, North Indian, Chinese, Momos, Biryani",20.0,50.00,3.7,50,30,30,Connersville
+621,39.18322159,-85.28192775,"North Indian, South Indian, Chinese",15.0,99.00,3.0,318,64,65,Osgood
+622,39.77230772,-85.96372886,Thai,40.0,99.00,4.2,368,136,65,Cumberland
+623,39.36257773,-85.50843573,"Bengali, Chinese",10.0,50.00,3.0,13,5,30,Greensburg
+624,39.81987771,-85.6712642,"Desserts, Beverages",10.0,50.00,3.2,4,2,30,Greenfield
+625,39.11038337,-85.58785902,"Fast Food, Street Food, Juices",10.0,50.00,3.6,646,214,45,Westport
+626,39.572855,-85.14985219,"Biryani, North Indian",15.0,50.00,3.3,7,3,30,Connersville
+627,39.399262799999995,-85.93821199,"North Indian, Chinese, South Indian, Fast Food, Street Food",30.0,50.00,4.2,305,167,30,Edinburgh
+628,39.90767057,-85.70283383,Mithai,10.0,50.00,3.1,8,1,30,Pendleton
+629,39.47862748,-85.78135521,"Mithai, North Indian",10.0,50.00,3.8,241,88,45,Shelbyville
+630,39.97365151,-85.83055605,Street Food,15.0,50.00,4.1,260,123,45,Ingalls
+631,39.80071414,-85.61169746,"Biryani, Mughlai, Chinese, Arabian",30.0,50.00,3.7,572,167,45,Knightstown
+632,39.63299419,-85.11911312,"Pizza, Fast Food",20.0,0.00,3.7,684,97,30,Connersville
+633,39.99005715,-85.52029331,Fast Food,15.0,50.00,3.2,13,1,45,Middletown
+634,39.61541122,-85.27385500000001,"Desserts, Ice Cream",10.0,50.00,3.3,5,0,30,Connersville
+635,39.12047977,-85.67696191,"North Indian, Chinese",20.0,50.00,3.7,83,41,45,Country Squire Lakes
+636,39.79961167,-85.02063819,"Chinese, North Indian, Fast Food, Biryani",15.0,50.00,2.8,4,3,30,Centerville
+637,39.55495601,-85.75860693,"South Indian, North Indian, Chinese, Fast Food",15.0,50.00,3.2,14,0,65,Shelbyville
+638,39.16400984,-85.86301075,Street Food,5.0,50.00,3.4,16,5,30,Columbus
+639,39.81008661,-85.95399163,"Fast Food, Rolls",15.0,99.00,3.5,49,27,65,Cumberland
+640,39.27733821,-85.18903648,South Indian,15.0,50.00,3.8,385,20,45,Batesville
+641,39.78722978,-85.12065934,"North Indian, Maharashtrian",20.0,50.00,3.8,189,47,30,Cambridge City
+642,39.56981362,-85.40781781,"South Indian, Street Food",10.0,50.00,3.7,184,67,30,Rushville
+643,39.85060119,-85.16264913,"North Indian, Chinese",20.0,50.00,3.7,40,35,30,Cambridge City
+644,39.20005696,-85.67625827,"North Eastern, Momos, Fast Food, Beverages, Tibetan",10.0,50.00,2.9,4,3,30,Westport
+645,39.03161361,-85.18405062,"North Indian, Chinese, Continental, Italian",60.0,50.00,4.2,910,572,45,Versailles
+646,39.31247772,-85.97483026,"Chinese, North Indian, Rolls, Biryani, Momos",20.0,50.00,3.9,992,513,45,Edinburgh
+647,39.18323655,-85.65909599,South Indian,5.0,50.00,3.8,382,110,45,Westport
+648,39.92745978,-85.27287774,"Maharashtrian, Healthy Food",10.0,50.00,3.4,8,5,30,New Castle
+649,39.44143831,-85.63647596,"South Indian, North Indian",20.0,50.00,3.0,5,0,30,Saint Paul
+650,39.06257233,-85.9468915,Mithai,10.0,50.00,4.1,551,24,30,Seymour
+651,39.073179100000004,-85.74718301,"Chinese, North Indian, Fast Food, Biryani",15.0,50.00,2.8,4,3,30,Country Squire Lakes
+652,39.30839658,-85.46762624,Mithai,10.0,50.00,3.2,40,17,30,Greensburg
+653,39.44492993,-85.74436799,"Biryani, North Indian, Mughlai, Kebab",30.0,99.00,4.1,354,171,65,Geneva
+654,39.49999948,-85.74825702,Fast Food,10.0,50.00,3.3,10,4,30,Shelbyville
+655,39.23680818,-85.79377018,Fast Food,15.0,50.00,4.3,140,55,30,Hope
+656,39.81433115,-85.67754678,"North Indian, Chinese",15.0,50.00,3.9,656,183,45,Greenfield
+657,39.64625579,-85.68419754,Desserts,15.0,50.00,3.9,81,26,45,Morristown
+658,39.16330099,-85.21926931,"North Indian, Mughlai",35.0,50.00,3.8,179,84,45,Osgood
+659,39.69732374,-85.20209507,"Continental, North Indian, Italian, Beverages, Desserts",20.0,50.00,3.6,68,25,65,Connersville
+660,39.49290718,-85.92472794,"Fast Food, Pizza",20.0,50.00,3.5,19,10,30,Franklin
+661,39.19987673,-85.93100327,"South Indian, Italian, Chinese",15.0,50.00,3.6,111,61,30,Columbus
+662,39.37813742,-85.18905438,"North Indian, Chinese",20.0,50.00,0,0,0,30,Batesville
+663,39.39492657,-85.84870649999999,Fast Food,15.0,50.00,3.5,19,6,30,Hope
+664,39.08948508,-85.75308717,"North Indian, Chinese, South Indian, Fast Food, Street Food",30.0,50.00,4.2,305,167,30,Country Squire Lakes
+665,39.10715332,-85.52908158,"North Indian, Chinese",10.0,50.00,3.4,207,107,45,Westport
+666,39.53302503,-85.23498924,"Mithai, Bakery, Fast Food",10.0,50.00,4.0,389,252,30,Connersville
+667,39.73332518,-85.93489004,"Fast Food, Street Food",10.0,50.00,3.3,24,10,45,New Palestine
+668,39.56143812,-85.68191997,"North Indian, Chinese",40.0,99.00,3.7,263,120,65,Shelbyville
+669,39.87135116,-85.47927865,"Mithai, Fast Food",15.0,50.00,3.5,6,2,30,Knightstown
+670,39.55677252,-85.03848737,"North Indian, Mughlai",20.0,50.00,3.8,126,70,30,Connersville
+671,39.65565738,-85.73285387,"North Indian, Chinese",35.0,50.00,3.6,397,119,45,Morristown
+672,39.55857537,-85.69430909,"Street Food, Fast Food",10.0,50.00,3.2,11,5,30,Shelbyville
+673,39.50826385,-85.20454514,"North Indian, Fast Food, Chinese, Continental",50.0,50.00,3.8,90,60,45,Connersville
+674,39.39506742,-85.83489540000001,Mughlai,30.0,99.00,4.1,394,305,65,Hope
+675,39.784684399999996,-85.39982775,"Chinese, North Indian, Momos",10.0,50.00,3.5,64,26,30,Knightstown
+676,39.86274927,-85.62941034,South Indian,5.0,50.00,3.5,12,2,30,Knightstown
+677,39.45374329,-85.78877006,"North Indian, South Indian",20.0,50.00,3.1,12,5,45,Shelbyville
+678,39.36597824,-85.67487895,"North Indian, Chinese",20.0,50.00,3.5,13,0,30,Geneva
+679,39.4948698,-85.25018779,"Cafe, Beverages, Bakery",20.0,50.00,4.1,343,256,45,Connersville
+680,39.45911284,-85.51598662,"Healthy Food, Beverages",15.0,50.00,3.1,6,3,30,Saint Paul
+681,39.44022822,-85.82443171,"Desserts, Beverages",15.0,50.00,4.0,119,60,30,Shelbyville
+683,39.41634628,-85.06146185,"North Indian, Mughlai, Kebab",90.0,450.00,4.2,1262,758,65,Brookville
+684,39.45917618,-85.51755349,"Fast Food, Chinese",10.0,50.00,3.6,82,23,45,Saint Paul
+685,39.85231099,-85.75582236,North Indian,10.0,50.00,0,0,0,30,Greenfield
+686,39.48607799,-85.37957788,"Desserts, Beverages, Ice Cream",15.0,50.00,0,0,0,30,Rushville
+687,39.45614288,-85.32995538,"North Indian, South Indian, Chinese",20.0,50.00,3.8,521,258,30,Batesville
+689,39.37010135,-85.45100986,Cafe,15.0,50.00,4.0,337,199,30,Greensburg
+690,39.55249927,-85.81731016,South Indian,10.0,50.00,3.1,12,1,30,Shelbyville
+691,39.07029661,-85.59391891,Desserts,10.0,50.00,4.6,400,189,45,North Vernon
+692,39.58151139,-85.75518126,"North Indian, Chinese",50.0,50.00,3.9,166,69,65,Shelbyville
+693,39.93849328,-85.4778418,"Pizza, Italian, Beverages",35.0,50.00,4.3,497,287,30,New Castle
+694,39.78669002,-85.95025022,North Indian,20.0,99.00,3.4,37,14,30,Cumberland
+695,39.59878539,-85.48011477,North Indian,10.0,50.00,2.9,307,62,45,Rushville
+696,39.12123814,-85.97023315,"Beverages, Ice Cream",15.0,50.00,3.5,8,3,30,Columbus
+697,39.41939485,-85.29823672,Fast Food,10.0,0.00,3.4,8,2,30,Batesville
+698,39.82082339,-85.44421852,American,30.0,50.00,3.8,20,13,30,Knightstown
+699,39.9058255,-85.83555978,"Bakery, Desserts",20.0,50.00,3.4,57,13,65,Fortville
+700,39.94557281,-85.86690909,"Fast Food, Chinese, BBQ",15.0,50.00,3.5,43,11,30,Fortville
+701,39.7480778,-85.73557263,Mishti,5.0,99.00,4.4,1512,579,45,Greenfield
+702,39.06187055,-85.42475533,North Indian,20.0,50.00,2.8,7,3,30,Osgood
+703,39.53943907,-85.18948564,"Chinese, Thai",45.0,50.00,3.6,119,47,65,Connersville
+704,39.81426225,-85.17687485,"North Indian, Chinese, South Indian, Fast Food",25.0,50.00,3.7,189,84,45,Cambridge City
+705,39.39939193,-85.50407709999999,North Indian,15.0,50.00,3.4,43,11,30,Greensburg
+706,39.13672785,-85.48105967,Biryani,15.0,50.00,3.4,18,14,30,Westport
+707,39.24445479,-85.49827282,Pizza,15.0,50.00,3.3,32,1,30,Greensburg
+708,39.25039379,-85.79560979,South Indian,10.0,50.00,3.7,0,0,30,Hope
+709,39.67726879,-85.52759949,"North Indian, Chinese, Mughlai, Kebab",75.0,99.00,4.2,580,455,45,Rushville
+710,39.90141018,-85.13431331,"Fast Food, Rolls",10.0,50.00,0,0,0,30,Hagerstown
+711,39.10931984,-85.3595546,"Raw Meats, North Indian, Fast Food",20.0,50.00,3.6,60,31,30,Osgood
+712,39.3954589,-85.11844199,"Fast Food, Chinese",10.0,50.00,3.1,6,2,30,Brookville
+713,39.5884484,-85.02255011,"Burger, Fast Food",20.0,50.00,2.7,564,131,45,Liberty
+714,39.53278861,-85.79356654,"North Indian, Chinese, Seafood",50.0,50.00,3.1,46,32,30,Shelbyville
+715,39.20016612,-85.67035817,"North Indian, Continental, Chinese, Italian, Lebanese, Momos",40.0,50.00,3.9,793,513,45,Westport
+716,39.29364689,-85.67290838,"Italian, Fast Food",20.0,50.00,3.1,19,8,30,Hope
+717,39.52783454,-85.01546825,"Burger, Fast Food",20.0,99.00,4.0,1155,845,65,Brookville
+718,39.35973176,-85.71961398,"Salad, Rolls, Fast Food",20.0,50.00,3.7,71,22,45,Geneva
+719,39.5670177,-85.45253102,"American, Fast Food",20.0,50.00,3.9,570,127,45,Rushville
+720,39.96128182,-85.99021146,"North Indian, Mughlai",15.0,50.00,2.8,38,12,65,Fishers
+721,39.54209705,-85.44144048,"Mughlai, Biryani, Afghan",40.0,50.00,3.4,23,12,30,Rushville
+722,39.52003843,-85.76080265,"Bakery, Desserts, Ice Cream",15.0,50.00,3.9,76,22,45,Shelbyville
+723,39.48123664,-85.07372634,Lebanese,15.0,50.00,0,0,0,30,Brookville
+724,39.77711162,-85.14564739,"North Indian, Chinese",15.0,99.00,3.9,261,109,30,Cambridge City
+725,39.16340491,-85.1512735,"Biryani, North Indian, Fast Food, Chinese",20.0,50.00,3.5,41,18,30,Milan
+726,39.46355586,-85.67693096,"Cafe, Italian, Chinese, Desserts",40.0,50.00,4.0,1398,906,45,Saint Paul
+727,39.80024604,-85.95729872,"Burger, Pizza, Fast Food",20.0,0.00,3.3,0,0,30,Cumberland
+728,39.69250294,-85.84903576,"Fast Food, North Indian, Rolls, Chinese, Momos, Mughlai",20.0,50.00,3.9,562,294,65,New Palestine
+729,39.34809972,-85.45420989,"Biryani, North Indian",15.0,50.00,3.1,4,1,30,Greensburg
+730,39.23366624,-85.13331208,Gujarati,10.0,50.00,3.8,35,11,30,Sunman
+731,39.72897766,-85.11727283,"Chinese, Seafood",30.0,50.00,3.3,81,11,45,Connersville
+732,39.72910005,-85.42266678,"Chinese, Thai, Asian, Malaysian, Vietnamese, Sri Lankan, Burmese",60.0,99.00,4.2,3782,1948,30,Rushville
+733,39.03233105,-85.74433874,"Italian, Mexican, Pizza, Salad, Beverages",60.0,50.00,4.2,1114,453,45,Country Squire Lakes
+734,39.3613931,-85.67533119,Street Food,10.0,50.00,3.3,11,2,30,Geneva
+735,39.72351907,-85.43514089,"Street Food, Fast Food",10.0,50.00,3.8,280,76,45,Rushville
+736,39.73460072,-85.44171811,Rolls,10.0,50.00,3.2,10,0,30,Knightstown
+737,39.12924469,-85.72775016,"Ice Cream, Desserts",15.0,50.00,4.5,1118,465,30,Country Squire Lakes
+738,39.30577615,-85.48564884,"Street Food, Chinese, North Indian, Fast Food",20.0,50.00,3.8,262,143,45,Greensburg
+739,39.28728049,-85.62210759,Mishti,15.0,50.00,0,0,0,30,Westport
+740,39.41097293,-85.85283354,"North Indian, Beverages",10.0,0.00,0,0,0,30,Edinburgh
+741,39.02194212,-85.86985184,"Rolls, Fast Food",15.0,50.00,4.5,425,258,45,Seymour
+742,39.35132072,-85.47429495,"Salad, Sandwich, Momos, Wraps, Beverages",20.0,50.00,3.0,5,2,30,Greensburg
+743,39.39673489,-85.5464375,"North Indian, Fast Food, Beverages",20.0,50.00,3.4,22,3,30,Greensburg
+744,39.98482965,-85.67458524,"Seafood, North Indian, Chinese, Thai",40.0,50.00,3.8,203,107,30,Pendleton
+745,39.8125914,-85.64895889,Bakery,10.0,50.00,3.2,45,11,30,Greenfield
+746,39.17995983,-85.41522103,"South Indian, North Indian, Chinese, Beverages",20.0,50.00,2.5,71,34,45,Osgood
+747,39.91869711,-85.73766288,"North Indian, Chinese, Rolls",20.0,50.00,3.6,75,31,30,Ingalls
+748,39.52092482,-85.80943337,"North Indian, Chinese, Fast Food",20.0,50.00,3.8,88,25,30,Shelbyville
+749,39.16856792,-85.6655753,North Indian,10.0,99.00,3.5,266,25,65,Westport
+750,39.26131408,-85.52610009,North Indian,20.0,50.00,0,0,0,30,Greensburg
+751,39.79266844,-85.61928279,"Biryani, Chinese, Fast Food, Beverages, North Indian, Mughlai, Seafood",35.0,50.00,3.7,269,127,45,Knightstown
+752,39.10985284,-85.52116478,"Fast Food, Biryani",20.0,50.00,3.3,11,7,30,Westport
+753,39.2632376,-85.46384745,"North Indian, Chinese, Pizza, Rolls, Bakery, Beverages, Mithai",15.0,50.00,3.6,348,139,45,Greensburg
+754,39.96201888,-85.97224695,"Mithai, Fast Food",10.0,99.00,3.0,60,9,45,Fishers
+756,39.26512102,-85.35193777,"North Indian, Street Food",20.0,50.00,3.2,125,42,30,Batesville
+757,39.12203858,-85.92262713,Bakery,20.0,50.00,3.0,49,23,30,Columbus
+758,39.38230447,-85.87991073,"North Indian, Mughlai",25.0,50.00,3.3,14,5,30,Edinburgh
+759,39.30380113,-85.96013735,"European, Italian, American, Salad",65.0,50.00,4.6,2858,1673,30,Edinburgh
+760,39.99132977,-85.64153181,"Healthy Food, Fast Food",15.0,50.00,3.5,49,9,45,Pendleton
+761,39.45344645,-85.73843115,"Italian, Continental",40.0,99.00,3.4,130,55,45,Geneva
+763,39.27608393,-85.56217964,"Healthy Food, North Indian, Biryani, Continental, Beverages",20.0,50.00,4.2,476,105,30,Greensburg
+764,39.92228154,-85.6902915,Desserts,10.0,50.00,3.3,19,4,30,Pendleton
+765,39.335773700000004,-85.30484935,"Mithai, Street Food",10.0,50.00,3.2,9,3,30,Batesville
+766,39.08699537,-85.14916195,Chinese,15.0,50.00,3.6,48,20,30,Milan
+767,39.112813,-85.15315372,North Indian,10.0,50.00,3.6,221,76,45,Milan
+768,39.36124817,-85.48572232,"North Indian, Chinese",35.0,50.00,3.6,124,56,45,Greensburg
+769,39.56321533,-85.27176693,North Indian,15.0,50.00,3.2,6,2,45,Connersville
+770,39.44613764,-85.13969387,"North Indian, Street Food, South Indian, Mithai",30.0,99.00,4.2,3021,1174,65,Brookville
+771,39.34964848,-85.95553737,"Rajasthani, North Indian",60.0,50.00,4.3,860,484,65,Edinburgh
+772,39.40833434,-85.38874049,"Pizza, Italian",30.0,50.00,4.0,338,152,30,Greensburg
+773,39.07127289,-85.01691293,"North Indian, Mughlai",15.0,50.00,2.8,7,3,30,Dillsboro
+774,39.92769474,-85.89934316,Chinese,10.0,50.00,0,0,0,30,McCordsville
+775,39.8493614,-85.31642692,"Mishti, Street Food, South Indian",10.0,50.00,3.5,77,35,30,New Castle
+776,39.42339043,-85.67439026,"North Indian, Chinese, Rolls, Desserts, Biryani",20.0,50.00,3.3,68,35,65,Saint Paul
+777,39.76063133,-85.92107141,Fast Food,15.0,50.00,3.5,22,7,30,Cumberland
+778,39.77418523,-85.95305973,"Fast Food, Chinese, North Indian",15.0,50.00,0,0,0,30,Cumberland
+779,39.73908315,-85.69899443,"Chinese, Rolls, Wraps",15.0,50.00,3.5,17,5,30,Morristown
+780,39.11819369,-85.35811599,"Italian, Continental, Fast Food",25.0,50.00,4.1,87,48,30,Osgood
+781,39.02278531,-85.89390166,"Pizza, Salad, Burger, Sandwich, Lebanese, Italian",15.0,50.00,4.4,315,248,30,Seymour
+782,39.49360121,-85.95684845,"Continental, Finger Food, Seafood, Pizza",50.0,50.00,4.0,588,236,65,Franklin
+783,39.80780214,-85.8453264,"Bengali, North Indian",40.0,50.00,4.0,381,204,45,Greenfield
+784,39.07238421,-85.73452734,"North Indian, Mughlai, Kebab",90.0,450.00,4.2,1262,758,65,Country Squire Lakes
+785,39.04600437,-85.28562806,"Bakery, Desserts, Fast Food",25.0,99.00,3.8,27,23,120,Versailles
+786,39.05947388,-85.28451571,"Ice Cream, Desserts",10.0,50.00,3.6,60,30,30,Versailles
+787,39.19335572,-85.87486719,"North Indian, Italian, Continental",20.0,50.00,3.0,4,0,30,Columbus
+788,39.9721684,-85.65017908,"Andhra, North Indian, Chinese",30.0,50.00,3.6,173,85,65,Pendleton
+790,39.27264495,-85.06342756,"North Indian, Chinese, Rolls, Momos",15.0,50.00,4.1,318,235,65,Sunman
+791,39.29917678,-85.45751888,"Chinese, Sushi, Thai, Poké, Asian",40.0,50.00,4.1,51,38,30,Greensburg
+792,39.6193725,-85.30798433,Fast Food,10.0,50.00,4.0,394,207,45,Rushville
+793,39.29633215,-85.18355857,Paan,15.0,50.00,3.9,22,13,30,Batesville
+794,39.93935101,-85.24089228,Fast Food,20.0,50.00,0,0,0,30,Hagerstown
+795,39.21637338,-85.37271971,"Wraps, North Indian, Biryani, Fast Food",25.0,50.00,4.0,170,62,65,Osgood
+797,39.22577428,-85.99629365,North Indian,15.0,50.00,3.0,6,1,30,Lowell
+798,39.13695169,-85.62890507,Street Food,10.0,50.00,3.9,143,33,45,Westport
+799,39.36873739,-85.15397948,"North Indian, Chinese, South Indian",20.0,50.00,3.1,7,0,30,Batesville
+800,39.18131373,-85.79928802,South Indian,5.0,50.00,3.1,98,10,30,Columbus
+801,39.26375025,-85.20816117,Fast Food,20.0,50.00,3.9,391,159,30,Batesville
+802,39.27778262,-85.23839842,Street Food,5.0,50.00,3.5,23,5,30,Batesville
+803,39.54816321,-85.01144936,"North Indian, Mughlai, Kebab",55.0,99.00,3.7,1072,609,45,Liberty
+804,39.08271305,-85.28631463,"North Indian, Fast Food",20.0,50.00,4.0,109,53,30,Versailles
+805,39.0161404,-85.59150003,"Desserts, Ice Cream, Bakery",10.0,50.00,0,0,0,30,North Vernon
+807,39.34909491,-85.86870141,North Indian,10.0,50.00,2.9,15,2,30,Edinburgh
+808,39.42606482,-85.50102393,"Ice Cream, Desserts",10.0,50.00,3.5,64,24,30,Greensburg
+809,39.62185986,-85.92464341,"Biryani, North Indian",20.0,50.00,3.5,30,14,30,New Palestine
+810,39.75496641,-85.34471597,Fast Food,15.0,99.00,3.2,16,5,30,New Castle
+811,39.52586187,-85.39413733,"Chinese, Mughlai, North Indian",20.0,50.00,3.5,63,34,30,Rushville
+812,39.74140835,-85.19346872,"North Indian, South Indian, Chinese",25.0,50.00,0,0,0,30,Cambridge City
+813,39.547912,-85.40022509,"BBQ, Chinese, Lebanese",20.0,50.00,3.6,35,18,30,Rushville
+814,39.70498115,-85.42635042,Street Food,5.0,50.00,0,0,0,30,Rushville
+815,39.10846872,-85.12797244,"North Indian, Italian, Continental, Lebanese, Desserts, Beverages",20.0,0.00,0,0,0,30,Milan
+816,39.75281807,-85.55574915,Tibetan,15.0,50.00,3.6,27,18,30,Knightstown
+817,39.98264705,-85.11325798,"Cafe, North Indian, Fast Food",25.0,50.00,2.9,213,53,45,Hagerstown
+818,39.54379744,-85.91593093,"Fast Food, Bakery",20.0,50.00,4.2,133,72,65,Shelbyville
+819,39.06868899,-85.79753693,"North Indian, Mughlai",25.0,50.00,3.8,416,231,65,Country Squire Lakes
+820,39.02896076,-85.54914436,"North Indian, Chinese, Mughlai, Fast Food",30.0,50.00,4.1,2521,1150,65,North Vernon
+821,39.01600576,-85.85832522,Momos,15.0,99.00,0,0,0,30,Seymour
+822,39.39195104,-85.07673282,"Italian, Salad",1.0,50.00,4.3,1276,671,45,Brookville
+823,39.68657957,-85.05896178,"North Indian, Chinese",40.0,50.00,4.4,479,322,30,Connersville
+825,39.40249921,-85.28429669,"Biryani, North Indian",20.0,50.00,3.3,15,7,30,Batesville
+826,39.79834808,-85.86891356,North Indian,15.0,50.00,3.0,5,1,30,New Palestine
+827,39.78364632,-85.21655929,Street Food,10.0,50.00,3.2,7,3,30,Cambridge City
+828,39.88686504,-85.42460902,"Rolls, Fast Food",10.0,50.00,0,0,0,30,New Castle
+830,39.20019446,-85.52791501,"Bakery, Fast Food, Momos",10.0,50.00,4.1,428,160,30,Westport
+832,39.07358675,-85.84392768,"Street Food, Mithai",10.0,50.00,4.0,304,108,30,Seymour
+833,39.22250956,-85.37578154,Fast Food,15.0,50.00,3.1,4,2,30,Osgood
+834,39.64693996,-85.45871133,"North Indian, Chinese",15.0,50.00,3.9,656,183,45,Rushville
+836,39.66979154,-85.85758647,"North Indian, Chinese",20.0,50.00,3.7,442,118,65,New Palestine
+837,39.70740727,-85.23934196,"American, Italian, Continental, Burger, Sandwich",30.0,50.00,3.4,19,14,30,Connersville
+838,39.51938183,-85.66514706,"Chinese, Momos",10.0,50.00,3.5,13,5,30,Saint Paul
+839,39.72617673,-85.00392446,"North Indian, Chinese",20.0,50.00,2.8,10,4,30,Centerville
+840,39.3675987,-85.62957899,"North Indian, Chinese, Bengali",20.0,50.00,3.4,23,14,30,Saint Paul
+841,39.01627004,-85.47196604,"Healthy Food, North Indian, Beverages",30.0,50.00,3.7,46,19,30,North Vernon
+842,39.00615625,-85.4608292,"South Indian, Beverages",10.0,50.00,3.5,18,7,30,North Vernon
+844,39.58405906,-85.14481469,"Biryani, North Indian, Fast Food",10.0,50.00,3.3,6,4,30,Connersville
+845,39.53314952,-85.65172352,"Street Food, Fast Food, Beverages, Desserts, Mithai",5.0,50.00,0,0,0,30,Saint Paul
+846,39.78615825,-85.41910486,"Desserts, Street Food",10.0,50.00,3.7,19,4,30,Knightstown
+847,39.78898973,-85.43938297,"North Indian, Chinese",20.0,50.00,3.3,17,4,30,Knightstown
+848,39.682691299999995,-85.40443918,"Italian, Fast Food",20.0,50.00,3.2,60,17,45,Rushville
+849,39.70382935,-85.48113181,"North Indian, Chinese, Mughlai",25.0,350.00,4.3,1545,1095,45,Rushville
+850,39.99952346,-85.66874205,"Pizza, Fast Food",20.0,99.00,3.5,32,4,45,Pendleton
+851,39.64909002,-85.37531877,North Indian,25.0,50.00,3.8,251,14,30,Rushville
+852,39.94354245,-85.43113514,"Rolls, Fast Food",15.0,50.00,3.0,7,2,30,New Castle
+853,39.90016611,-85.13107505,"Fast Food, Juices",15.0,50.00,0,0,0,30,Hagerstown
+854,39.18225652,-85.67942322,Chinese,20.0,50.00,3.2,6,1,30,Westport
+855,39.43410076,-85.29327070000001,"North Indian, Mughlai, Chinese, Fast Food, Momos",25.0,50.00,4.1,440,294,30,Batesville
+856,39.06807325,-85.85719736,"Street Food, Fast Food",10.0,50.00,3.7,33,7,30,Seymour
+857,39.32599292,-85.6181054,"North Indian, Street Food, Juices",10.0,50.00,4.3,693,233,45,Saint Paul
+858,39.01242334,-85.26406987,"North Indian, Chinese",25.0,50.00,2.8,19,7,30,Versailles
+859,39.1944846,-85.33912302,"Cafe, Salad, Healthy Food, Sandwich, Italian, Beverages, Desserts",40.0,50.00,4.4,245,120,30,Osgood
+860,39.01468771,-85.43551099,"South Indian, Chinese, North Indian",20.0,50.00,3.4,9,2,30,Osgood
+861,39.0309674,-85.93673742,"North Indian, Mughlai",20.0,50.00,3.5,138,26,65,Seymour
+862,39.13820506,-85.35125853,"Cafe, Italian, Bakery",35.0,50.00,3.9,527,232,45,Osgood
+863,39.65509516,-85.33387001,"Lucknowi, Biryani",20.0,50.00,2.9,33,15,30,Rushville
+864,39.58654626,-85.28336664,"North Indian, Chinese",20.0,50.00,0,0,0,30,Connersville
+865,39.32806713,-85.69148,Ice Cream,20.0,50.00,3.6,94,43,45,Geneva
+866,39.01117229,-85.95231675,Beverages,10.0,50.00,4.1,139,70,30,Seymour
+869,39.11814488,-85.59535463,"Biryani, Mughlai, North Indian, Rolls",20.0,50.00,3.6,88,43,45,Westport
+870,39.98447932,-85.09782003,"Desserts, Beverages",15.0,50.00,4.1,806,513,45,Hagerstown
+871,39.27288876,-85.76488599,Pizza,20.0,50.00,0,0,0,30,Hope
+872,39.81110774,-85.37819223,"North Indian, Chinese, Mughlai",20.0,50.00,3.5,55,28,30,New Castle
+873,39.6013631,-85.00348583,"Mughlai, Biryani",10.0,50.00,3.3,7,1,30,Liberty
+874,39.26349048,-85.15522113,Chinese,15.0,50.00,2.9,4,2,30,Sunman
+875,39.98854572,-85.74988571,"Mishti, Fast Food, North Indian, Street Food, South Indian",15.0,50.00,4.0,1332,668,45,Pendleton
+876,39.76164589,-85.96406597,"Bakery, Desserts",10.0,50.00,3.1,4,1,30,Cumberland
+877,39.20542775,-85.2731309,North Indian,5.0,50.00,3.6,20,4,30,Osgood
+879,39.23546553,-85.74290328,"Cafe, Fast Food",20.0,99.00,4.1,430,257,45,Hope
+880,39.18396532,-85.37925804,"North Indian, Chinese",20.0,50.00,3.2,10,5,30,Osgood
+881,39.01547078,-85.6212127,"Kerala, South Indian, Seafood",20.0,50.00,3.9,95,40,30,North Vernon
+882,39.82238434,-85.64248817,"Maharashtrian, South Indian, Chinese",15.0,50.00,3.3,12,7,30,Knightstown
+883,39.738946399999996,-85.61573237,"North Indian, South Indian, Desserts, Beverages",20.0,50.00,3.3,33,23,30,Morristown
+884,39.42390852,-85.48272877,"Cafe, Beverages",20.0,50.00,0,0,0,30,Greensburg
+885,39.22453257,-85.69801637,"North Indian, Chinese, Continental, Beverages",25.0,50.00,0,0,0,30,Hope
+886,39.95889362,-85.61341417,"North Indian, Continental, Chinese, Steak",40.0,50.00,3.8,326,158,45,Middletown
+887,39.76599368,-85.22100484,"South Indian, Street Food",10.0,50.00,3.3,37,5,30,Cambridge City
+888,39.30438291,-85.21439613,"North Indian, Chinese, Biryani",20.0,50.00,3.1,9,4,65,Batesville
+889,39.70674486,-85.8439887,Mexican,75.0,50.00,4.0,677,372,30,New Palestine
+890,39.28906749,-85.07528017,"North Indian, Kebab, Chinese",30.0,50.00,4.5,450,285,30,Sunman
+891,39.40105799,-85.38557829,"Ice Cream, Desserts",10.0,50.00,0,0,0,30,Greensburg
+892,39.48750702,-85.65956676,North Indian,20.0,50.00,3.2,11,8,45,Saint Paul
+893,39.16545268,-85.41578517,"Chinese, Biryani",20.0,50.00,3.2,8,5,30,Osgood
+894,39.19630194,-85.62270986,"Japanese, Sushi",30.0,50.00,3.8,221,115,45,Westport
+896,39.00580742,-85.92650983,"North Indian, South Indian, Fast Food, Chinese",40.0,50.00,4.0,341,215,45,Seymour
+897,39.47285332,-85.93555109,"North Indian, Seafood",10.0,50.00,3.3,22,4,30,Franklin
+898,39.33127845,-85.31918839,"Cafe, American, Italian, Burger",25.0,50.00,4.1,1950,950,65,Batesville
+899,39.95412894,-85.83699145,"Tea, Fast Food, North Indian, Chinese",15.0,50.00,0,0,0,30,Fortville
+900,39.72528077,-85.40757059,Chinese,20.0,50.00,3.2,11,7,30,Rushville
+901,39.62094552,-85.78200215,North Indian,50.0,50.00,3.4,25,15,30,Morristown
+902,39.63722982,-85.69973847,"North Indian, Chinese, Seafood",25.0,50.00,0,0,0,45,Morristown
+903,39.28078734,-85.80221501,"Biryani, North Indian",20.0,50.00,3.2,144,25,30,Hope
+904,39.23479836,-85.8478572,"North Indian, Mughlai, Chinese",20.0,50.00,3.8,118,72,45,Columbus
+905,39.30400578,-85.37686066,"Pizza, Fast Food, Italian",40.0,200.00,2.8,772,357,45,Greensburg
+906,39.13906537,-85.82773232,Fast Food,15.0,50.00,3.4,18,1,30,Columbus
+907,39.93259057,-85.32981233,"North Indian, Chinese, South Indian",20.0,99.00,3.3,152,62,65,New Castle
+908,39.51947973,-85.85256018,"North Indian, Chinese, South Indian, Fast Food, Biryani",25.0,50.00,3.7,415,193,65,Shelbyville
+909,39.79011822,-85.05515166,North Indian,20.0,50.00,0,0,0,65,Centerville
+910,39.71405779,-85.17261226,"Goan, Seafood, North Indian",40.0,50.00,3.4,46,23,30,Connersville
+911,39.85465604,-85.2232685,"Fast Food, Beverages",15.0,50.00,3.5,143,32,30,Cambridge City
+912,39.14421831,-85.52463089,Maharashtrian,10.0,50.00,0,0,0,30,Westport
+913,39.34835729,-85.00529061,"Pizza, Salad, Burger, Sandwich, Lebanese, Italian",15.0,50.00,4.4,315,248,30,Brookville
+915,39.01983939,-85.5041025,"Fast Food, Beverages",20.0,50.00,3.4,15,10,30,North Vernon
+916,39.02195149,-85.3037329,"North Indian, Chinese",20.0,50.00,3.5,50,9,30,Versailles
+917,39.79484632,-85.07835855,North Indian,10.0,50.00,4.0,126,69,30,Centerville
+918,39.06297422,-85.65677146,"Chinese, Fast Food",10.0,50.00,2.9,30,6,45,Country Squire Lakes
+919,39.98496092,-85.21382015,South Indian,10.0,50.00,3.9,87,21,30,Hagerstown
+920,39.68102857,-85.76403027,"Tamil, Biryani, Chettinad, North Indian, Chinese, South Indian",20.0,50.00,3.6,105,45,30,Morristown
+921,39.70805034,-85.35429140000001,"South Indian, Juices, Desserts",10.0,50.00,3.9,52,23,30,Rushville
+922,39.82496979,-85.49716374,"Fast Food, Chinese, Beverages",25.0,50.00,3.1,89,23,65,Knightstown
+923,39.68743164,-85.12385139,North Indian,15.0,50.00,3.4,19,1,30,Connersville
+924,39.7915845,-85.11301348,"Mughlai, Biryani",20.0,50.00,3.4,12,3,30,Cambridge City
+925,39.38403396,-85.42579934,Bakery,10.0,50.00,4.6,355,260,30,Greensburg
+926,39.55422724,-85.98611321,North Indian,15.0,50.00,3.1,8,3,30,Whiteland
+927,39.40783682,-85.58475801,"North Indian, Mughlai",15.0,50.00,0,0,0,30,Saint Paul
+928,39.38280517,-85.27119654,"Bakery, Fast Food, Desserts",20.0,50.00,3.7,147,72,120,Batesville
+929,39.94912837,-85.82118277,"Desserts, Beverages, Ice Cream",15.0,50.00,3.8,27,17,30,Ingalls
+930,39.45035598,-85.41601897,"Fast Food, Street Food, Beverages, Juices",25.0,50.00,4.2,1762,899,45,Greensburg
+931,39.21632376,-85.04038119,"Biryani, North Indian",30.0,50.00,4.0,47,43,30,Sunman
+932,39.21163388,-85.80858638,"North Indian, Biryani",15.0,50.00,3.5,28,5,30,Hope
+933,39.51389002,-85.43900839,"Asian, Chinese",20.0,50.00,4.2,180,76,45,Rushville
+934,39.44212506,-85.62274867,"Kerala, Seafood, Chinese",30.0,50.00,3.9,394,141,65,Saint Paul
+935,39.71527403,-85.54740135,"Fast Food, Burger",15.0,50.00,3.1,15,0,65,Knightstown
+936,39.95521148,-85.82599963,"Chinese, North Indian, South Indian, Street Food",20.0,50.00,3.5,89,34,45,Ingalls
+937,39.24679246,-85.84952976,"Cafe, Beverages, Sandwich, Fast Food, Desserts",25.0,50.00,2.6,41,19,45,Columbus
+938,39.07006528,-85.60462664,Desserts,10.0,50.00,3.3,7,1,30,North Vernon
+939,39.87830745,-85.57528043,"North Indian, Mughlai",20.0,50.00,0,0,0,30,Knightstown
+942,39.56386002,-85.56762729,"South Indian, Fast Food",10.0,50.00,0,0,0,30,Rushville
+943,39.7041726,-85.84418694,Fast Food,20.0,50.00,3.3,7,5,30,New Palestine
+944,39.569134399999996,-85.73531418,"Ice Cream, Beverages",10.0,50.00,3.2,6,2,30,Shelbyville
+945,39.21871275,-85.55874279,"Street Food, North Indian",10.0,50.00,3.1,27,7,30,Westport
+946,39.76326491,-85.27491888,North Indian,10.0,50.00,4.3,133,126,30,Cambridge City
+947,39.5295557,-85.94613017,"Rolls, Kebab",20.0,50.00,3.9,129,65,65,Franklin
+948,39.50956999,-85.55692359,Fast Food,10.0,50.00,3.4,15,2,30,Saint Paul
+949,39.16296799,-85.85032715,Fast Food,10.0,50.00,3.1,4,3,30,Columbus
+950,39.92222579,-85.27046543,Pizza,10.0,50.00,2.9,4,2,30,New Castle
+951,39.07854638,-85.78285327,North Indian,15.0,50.00,2.7,13,5,30,Country Squire Lakes
+952,39.66032496,-85.20060626,Fast Food,10.0,50.00,2.9,5,2,30,Connersville
+953,39.27049181,-85.39454523,"Bakery, Desserts",10.0,50.00,3.4,21,7,30,Greensburg
+954,39.22550445,-85.72307742,"Andhra, North Indian, Chinese, Seafood",20.0,50.00,3.7,0,0,45,Hope
+955,39.66881724,-85.1230257,South Indian,15.0,50.00,3.8,385,20,45,Connersville
+956,39.95307824,-85.07001005,"Biryani, Kebab, North Indian, Hyderabadi",20.0,50.00,3.0,4,2,30,Hagerstown
+957,39.82109426,-85.18257806,"North Indian, Chinese",20.0,50.00,3.5,72,29,45,Cambridge City
+958,39.71926259,-85.77423646,"Beverages, Fast Food, Desserts",10.0,50.00,3.7,22,9,30,Greenfield
+959,39.11096094,-85.51971337,"South Indian, Chinese",10.0,50.00,3.8,128,32,45,Westport
+961,39.66232997,-85.16757742,"South Indian, Mithai",15.0,50.00,3.7,78,31,30,Connersville
+962,39.10632665,-85.3460311,Chinese,20.0,99.00,4.0,46,35,30,Osgood
+963,39.65037493,-85.71852652,Fast Food,20.0,50.00,3.3,11,0,30,Morristown
+964,39.05154676,-85.30635139,"Beverages, Desserts, Ice Cream",20.0,50.00,3.8,108,61,30,Versailles
+965,39.4371711,-85.82305999,"Fast Food, Beverages",10.0,50.00,4.0,500,335,30,Shelbyville
+966,39.44158354,-85.55201806,Mishti,15.0,50.00,3.3,7,1,30,Saint Paul
+967,39.36821952,-85.19769368,"Pizza, Fast Food",20.0,0.00,3.7,112,18,30,Batesville
+968,39.17055152,-85.91698908,"Salad, Healthy Food, Fast Food",10.0,50.00,3.4,21,10,30,Columbus
+969,39.36756249,-85.73149520000001,"Healthy Food, Salad, Lebanese",20.0,50.00,3.7,49,23,30,Geneva
+970,39.78458281,-85.61570097,"Biryani, North Indian",20.0,50.00,3.5,12,5,30,Knightstown
+971,39.87805789,-85.24286585,"Finger Food, Brazilian, BBQ",75.0,50.00,4.3,108,67,45,Hagerstown
+972,39.99611595,-85.62720222,"South Indian, Fast Food",10.0,50.00,3.3,7,3,30,Middletown
+973,39.35122963,-85.01264549,"Continental, North Indian, Mughlai, Italian, Asian",80.0,50.00,4.5,2831,1415,30,Brookville
+974,39.83319224,-85.34427827,"Pizza, Fast Food",15.0,50.00,3.6,37,6,30,New Castle
+976,39.26617316,-85.13085413,"Biryani, Bengali",10.0,50.00,3.6,1094,249,30,Sunman
+977,39.89559883,-85.51563641,"Beverages, Fast Food",15.0,50.00,3.0,16,6,30,Knightstown
+978,39.4627998,-85.81657514,"Mithai, Street Food, South Indian, North Indian, Chinese, Bakery",25.0,99.00,3.8,443,243,30,Shelbyville
+980,39.42181968,-85.62149925,Biryani,15.0,50.00,3.1,9,3,30,Saint Paul
+981,39.09842392,-85.74133269,"Cafe, Fast Food",20.0,50.00,3.7,12,5,30,Country Squire Lakes
+982,39.55730313,-85.78778871,Fast Food,15.0,50.00,0,0,0,30,Shelbyville
+983,39.86824142,-85.56479468,"North Indian, Arabian, Mughlai, Biryani, Seafood, Beverages",40.0,50.00,4.4,0,0,30,Knightstown
+984,39.28962786,-85.26883537,"Pizza, Desserts",25.0,50.00,4.1,112,47,30,Batesville
+985,39.52300464,-85.20216733,Chinese,15.0,50.00,2.9,4,3,30,Connersville
+986,39.10340432,-85.16938816,North Indian,30.0,50.00,3.7,31,20,65,Milan
+987,39.44644601,-85.54839188,"Momos, Chinese, Burger, Fast Food",10.0,79.00,4.1,1000,205,30,Saint Paul
+988,39.06719585,-85.54309406,Pizza,20.0,50.00,3.8,174,45,45,North Vernon
+989,39.55136939,-85.2407709,Biryani,20.0,50.00,0,0,0,30,Connersville
+990,39.15952174,-85.16731013,"Arabian, Lebanese, Mughlai, North Indian, BBQ, Chinese",20.0,50.00,4.0,414,254,45,Milan
+991,39.340248700000004,-85.97958167,"Ice Cream, Fast Food",15.0,50.00,3.3,9,3,30,Edinburgh
+992,39.10215647,-85.50408902,North Indian,20.0,50.00,3.2,22,3,45,Westport
+993,39.16827412,-85.74808367,"Fast Food, Chinese",10.0,50.00,0,0,0,30,Hope
+994,39.58549274,-85.93552235,"North Indian, Chinese",20.0,50.00,0,0,0,30,New Palestine
+995,39.99255442,-85.76839261,"North Indian, Thai, Chinese",60.0,99.00,2.9,51,28,45,Pendleton
+996,39.86068342,-85.90507257,"Desserts, Beverages",20.0,50.00,3.6,27,10,30,McCordsville
+999,39.3150375,-85.72256156,Healthy Food,30.0,50.00,3.9,130,72,45,Hope
+1000,39.11378377,-85.17255779999999,"South Indian, North Indian, Chinese, Beverages",20.0,50.00,3.8,142,39,30,Milan
+1001,39.29470254,-85.23730755,"Italian, Continental, Chinese",25.0,50.00,0,0,0,30,Batesville
+1002,39.01846084,-85.93868378,"Fast Food, North Indian, BBQ",15.0,50.00,2.9,12,2,30,Seymour
+1003,39.90770799,-85.79312528,"South Indian, North Indian, Chinese",15.0,50.00,3.5,19,10,30,Ingalls
+1005,39.43525391,-85.9259235,Cafe,20.0,50.00,3.6,79,55,30,Edinburgh
+1006,39.62330363,-85.07228428,North Indian,10.0,50.00,0,0,0,30,Connersville
+1007,39.2903352,-85.67222871,"Burger, Belgian, Fast Food, Desserts",25.0,50.00,4.3,489,241,65,Hope
+1008,39.15695529,-85.92198742,"North Indian, Chinese",15.0,50.00,3.0,9,1,30,Columbus
+1009,39.25010832,-85.46422716,"Odia, North Indian, Chinese",15.0,50.00,3.4,13,3,45,Greensburg
+1010,39.96854835,-85.25268119,"North Indian, Chinese",15.0,50.00,0,0,0,30,Hagerstown
+1011,39.05756388,-85.30290564,"North Indian, Chinese, Momos, Mughlai",20.0,50.00,3.5,0,0,30,Versailles
+1012,39.63434511,-85.74872235,Cafe,30.0,50.00,3.8,68,26,30,Morristown
+1013,39.36499559,-85.92001167,North Indian,10.0,50.00,3.9,2080,268,45,Edinburgh
+1014,39.538909499999995,-85.11951097,"South Indian, Chinese",15.0,50.00,3.6,98,51,30,Connersville
+1015,39.90444907,-85.10629420000001,North Indian,20.0,50.00,3.4,42,3,30,Hagerstown
+1016,39.47101838,-85.47430529,"North Indian, Chinese, South Indian",20.0,50.00,3.7,51,18,45,Greensburg
+1017,39.76449736,-85.11780264,"Raw Meats, Naga",10.0,50.00,3.6,19,7,30,Cambridge City
+1018,39.91263433,-85.3097103,"North Indian, South Indian, Chinese, Bakery",20.0,50.00,3.4,214,116,45,New Castle
+1019,39.35610906,-85.19919413,"Mithai, Fast Food",15.0,50.00,3.4,42,6,45,Batesville
+1020,39.38947397,-85.18513869,"South Indian, North Indian, Chinese",10.0,50.00,4.0,1265,547,45,Batesville
+1022,39.05081847,-85.19755175,Fast Food,10.0,50.00,3.9,237,90,45,Versailles
+1023,39.26264412,-85.01209256,"North Indian, Mughlai, Chinese",25.0,50.00,3.7,99,50,45,Sunman
+1024,39.88021199,-85.73211671,"North Indian, Chinese",15.0,50.00,0,0,0,30,Greenfield
+1025,39.17966186,-85.65193126,"Korean, Momos, Asian",80.0,50.00,4.0,262,112,30,Westport
+1026,39.40067884,-85.64603538,"Fast Food, Burger, American, Wraps",15.0,99.00,3.4,50,14,45,Saint Paul
+1027,39.57115562,-85.7321507,"Biryani, Fast Food",10.0,50.00,3.4,15,4,30,Shelbyville
+1028,39.3870282,-85.26206415,"Beverages, Juices, Fast Food",10.0,50.00,0,0,0,45,Batesville
+1029,39.40695163,-85.31982047,"Fast Food, Bakery",20.0,50.00,0,0,0,30,Batesville
+1030,39.71028556,-85.11667956,"Andhra, Chinese, Biryani",20.0,50.00,3.1,230,54,45,Connersville
+1031,39.35969872,-85.55752303,"Chinese, North Indian",15.0,50.00,3.5,15,3,30,Greensburg
+1032,39.11790817,-85.32007855,Juices,5.0,50.00,0,0,0,30,Osgood
+1033,39.97722517,-85.68097979,"Rolls, Biryani",15.0,50.00,3.3,11,3,30,Pendleton
+1034,39.09650853,-85.94416843,"North Indian, South Indian, Chinese",15.0,50.00,3.3,153,13,45,Columbus
+1035,39.64233749,-85.03482294,"South Indian, Fast Food, North Indian, Chinese, Biryani",30.0,50.00,3.6,294,58,45,Liberty
+1036,39.88467112,-85.39436461,"North Indian, Chinese, Mithai",15.0,50.00,0,0,0,30,New Castle
+1037,39.22506303,-85.13392829,"Fast Food, Chinese",10.0,50.00,3.4,20,6,30,Sunman
+1038,39.03870033,-85.61592904,Healthy Food,25.0,50.00,3.6,112,63,30,North Vernon
+1039,39.55040846,-85.03793367,North Indian,15.0,50.00,0,0,0,30,Brookville
+1040,39.1660343,-85.09476742,"Ice Cream, Beverages",10.0,50.00,0,0,0,30,Milan
+1041,39.70347253,-85.99603437,"South Indian, Beverages",10.0,50.00,3.3,1097,57,45,Cumberland
+1042,39.9755519,-85.39357652,"Mughlai, North Indian",40.0,50.00,3.6,19,11,30,New Castle
+1043,39.935044,-85.56833563,"North Indian, Chinese, South Indian, Fast Food",15.0,50.00,3.0,5,0,30,Middletown
+1044,39.39249321,-85.01334803,"North Indian, South Indian",15.0,50.00,3.7,80,31,45,Brookville
+1045,39.93340755,-85.00154061,"Mughlai, North Indian",15.0,50.00,3.7,81,18,45,Centerville
+1047,39.72632784,-85.79061907,"European, American, Bakery, Salad",55.0,50.00,4.1,2221,1276,30,Greenfield
+1048,39.3164045,-85.85087104,"North Indian, Beverages",15.0,50.00,2.8,4,4,45,Hope
+1049,39.39679767,-85.64521748,South Indian,15.0,99.00,4.1,1008,245,45,Saint Paul
+1050,39.82516917,-85.91722048,Arabian,30.0,50.00,3.7,953,43,45,Cumberland
+1051,39.3120465,-85.38127332,"Pizza, Fast Food",20.0,50.00,3.9,23,17,30,Greensburg
+1052,39.95274292,-85.07903691,"North Indian, Chinese",20.0,50.00,3.8,133,99,30,Hagerstown
+1053,39.79905824,-85.50208399,"Fast Food, Pizza, Rolls, Sandwich",15.0,50.00,3.4,16,4,30,Knightstown
+1054,39.29792097,-85.25954362,"Ice Cream, Beverages",10.0,50.00,0,0,0,30,Batesville
+1055,39.577661799999994,-85.44245453,"South Indian, Beverages",25.0,50.00,3.2,14,13,30,Rushville
+1056,39.47285011,-85.76612655,"North Indian, South Indian, Italian, Continental, Mediterranean, Lebanese, Desserts, Beverages",20.0,50.00,3.6,36,31,30,Shelbyville
+1057,39.92466029,-85.36454537,"Fast Food, Street Food, Beverages",20.0,50.00,3.4,54,17,30,New Castle
+1058,39.91431572,-85.07493575,"Cafe, Fast Food, Beverages",30.0,50.00,4.4,1434,941,45,Hagerstown
+1059,39.16946976,-85.73525763,"North Indian, Chinese, Mughlai",20.0,50.00,2.9,6,2,65,Hope
+1061,39.77235401,-85.83393068,"North Indian, Rolls",15.0,50.00,3.2,9,1,30,Greenfield
+1062,39.85518545,-85.96305838,Bakery,10.0,50.00,4.1,27,23,30,Lawrence
+1063,39.82773852,-85.31995498,"North Indian, Chinese",20.0,50.00,3.8,18,11,30,New Castle
+1064,39.92555462,-85.16573616,Beverages,10.0,50.00,3.2,7,3,30,Hagerstown
+1065,39.46222597,-85.40389424,"North Indian, Chinese",10.0,50.00,3.4,207,107,45,Greensburg
+1066,39.81863735,-85.02625359,South Indian,15.0,50.00,3.6,26,8,30,Centerville
+1067,39.34574282,-85.3484503,"Cafe, Fast Food",15.0,50.00,3.9,152,81,45,Batesville
+1068,39.90126075,-85.85336555,"Cafe, Beverages, Bakery",20.0,50.00,4.1,343,256,45,Fortville
+1069,39.7948996,-85.83763582,"North Indian, Rolls",15.0,50.00,2.6,29,7,30,Greenfield
+1071,39.65096465,-85.51236976,"Chinese, Fast Food",15.0,50.00,3.0,8,1,30,Rushville
+1072,39.55530819,-85.97199705,"Chinese, Rolls",25.0,99.00,3.3,27,9,30,Whiteland
+1073,39.44749556,-85.05649688,North Indian,20.0,50.00,3.2,4,1,30,Brookville
+1074,39.19183347,-85.4136247,"North Indian, Mughlai",15.0,50.00,2.8,7,3,30,Osgood
+1075,39.21450042,-85.83134025,"Chinese, North Indian, Mughlai",30.0,50.00,3.7,243,84,65,Columbus
+1076,39.87946824,-85.50582374,"South Indian, North Indian, Chinese",15.0,50.00,3.8,73,30,30,Knightstown
+1077,39.08843184,-85.01135102,"Sandwich, Fast Food",10.0,50.00,4.0,55,14,30,Dillsboro
+1078,39.05911229,-85.75096665,"North Indian, Chinese",40.0,50.00,3.6,404,188,45,Country Squire Lakes
+1079,39.12625191,-85.62142667,"North Indian, Chinese",10.0,50.00,3.0,10,3,65,Westport
+1080,39.34705036,-85.75433671,"Momos, Fast Food",5.0,50.00,3.6,29,15,30,Hope
+1081,39.6590066,-85.49693814,"North Indian, Chinese",15.0,50.00,3.0,50,19,45,Rushville
+1082,39.53745301,-85.96195386,"Pizza, Fast Food",20.0,50.00,3.2,13,1,45,Franklin
+1083,39.86144502,-85.38701514,"North Indian, Rolls, Desserts",20.0,50.00,3.3,18,5,30,New Castle
+1084,39.60040531,-85.9454547,"Burger, Fast Food, Beverages, Cafe, Desserts",20.0,50.00,3.0,4,2,30,New Palestine
+1085,39.57339796,-85.33463383,"Chinese, Momos, Thai",20.0,50.00,2.9,0,0,30,Rushville
+1086,39.75128889,-85.33379494,"North Indian, Street Food, Beverages, Chinese",20.0,50.00,3.7,51,29,30,Cambridge City
+1087,39.55891711,-85.62279529,Fast Food,10.0,50.00,3.1,7,1,30,Saint Paul
+1088,39.52418042,-85.18490644,Fast Food,10.0,50.00,3.8,61,11,30,Connersville
+1089,39.63190446,-85.76467266,North Indian,40.0,50.00,2.8,20,1,45,Morristown
+1090,39.15426993,-85.67140652,"North Indian, Fast Food, Chinese, South Indian",25.0,99.00,3.9,496,207,30,Westport
+1091,39.15143504,-85.98201089,"Fast Food, Desserts",20.0,50.00,3.5,11,5,30,Columbus
+1093,39.60365329,-85.34168505,"Asian, Biryani, North Indian, Desserts",20.0,50.00,3.9,87,69,30,Rushville
+1094,39.82394258,-85.72732132,"South Indian, Chinese",10.0,50.00,3.7,546,53,30,Greenfield
+1095,39.58468431,-85.60693809,"Pizza, Fast Food",20.0,0.00,3.5,205,47,30,Morristown
+1096,39.43462224,-85.79699172,Fast Food,30.0,50.00,4.4,244,158,30,Geneva
+1097,39.13639219,-85.34483926,Fast Food,10.0,50.00,3.4,12,7,30,Osgood
+1098,39.39124372,-85.35162975,"Continental, Fast Food",20.0,50.00,4.1,30,28,30,Greensburg
+1099,39.07894672,-85.96374668,Lebanese,10.0,50.00,3.7,26,6,30,Columbus
+1100,39.4115172,-85.99741555,Street Food,5.0,50.00,3.8,145,12,30,Edinburgh
+1101,39.44973788,-85.10023395,"North Indian, Chinese",15.0,50.00,3.4,25,9,30,Brookville
+1102,39.05643175,-85.94467041,"Italian, Fast Food",20.0,50.00,3.2,60,17,45,Seymour
+1103,39.98105789,-85.65448537,Fast Food,20.0,50.00,3.0,8,3,30,Pendleton
+1104,39.0750944,-85.42681653,Biryani,15.0,50.00,3.3,15,1,30,Osgood
+1105,39.80722199,-85.35246101,"Asian, Thai, Japanese, Chinese, Momos",60.0,50.00,4.2,1473,849,65,New Castle
+1106,39.4735977,-85.51691282,"Lebanese, Rolls, Fast Food",15.0,50.00,3.3,9,3,30,Saint Paul
+1107,39.675178,-85.25469147,Maharashtrian,10.0,50.00,2.8,12,5,30,Connersville
+1108,39.58877727,-85.32950935,Fast Food,15.0,50.00,3.5,86,28,30,Rushville
+1109,39.683339399999994,-85.0952884,"North Indian, Gujarati",15.0,50.00,3.7,37,8,65,Connersville
+1110,39.54205022,-85.5646645,North Indian,15.0,50.00,0,0,0,30,Saint Paul
+1111,39.18052726,-85.73064665,"North Indian, Chinese",20.0,50.00,3.2,76,18,65,Hope
+1112,39.73767594,-85.32835907,"North Indian, Chinese",20.0,50.00,4.1,46,41,30,Cambridge City
+1113,39.45516631,-85.34316048,"Desserts, Beverages",15.0,50.00,4.0,144,79,30,Greensburg
+1114,39.28975153,-85.87504983,"South Indian, Chinese, North Indian",20.0,50.00,3.8,36,14,30,Lowell
+1115,39.63779713,-85.46271796,"Tea, Beverages, Fast Food",15.0,50.00,3.0,9,3,30,Rushville
+1116,39.70743233,-85.36500732,"Mughlai, Biryani",20.0,50.00,3.9,566,77,30,Rushville
+1117,39.02986127,-85.07876116,"Cafe, Chinese, Italian, North Indian, Juices, Momos",30.0,50.00,4.1,1177,696,45,Dillsboro
+1118,39.29677491,-85.00431465,"North Indian, Chinese, Mughlai",25.0,50.00,3.5,52,40,30,Sunman
+1119,39.43629537,-85.23002708,Bakery,10.0,50.00,3.6,21,15,45,Batesville
+1120,39.48639857,-85.74113955,"North Indian, Chinese, Biryani",20.0,50.00,0,0,0,30,Shelbyville
+1121,39.63157683,-85.13574094,"Fast Food, Chinese",15.0,50.00,0,0,0,30,Connersville
+1122,39.46542008,-85.00392736,North Indian,10.0,50.00,3.5,20,1,30,Brookville
+1123,39.59935057,-85.37394415,"Cafe, Healthy Food, Beverages, Italian, North Indian",40.0,50.00,4.2,246,100,65,Rushville
+1125,39.39350593,-85.80974313,"Chinese, North Indian, South Indian, Fast Food",25.0,50.00,3.9,580,317,30,Geneva
+1126,39.56772065,-85.29042715,"Bakery, Fast Food, Desserts, North Indian",20.0,50.00,3.5,11,3,30,Rushville
+1127,39.44124651,-85.56706256,"North Indian, Biryani, Chinese",20.0,50.00,3.5,32,7,30,Saint Paul
+1128,39.66524066,-85.80283378,"Cafe, Italian, Continental",40.0,50.00,4.2,738,400,30,New Palestine
+1129,39.495788299999994,-85.14360351,"North Indian, Asian, Healthy Food",20.0,50.00,3.9,169,44,65,Connersville
+1131,39.47001093,-85.1079519,"Bakery, Fast Food, Desserts",20.0,50.00,3.9,332,148,65,Brookville
+1133,39.32529858,-85.50349195,"Arabian, Biryani",20.0,50.00,0,0,0,30,Greensburg
+1134,39.84413916,-85.26615734,"Mughlai, North Indian, Continental, Modern Indian, Street Food",40.0,50.00,4.3,296,187,30,Cambridge City
+1136,39.39059959,-85.46998182,"North Indian, Beverages",10.0,50.00,0,0,0,30,Greensburg
+1137,39.99459482,-85.39099686,"North Indian, Chinese, Momos",20.0,50.00,3.5,215,35,45,New Castle
+1138,39.48719897,-85.42181475,"North Indian, Chinese, South Indian, Continental",10.0,50.00,3.4,25,10,30,Rushville
+1139,39.21003998,-85.02930857,"North Indian, Continental",20.0,50.00,3.4,10,4,30,Sunman
+1140,39.61669873,-85.30801848,"Beverages, Street Food",15.0,50.00,3.9,170,86,30,Rushville
+1141,39.01675089,-85.40897271,"Fast Food, Chinese, Momos",15.0,50.00,2.9,17,2,45,Osgood
+1142,39.2917643,-85.1981206,South Indian,15.0,50.00,3.3,9,3,30,Batesville
+1143,39.07573376,-85.12916209,"Cafe, Momos, North Indian, Desserts",15.0,50.00,3.8,166,54,45,Milan
+1144,39.61282882,-85.00963931,"North Indian, Chinese, Italian, Continental, Thai",60.0,50.00,3.7,297,168,45,Liberty
+1145,39.50752603,-85.06039958,"North Indian, Fast Food",10.0,50.00,0,0,0,30,Brookville
+1146,39.70934607,-85.34164375,"Chinese, Fast Food, Ice Cream, Beverages",25.0,50.00,3.7,212,101,30,Rushville
+1147,39.48778903,-85.72917438,"Fast Food, Mithai, Bakery",10.0,50.00,3.2,12,3,30,Shelbyville
+1148,39.18197506,-85.3829597,Street Food,10.0,50.00,3.6,238,153,30,Osgood
+1149,39.89011786,-85.65476996,"Chinese, North Indian, Fast Food, Momos",45.0,99.00,4.1,2664,1356,30,Pendleton
+1150,39.15264777,-85.73438108,Mughlai,35.0,50.00,3.4,34,16,45,Country Squire Lakes
+1151,39.45597404,-85.40072218,"North Indian, Chinese, South Indian",15.0,50.00,3.7,87,30,30,Greensburg
+1152,39.82405764,-85.00956177,"Beverages, Desserts, Ice Cream",10.0,50.00,0,0,0,30,Centerville
+1153,39.65846849,-85.83338297,"Mughlai, North Indian",30.0,50.00,4.4,103,78,30,New Palestine
+1154,39.40177075,-85.49237382,"Chinese, Continental, Italian, Healthy Food, Asian, North Indian, Pizza, Desserts",20.0,50.00,3.7,27,16,30,Greensburg
+1155,39.43064233,-85.98513626,Fast Food,20.0,50.00,3.4,442,98,45,Edinburgh
+1156,39.44407258,-85.93209943,"North Indian, Chinese, Fast Food",20.0,50.00,3.2,10,2,30,Edinburgh
+1157,39.30615615,-85.86449813,"Fast Food, Street Food, Beverages",20.0,50.00,2.8,20,5,30,Hope
+1158,39.72686769,-85.21495757,"Burger, Fast Food, Beverages",20.0,50.00,4.3,328,97,45,Cambridge City
+1159,39.57230235,-85.59260109,"North Indian, Chinese",35.0,50.00,3.7,201,118,30,Morristown
+1160,39.105499200000004,-85.16705276,"South Indian, Chinese",15.0,50.00,3.5,40,22,45,Milan
+1161,39.92446075,-85.33422509,"American, North Indian, Finger Food",55.0,50.00,4.0,467,242,45,New Castle
+1162,39.35537366,-85.94247217,"North Indian, Mughlai, Kebab",55.0,50.00,3.9,740,268,45,Edinburgh
+1164,39.53821129,-85.43091256,Fast Food,15.0,50.00,3.8,35,12,30,Rushville
+1165,39.17537347,-85.85224015,South Indian,10.0,50.00,3.5,18,6,30,Columbus
+1166,39.84316586,-85.16791827,"Chinese, North Indian",20.0,50.00,3.4,39,17,30,Cambridge City
+1167,39.00223504,-85.64881724,"Bakery, Desserts, Fast Food",15.0,50.00,3.5,47,16,65,North Vernon
+1168,39.59103004,-85.26469608,"Chinese, Fast Food, South Indian, North Indian",15.0,50.00,0,0,0,45,Connersville
+1169,39.64830971,-85.97817271,"North Indian, South Indian, Continental",40.0,99.00,4.3,1028,728,65,New Palestine
+1170,39.58333544,-85.21805681,"North Indian, Rolls",30.0,50.00,4.1,180,110,30,Connersville
+1171,39.55528627,-85.09548734,"North Indian, Fast Food",10.0,50.00,3.6,36,1,30,Connersville
+1172,39.39959259,-85.36000631,South Indian,15.0,50.00,3.4,30,4,30,Greensburg
+1173,39.46312354,-85.72791374,"Biryani, North Indian",10.0,50.00,0,0,0,45,Geneva
+1174,39.25379045,-85.79141175,"Juices, Fast Food",10.0,50.00,3.9,82,26,45,Hope
+1176,39.25517299,-85.36751568,"Mithai, Street Food",15.0,50.00,3.7,6,0,30,Greensburg
+1177,39.71194439,-85.47098595,"North Indian, Chinese",25.0,50.00,3.2,7,2,30,Knightstown
+1178,39.54206014,-85.89976462,"Biryani, North Indian, Chinese",25.0,50.00,3.5,51,32,30,Shelbyville
+1179,39.35893857,-85.99141787,"Fast Food, Beverages",15.0,50.00,3.8,24,9,30,Edinburgh
+1180,39.58777695,-85.56480514,"Continental, North Indian, BBQ, Steak",80.0,50.00,4.7,9054,6504,45,Rushville
+1182,39.39731299,-85.57053762,South Indian,5.0,50.00,3.1,98,10,30,Saint Paul
+1183,39.21076105,-85.41059164,North Indian,10.0,50.00,3.4,19,6,30,Osgood
+1185,39.01198835,-85.83197345,"Sandwich, Beverages, Fast Food",10.0,50.00,3.6,29,6,30,Seymour
+1186,39.10191235,-85.29298515,"North Indian, Mughlai, Chinese",20.0,50.00,3.4,26,13,30,Osgood
+1187,39.5622732,-85.69464296,"Mithai, Street Food",10.0,50.00,3.9,110,26,30,Shelbyville
+1188,39.34127643,-85.19135774,Fast Food,20.0,50.00,0,0,0,30,Batesville
+1189,39.34239206,-85.55690685,"Chinese, Thai",30.0,99.00,3.0,62,30,45,Greensburg
+1190,39.67491849,-85.60754427,North Indian,25.0,50.00,3.1,4,1,30,Morristown
+1191,39.11165515,-85.15053857,Street Food,10.0,50.00,3.9,138,50,45,Milan
+1192,39.31215052,-85.6936807,"Mithai, North Indian, South Indian, Chinese",15.0,50.00,0,0,0,45,Hope
+1193,39.26067667,-85.22048382,"Biryani, Kebab",10.0,50.00,3.4,11,2,30,Batesville
+1194,39.30825271,-85.05234797,"North Indian, Street Food, Desserts",15.0,50.00,4.0,696,296,45,Sunman
+1195,39.07009996,-85.00766232,"North Indian, Chinese, Seafood",50.0,50.00,3.1,46,32,30,Dillsboro
+1196,39.4424864,-85.02853213,Beverages,15.0,50.00,0,0,0,30,Brookville
+1198,39.61088614,-85.86950258,"South Indian, Biryani, Hyderabadi, Fast Food, Chinese",10.0,50.00,3.7,50,5,30,New Palestine
+1199,39.7943524,-85.38793952,Beverages,10.0,50.00,3.3,9,7,30,New Castle
+1200,39.36380008,-85.64487308,"Pizza, Fast Food",10.0,50.00,0,0,0,30,Saint Paul
+1202,39.46418073,-85.05133363,"North Indian, South Indian, Chinese",20.0,50.00,0,0,0,30,Brookville
+1203,39.33367163,-85.88440507,Fast Food,15.0,50.00,3.5,69,26,30,Edinburgh
+1204,39.59222242,-85.74873759,"Bengali, Chinese, North Indian",15.0,50.00,3.1,5,0,30,Shelbyville
+1205,39.39743761,-85.61425461,"South Indian, Chinese, North Indian",20.0,50.00,2.9,14,10,30,Saint Paul
+1206,39.89981956,-85.30372632,"North Indian, Chinese",20.0,99.00,4.1,2465,860,45,New Castle
+1207,39.51946837,-85.65713987,Fast Food,15.0,50.00,0,0,0,30,Saint Paul
+1208,39.71394646,-85.51794664,Mithai,20.0,50.00,3.7,61,18,30,Knightstown
+1209,39.43872903,-85.88415368,North Indian,25.0,50.00,3.2,16,2,30,Edinburgh
+1210,39.67606904,-85.3614218,"Bakery, Desserts",20.0,99.00,2.8,4,4,120,Rushville
+1211,39.07331576,-85.89293647,"Fast Food, Momos, Desserts, Beverages",10.0,50.00,3.7,196,88,45,Seymour
+1212,39.58770004,-85.86978066,"Chinese, Continental, Burger, Pizza",40.0,50.00,3.7,372,226,30,Shelbyville
+1213,39.01678564,-85.28631944,Fast Food,15.0,50.00,3.8,35,12,30,Versailles
+1214,39.38086696,-85.79238246,Desserts,10.0,50.00,0,0,0,30,Geneva
+1215,39.90093672,-85.19523953,"North Indian, Biryani",10.0,50.00,2.7,16,10,30,Hagerstown
+1217,39.3828565,-85.78647874,"Chinese, Momos",10.0,50.00,3.9,129,85,30,Geneva
+1218,39.00881468,-85.11112897,Fast Food,15.0,50.00,0,0,0,30,Dillsboro
+1219,39.35210636,-85.37766797,"North Indian, Kebab",20.0,50.00,0,0,0,30,Greensburg
+1220,39.23826152,-85.10683532,"Asian, Chinese",30.0,50.00,4.2,510,230,65,Sunman
+1221,39.52348227,-85.84419657,"North Indian, Chinese, Fast Food",5.0,50.00,3.3,9,5,30,Shelbyville
+1222,39.59356969,-85.45745923,"North Indian, Rolls, Chinese",20.0,50.00,3.5,22,12,30,Rushville
+1223,39.1444688,-85.71540509,"North Indian, Maharashtrian, Chinese",20.0,50.00,3.3,20,6,45,Country Squire Lakes
+1224,39.71764228,-85.26424716,"North Indian, Chinese, South Indian, Fast Food",25.0,50.00,3.6,87,37,45,Cambridge City
+1225,39.30252879,-85.46948917,"Cafe, Chinese",20.0,50.00,3.6,90,14,30,Greensburg
+1226,39.36760189,-85.98144520000001,Mithai,15.0,50.00,3.7,41,7,30,Edinburgh
+1227,39.14212498,-85.91420975,Fast Food,10.0,50.00,3.5,55,24,30,Columbus
+1228,39.95532877,-85.80164552,"North Indian, Chinese",25.0,50.00,3.8,365,206,30,Ingalls
+1229,39.91292875,-85.70288105,North Indian,20.0,50.00,2.9,6,2,30,Pendleton
+1230,39.95578573,-85.80393723,North Indian,20.0,50.00,3.2,11,3,30,Ingalls
+1231,39.52108028,-85.05323143,Biryani,15.0,50.00,2.8,8,3,30,Brookville
+1233,39.52595413,-85.48538005,North Indian,15.0,50.00,3.7,110,34,45,Rushville
+1234,39.34046311,-85.46613097,"Chinese, Mughlai",45.0,50.00,4.1,1719,1260,45,Greensburg
+1235,39.86750828,-85.73970028,"North Indian, South Indian, Chinese, Fast Food, Mithai",20.0,50.00,3.8,1291,366,45,Greenfield
+1236,39.40176031,-85.8114829,"Continental, Italian, American",30.0,50.00,4.0,611,320,45,Geneva
+1237,39.88302274,-85.48232883,"Mithai, North Indian, Street Food, Chinese, South Indian",20.0,50.00,3.7,435,184,65,Knightstown
+1238,39.13745067,-85.72340034,North Indian,15.0,50.00,3.5,27,5,30,Country Squire Lakes
+1239,39.35096289,-85.17848919,"Cafe, Fast Food",35.0,50.00,4.2,164,115,45,Batesville
+1240,39.87931638,-85.27699364,Fast Food,10.0,50.00,0,0,0,30,New Castle
+1241,39.30044993,-85.62088508,"Burger, Fast Food",15.0,99.00,4.0,1608,986,45,Saint Paul
+1242,39.89736043,-85.92760279,"Desserts, Beverages, Healthy Food",20.0,50.00,3.6,48,19,45,McCordsville
+1243,39.17290206,-85.71006687,"Rolls, Salad, Sandwich",20.0,50.00,3.9,83,31,30,Westport
+1244,39.55058207,-85.74069249,South Indian,10.0,50.00,3.9,145,52,30,Shelbyville
+1245,39.39876878,-85.67384795,North Eastern,40.0,50.00,3.9,161,35,30,Geneva
+1246,39.40959068,-85.54953354,"Bakery, Desserts, Ice Cream",20.0,50.00,0,0,0,30,Saint Paul
+1247,39.06923832,-85.8540493,Bakery,15.0,50.00,2.8,14,9,30,Seymour
+1248,39.78580917,-85.36913840000001,"Fast Food, Rolls",15.0,50.00,3.7,134,41,45,New Castle
+1249,39.17954699,-85.06583753,"North Indian, Chinese, Biryani",25.0,50.00,3.7,327,59,30,Sunman
+1250,39.30194328,-85.55959320000001,"Mithai, Street Food",10.0,50.00,3.2,7,2,65,Greensburg
+1251,39.72690131,-85.52814288,"North Indian, Chinese, Continental, Italian",60.0,50.00,4.2,713,560,30,Knightstown
+1252,39.23028477,-85.57939754,"Biryani, North Indian, Chinese, Arabian",30.0,50.00,3.7,85,33,65,Westport
+1253,39.79008557,-85.23809242,"Bakery, Fast Food, Desserts",20.0,50.00,3.5,80,47,30,Cambridge City
+1254,39.05134834,-85.38666835,"Cafe, Fast Food, Beverages",20.0,50.00,0,0,0,30,Osgood
+1255,39.55469531,-85.14525059,"Seafood, Chinese, Fast Food, North Indian, Maharashtrian",20.0,50.00,3.2,8,4,30,Connersville
+1256,39.3442469,-85.52319871,"Pizza, Italian",20.0,50.00,3.9,0,0,30,Greensburg
+1257,39.3524021,-85.34305831,"North Indian, Healthy Food, South Indian",20.0,50.00,3.6,79,23,30,Batesville
+1258,39.2360843,-85.36912854,"Fast Food, Italian, Beverages",15.0,50.00,3.6,167,89,65,Osgood
+1259,39.72454038,-85.43881409,"North Indian, Chinese",20.0,50.00,2.8,33,5,45,Knightstown
+1260,39.45424252,-85.08444934,"North Indian, Rolls, Biryani",20.0,50.00,3.8,263,67,45,Brookville
+1261,39.44684946,-85.02729441,Mishti,5.0,99.00,4.4,1512,579,45,Brookville
+1262,39.15561428,-85.40086412,"Chinese, Thai",20.0,99.00,3.5,34,20,65,Osgood
+1263,39.71352998,-85.96750321,"Chinese, Momos",20.0,50.00,4.2,238,172,45,Cumberland
+1264,39.62640302,-85.85421613,"Cafe, Fast Food",15.0,50.00,3.6,144,68,30,New Palestine
+1265,39.81212722,-85.78850976,"North Indian, Mughlai, Chinese",20.0,50.00,4.0,0,0,30,Greenfield
+1266,39.81163043,-85.44950714,"North Indian, Mughlai",35.0,50.00,4.0,84,51,30,Knightstown
+1267,39.5355759,-85.1755983,"North Indian, Asian",20.0,50.00,3.2,5,3,30,Connersville
+1268,39.8156088,-85.90809242,"North Indian, Fast Food",20.0,99.00,3.9,275,62,45,Cumberland
+1269,39.16841878,-85.91165818,"Street Food, North Indian, South Indian, Mithai",15.0,50.00,3.7,76,38,30,Columbus
+1270,39.16604281,-85.88846096,"Fast Food, North Indian",10.0,50.00,3.6,26,5,30,Columbus
+1271,39.06559910000001,-85.40104602,Fast Food,20.0,99.00,3.7,282,96,65,Osgood
+1272,39.56079962,-85.77577114,"Chinese, North Indian",25.0,50.00,2.7,78,34,65,Shelbyville
+1274,39.59131873,-85.33498694,North Indian,10.0,50.00,3.7,56,3,30,Rushville
+1275,39.22308269,-85.72783869,"Cafe, Continental, Italian",35.0,50.00,4.3,1105,751,45,Hope
+1276,39.00134756,-85.22282091,"Bengali, Mithai",15.0,50.00,3.1,17,8,30,Versailles
+1277,39.88360254,-85.67320697,"Fast Food, Chinese, Asian, Thai",25.0,50.00,4.2,759,545,45,Pendleton
+1278,39.21932828,-85.60262412,North Indian,15.0,50.00,2.8,13,3,30,Westport
+1279,39.12122602,-85.15238731,Fast Food,10.0,50.00,3.5,120,72,30,Milan
+1280,39.78754993,-85.65635672,"Arabian, North Indian, Biryani, Mughlai, BBQ, Salad, Fast Food, Desserts",20.0,50.00,3.5,16,4,45,Greenfield
+1281,39.90886401,-85.04237759,"South Indian, North Indian, Chinese",15.0,50.00,3.1,73,44,30,Centerville
+1282,39.97365522,-85.28548451,"Burger, Fast Food, Desserts, Beverages",15.0,50.00,0,0,0,30,New Castle
+1283,39.55731148,-85.05165555,"Continental, Juices, American, Fast Food, Italian, Ice Cream",20.0,50.00,2.8,94,49,45,Connersville
+1284,39.30281734,-85.93088394,Desserts,5.0,50.00,3.2,7,0,30,Lowell
+1285,39.34064638,-85.55748442,"Desserts, Beverages",15.0,50.00,4.4,67,55,30,Greensburg
+1287,39.93885908,-85.84476686,South Indian,20.0,50.00,3.9,52,47,30,Fortville
+1288,39.5793298,-85.20877333,North Indian,10.0,50.00,3.4,68,14,45,Connersville
+1289,39.90531577,-85.70471421,"Beverages, Fast Food",15.0,50.00,3.7,108,31,30,Pendleton
+1290,39.84544903,-85.79228106,"North Indian, Chinese, Biryani, Desserts, Beverages",25.0,50.00,3.4,38,4,65,Greenfield
+1292,39.20710804,-85.56823392,"North Indian, Maharashtrian",15.0,50.00,0,0,0,45,Westport
+1293,39.08781794,-85.84162649,"Fast Food, Chinese",20.0,50.00,4.0,439,202,45,Seymour
+1294,39.84600877,-85.0332778,"Desserts, Fast Food, Beverages",25.0,50.00,3.7,5,3,30,Centerville
+1296,39.33083412,-85.80683055,North Indian,1.2,50.00,3.8,175,94,45,Hope
+1297,39.57385303,-85.06835525,"Biryani, North Indian",20.0,99.00,3.7,28,6,45,Connersville
+1298,39.4704956,-85.93260631,"North Indian, Street Food",10.0,50.00,3.4,8,5,30,Edinburgh
+1299,39.94251665,-85.34750781,"North Indian, Chinese",10.0,50.00,3.8,100,1,30,New Castle
+1300,39.95998026,-85.90332907,"Mexican, American, Italian, Burger",50.0,99.00,4.6,4903,3989,65,McCordsville
+1301,39.2334105,-85.6840604,"Burger, Fast Food",20.0,50.00,3.8,281,111,30,Hope
+1302,39.53377047,-85.58659107,North Indian,20.0,50.00,2.9,4,3,45,Saint Paul
+1303,39.21063011,-85.60958102,"Biryani, Chinese",20.0,50.00,0,0,0,30,Westport
+1304,39.10237014,-85.42699658,"North Indian, Chinese, South Indian",20.0,99.00,3.8,159,68,65,Osgood
+1305,39.97986458,-85.03637641,"Beverages, Lebanese, Arabian",10.0,50.00,3.7,17,8,30,Lynn
+1306,39.35511083,-85.23315669,"South Indian, Chinese",10.0,50.00,3.6,402,9,30,Batesville
+1307,39.80275926,-85.06834136,"North Indian, Chinese, Rolls, Momos",30.0,50.00,3.8,18,12,30,Centerville
+1308,39.02381373,-85.61631596,"North Indian, Mughlai, Chinese",20.0,50.00,3.4,26,13,30,North Vernon
+1309,39.72756924,-85.81443407,"South Indian, Fast Food, Chinese",15.0,50.00,3.3,34,6,30,Greenfield
+1310,39.53322594,-85.31277094,Bakery,15.0,50.00,3.7,49,39,30,Rushville
+1311,39.93136089,-85.69568955,"Fast Food, Rolls",15.0,50.00,3.7,100,49,45,Pendleton
+1312,39.83275903,-85.41829677,"North Indian, Mughlai",15.0,50.00,3.3,12,3,30,New Castle
+1313,39.05324818,-85.25665524,North Indian,15.0,50.00,3.8,91,3,30,Versailles
+1314,39.5648064,-85.45116558,"Healthy Food, North Indian, Biryani, Continental, Beverages",20.0,50.00,4.2,432,105,30,Rushville
+1315,39.31511632,-85.616328,Chinese,10.0,50.00,3.6,28,5,30,Saint Paul
+1316,39.95648254,-85.23636939,"Street Food, Fast Food, Beverages",10.0,50.00,4.1,71,36,45,Hagerstown
+1317,39.93773117,-85.69725571,North Indian,15.0,50.00,3.3,7,4,30,Pendleton
+1318,39.74929705,-85.41715598,"Maharashtrian, Seafood",30.0,99.00,4.1,991,545,65,Knightstown
+1319,39.19014911,-85.88150847,"Japanese, Thai, Chinese",20.0,50.00,3.4,16,5,30,Columbus
+1320,39.17647077,-85.63277284,"Bakery, Desserts",10.0,50.00,3.5,22,8,30,Westport
+1321,39.63301223,-85.56214161,"Bakery, Desserts",25.0,50.00,0,0,0,30,Rushville
+1322,39.0471202,-85.31209934,Beverages,15.0,50.00,0,0,0,30,Versailles
+1323,39.93343543,-85.66078359,"Desserts, Bakery",20.0,50.00,4.0,119,51,45,Pendleton
+1324,39.15356601,-85.09409872,"Fast Food, Healthy Food, Burger, Rolls",20.0,50.00,4.3,211,155,30,Milan
+1325,39.13510937,-85.83049006,"North Indian, Mughlai, Biryani, Rolls, Momos",25.0,99.00,4.8,650,423,45,Columbus
+1326,39.21402205,-85.42991847,"Cafe, Continental, Italian, Beverages",25.0,50.00,3.9,385,191,45,Greensburg
+1328,39.82092903,-85.2263218,North Indian,10.0,50.00,3.3,10,7,30,Cambridge City
+1329,39.14697768,-85.01554449,"Mughlai, North Indian",15.0,99.00,3.7,111,9,45,Milan
+1331,39.44210761,-85.99191263,"North Indian, Mughlai",20.0,50.00,0,0,0,30,Franklin
+1332,39.41438083,-85.08995727,North Indian,20.0,50.00,3.4,16,3,30,Brookville
+1333,39.06006509,-85.91825976,Mithai,20.0,50.00,4.0,152,88,30,Seymour
+1334,39.67847323,-85.38640795,Street Food,5.0,50.00,3.7,27,7,30,Rushville
+1335,39.12208637,-85.35056882,Fast Food,10.0,50.00,0,0,0,45,Osgood
+1336,39.94526046,-85.14993659,"Fast Food, Chinese",20.0,50.00,3.6,31,7,30,Hagerstown
+1337,39.721009499999994,-85.40717659,Desserts,10.0,50.00,3.6,12,11,30,Rushville
+1338,39.27987883,-85.79782332,"Fast Food, Beverages",15.0,50.00,3.5,17,11,30,Hope
+1339,39.59796521,-85.91752674,"North Indian, Street Food",10.0,50.00,0,0,0,30,New Palestine
+1340,39.67881605,-85.12784862,"North Indian, Chinese, Mughlai",20.0,50.00,3.8,619,137,45,Connersville
+1341,39.566626299999996,-85.57424119,South Indian,10.0,50.00,3.7,149,21,30,Rushville
+1342,39.62420893,-85.02897653,"Kashmiri, North Indian, Mughlai, Seafood",45.0,0.00,4.0,829,432,65,Liberty
+1343,39.13186172,-85.90350744,"Desserts, Juices",20.0,50.00,4.1,716,539,30,Columbus
+1344,39.66928528,-85.68324797,"South Indian, North Indian",20.0,50.00,3.8,266,90,30,Morristown
+1345,39.89500296,-85.62291663,"Biryani, Chinese, North Indian",25.0,99.00,2.5,51,27,65,Knightstown
+1346,39.09573102,-85.52919647,"Chinese, Fast Food",10.0,50.00,3.2,58,27,30,Westport
+1347,39.66973156,-85.16606027,"North Indian, Chinese",35.0,50.00,3.8,154,67,45,Connersville
+1348,39.32024286,-85.5253439,Chinese,20.0,50.00,3.8,70,64,30,Greensburg
+1351,39.80863855,-85.14440822,"North Indian, Biryani",20.0,50.00,3.1,15,4,30,Cambridge City
+1352,39.40413252,-85.99388365,"Beverages, Fast Food",20.0,50.00,4.0,58,32,30,Edinburgh
+1353,39.40111718,-85.95610562,Pizza,10.0,50.00,3.3,9,5,30,Edinburgh
+1354,39.48569819,-85.58127205,"Desserts, Beverages, Ice Cream",15.0,50.00,4.0,74,25,30,Saint Paul
+1355,39.97275359,-85.5541639,"North Indian, Chinese",30.0,50.00,3.4,13,4,65,Middletown
+1356,39.49329031,-85.87647321,"Cafe, Spanish, Italian, Mexican, Salad, Juices",25.0,50.00,4.1,1307,794,45,Shelbyville
+1357,39.6769514,-85.11645984,"Chinese, Momos",10.0,50.00,3.3,8,5,30,Connersville
+1358,39.51848124,-85.45529744,"Street Food, Mithai",5.0,99.00,0,0,0,30,Rushville
+1359,39.01470314,-85.85639443,"Continental, Chinese, Thai, Italian, BBQ, Steak",45.0,50.00,4.0,1444,675,45,Seymour
+1360,39.70674414,-85.99851326,"Chinese, Asian, South Indian",35.0,50.00,3.7,28,23,45,Cumberland
+1361,39.91800672,-85.64059977,"Desserts, Beverages",15.0,50.00,3.3,20,14,30,Pendleton
+1363,39.11054799,-85.08954633,Bakery,20.0,50.00,3.0,14,1,45,Milan
+1364,39.46298225,-85.01729003,"Pizza, Italian, Beverages",30.0,50.00,4.0,109,78,30,Brookville
+1365,39.69444367,-85.97785945,"North Indian, Chinese",75.0,50.00,4.2,424,278,30,Cumberland
+1366,39.02503185,-85.51312564,"Italian, Lebanese, North Indian",15.0,50.00,3.2,15,7,30,North Vernon
+1367,39.61323883,-85.18058805,Street Food,5.0,50.00,3.7,39,8,30,Connersville
+1368,39.208075799999996,-85.33758288,"South Indian, Chinese",10.0,50.00,3.5,26,12,30,Osgood
+1369,39.70213329,-85.77449212,"Fast Food, Pizza, Chinese",10.0,50.00,0,0,0,30,Morristown
+1370,39.48462522,-85.90411601,"North Indian, Chinese",20.0,50.00,2.7,134,43,65,Shelbyville
+1371,39.32909628,-85.59020514,"North Indian, South Indian, Chinese",20.0,50.00,3.8,431,108,30,Saint Paul
+1372,39.74879013,-85.61795891,"North Indian, Rolls",25.0,99.00,3.9,250,89,65,Knightstown
+1373,39.00147077,-85.98335817,South Indian,10.0,50.00,3.1,5,0,30,Seymour
+1374,39.52241966,-85.89613546,Chinese,15.0,50.00,3.3,17,6,30,Shelbyville
+1376,39.6522436,-85.69427742,"Seafood, Rolls, BBQ",20.0,50.00,3.4,27,9,45,Morristown
+1378,39.91584663,-85.47712749,"Bakery, Cafe, Fast Food",40.0,50.00,4.2,221,126,30,New Castle
+1379,39.29515564,-85.59507455,Mughlai,15.0,50.00,3.6,52,8,30,Greensburg
+1380,39.07779486,-85.79831614,South Indian,25.0,50.00,4.1,1094,574,45,Country Squire Lakes
+1381,39.40638268,-85.54725187,"Wraps, Healthy Food, Sandwich, Salad",15.0,50.00,4.1,937,278,45,Saint Paul
+1382,39.30065507,-85.21426796,"North Indian, Street Food",10.0,50.00,3.5,19,7,30,Batesville
+1383,39.88047707,-85.29513407,"North Indian, Chinese, Fast Food",20.0,50.00,3.6,27,19,30,New Castle
+1384,39.598661799999995,-85.28535617,North Indian,20.0,50.00,3.7,186,78,45,Connersville
+1385,39.70294228,-85.19677128,"Bengali, North Indian, Chinese",10.0,50.00,3.4,13,8,30,Connersville
+1386,39.34718172,-85.89212865,Healthy Food,20.0,50.00,0,0,0,30,Edinburgh
+1387,39.68755822,-85.44810711,Momos,10.0,50.00,4.4,443,177,30,Rushville
+1388,39.10315297,-85.31854453,"Chinese, Mughlai, North Indian",35.0,99.00,3.3,35,18,65,Osgood
+1389,39.42007926,-85.41175365,"Seafood, North Indian",25.0,50.00,3.8,90,40,45,Greensburg
+1390,39.49107647,-85.08303398,Desserts,10.0,50.00,0,0,0,30,Brookville
+1391,39.62066749,-85.01068105,"North Indian, Street Food",20.0,99.00,3.8,582,256,45,Liberty
+1392,39.75656092,-85.19972695,North Indian,15.0,50.00,3.3,10,5,30,Cambridge City
+1393,39.91397149,-85.60055481,North Indian,15.0,50.00,3.5,304,113,45,Knightstown
+1394,39.78114295,-85.87404173,"North Indian, South Indian, Chinese",25.0,50.00,3.7,92,62,30,New Palestine
+1395,39.37812239,-85.81298368,"Cafe, Fast Food, Chinese",25.0,50.00,4.0,114,71,30,Hope
+1396,39.0393888,-85.54400107,"Fast Food, Beverages",25.0,99.00,4.4,662,410,45,North Vernon
+1397,39.49024715,-85.21131794,"Kerala, Chinese",15.0,50.00,3.4,11,5,30,Connersville
+1398,39.51034504,-85.38032205,"North Indian, Mughlai",25.0,50.00,3.5,12,9,30,Rushville
+1399,39.6970916,-85.40858303,"North Indian, Chinese",20.0,99.00,3.0,125,24,65,Rushville
+1401,39.61225467,-85.82068477,"North Indian, Seafood, Chinese",25.0,50.00,3.1,35,7,30,Shelbyville
+1402,39.26880054,-85.06967143,"Cafe, Bakery, Fast Food",20.0,50.00,3.8,978,360,65,Sunman
+1403,39.30302003,-85.05590364,Bakery,15.0,50.00,3.5,59,30,30,Sunman
+1404,39.78616235,-85.83253466,"Pizza, Italian",20.0,50.00,3.7,27,14,30,Greenfield
+1405,39.12824734,-85.29830069,Rolls,15.0,50.00,3.9,20,16,30,Osgood
+1406,39.26061469,-85.16411602,"Beverages, Fast Food",20.0,50.00,3.5,16,9,30,Batesville
+1407,39.68863543,-85.63753179,"Biryani, North Indian, Chinese",25.0,50.00,3.4,11,4,30,Morristown
+1408,39.69294541,-85.52500429,Tibetan,15.0,50.00,3.1,6,2,30,Knightstown
+1409,39.45231181,-85.71313181,"Fast Food, Street Food",10.0,50.00,3.3,24,10,45,Geneva
+1410,39.35381508,-85.94000886,Chinese,10.0,50.00,3.3,11,1,30,Edinburgh
+1411,39.82606108,-85.60907865,"North Indian, Continental, Healthy Food",20.0,50.00,0,0,0,30,Knightstown
+1412,39.51517203,-85.84772298,"South Indian, North Indian, Chinese",30.0,50.00,4.1,720,405,30,Shelbyville
+1413,39.13308892,-85.100513,"North Indian, South Indian, Chinese",10.0,50.00,3.0,45,24,45,Milan
+1416,39.48081917,-85.71441881,Fast Food,15.0,50.00,3.5,39,19,45,Shelbyville
+1417,39.79974066,-85.24577866,Biryani,20.0,50.00,2.9,125,48,30,Cambridge City
+1419,39.34005008,-85.61785058,"Mithai, Street Food, North Indian, South Indian, Bakery, Chinese, Fast Food",25.0,50.00,4.1,391,83,30,Saint Paul
+1420,39.15938781,-85.32004168,North Indian,15.0,50.00,3.8,17,12,30,Osgood
+1421,39.12156698,-85.26021969,"Biryani, North Indian",20.0,50.00,3.8,61,33,30,Osgood
+1422,39.42379411,-85.34569562,"Biryani, Chinese, North Indian",30.0,50.00,3.7,171,61,30,Greensburg
+1424,39.71349119,-85.14310019999999,North Indian,10.0,50.00,0,0,0,30,Connersville
+1425,39.67660555,-85.3108075,North Indian,15.0,50.00,0,0,0,30,Rushville
+1426,39.85426585,-85.83510097,"Healthy Food, Sandwich, Beverages",20.0,50.00,3.8,56,19,65,Fortville
+1427,39.75723789999999,-85.76776041,"North Indian, Chinese",30.0,50.00,3.4,9,9,30,Greenfield
+1428,39.75988562,-85.5005065,"Italian, Continental, Chinese, Mexican, Fast Food, Street Food, Desserts",30.0,50.00,4.7,3975,2359,65,Knightstown
+1429,39.75834263,-85.97182262,Arabian,10.0,50.00,3.5,53,19,30,Cumberland
+1430,39.34807866,-85.90572338,"Mexican, Italian, Modern Indian",20.0,50.00,3.9,90,64,65,Edinburgh
+1431,39.77516057,-85.28479372,"Street Food, South Indian",5.0,0.00,4.2,765,143,30,Cambridge City
+1432,39.4506264,-85.73406872,"Chinese, North Indian",15.0,50.00,3.7,53,18,30,Geneva
+1433,39.25210821,-85.07671408,"North Indian, Chinese",30.0,50.00,2.8,149,49,45,Sunman
+1434,39.08166058,-85.18154127,"Fast Food, Pizza",15.0,50.00,4.1,55,34,30,Milan
+1435,39.42039408,-85.43747369,South Indian,10.0,50.00,3.3,12,2,30,Greensburg
+1436,39.07580604,-85.52732384,"Healthy Food, North Indian, Biryani, Continental, Beverages",20.0,50.00,3.4,142,42,30,Westport
+1437,39.43953482,-85.09222494,"Andhra, South Indian, North Indian, Biryani, Chinese, Beverages",40.0,99.00,3.8,444,199,45,Brookville
+1438,39.20155554,-85.59105377,"Mughlai, North Indian, Continental, Modern Indian, Street Food",40.0,50.00,4.3,296,187,30,Westport
+1439,39.44053473,-85.24034832,"North Indian, Mughlai, Chinese, Continental",15.0,50.00,3.9,43,39,30,Batesville
+1440,39.77115014,-85.13894553,"Kerala, Biryani",10.0,50.00,3.6,13,5,30,Cambridge City
+1441,39.53336462,-85.68352007,"Cafe, Fast Food",15.0,50.00,2.8,14,10,30,Shelbyville
+1442,39.156866799999996,-85.67297441,"Burger, Fast Food",20.0,50.00,4.0,714,220,45,Westport
+1443,39.13830089,-85.61676157,"Street Food, Maharashtrian",15.0,50.00,4.0,357,152,45,Westport
+1444,39.13958237,-85.79670659,"Italian, Mexican, Continental, North Indian, Finger Food",75.0,50.00,4.1,1504,938,45,Columbus
+1445,39.56097308,-85.61511732,"Biryani, North Indian, Rolls",25.0,50.00,2.9,50,14,65,Saint Paul
+1446,39.73449416,-85.43838319,Fast Food,15.0,50.00,0,0,0,30,Knightstown
+1447,39.13530207,-85.00319028,"Italian, Mexican",20.0,50.00,3.9,65,44,65,Aurora
+1448,39.4458952,-85.49408938,"Desserts, Fast Food",10.0,50.00,3.3,14,7,30,Greensburg
+1449,39.93017388,-85.78892606,"North Indian, Chinese, South Indian",35.0,50.00,3.9,316,196,30,Ingalls
+1450,39.16885414,-85.40472270000001,"Andhra, Biryani",15.0,50.00,3.7,71,17,30,Osgood
+1451,39.24224367,-85.72643191,"North Indian, Chinese, Street Food",25.0,50.00,3.2,16,7,45,Hope
+1452,39.07356574,-85.02207803,"North Indian, Fast Food",15.0,50.00,3.0,4,1,30,Dillsboro
+1453,39.27618049,-85.32495304,South Indian,15.0,50.00,0,0,0,30,Batesville
+1454,39.36383459,-85.05363897,"Mithai, Street Food",15.0,50.00,3.7,29,11,45,Brookville
+1455,39.7191924,-85.26746458,"Rolls, Kebab, Mughlai, North Indian",30.0,50.00,3.5,31,14,30,Cambridge City
+1456,39.0378385,-85.61950446,Fast Food,20.0,50.00,3.6,44,11,30,North Vernon
+1457,39.44373335,-85.0556724,"North Indian, Fast Food, Biryani, Rolls, Wraps",25.0,50.00,4.0,206,68,65,Brookville
+1458,39.73284306,-85.90591824,"North Indian, Chinese, Italian",40.0,50.00,3.8,233,117,45,New Palestine
+1459,39.84696972,-85.62477244,"North Indian, Mughlai, Kebab",95.0,50.00,4.1,2340,1133,45,Knightstown
+1460,39.31444712,-85.67938179,"Mithai, Street Food",15.0,50.00,4.0,124,39,45,Geneva
+1461,39.42688820000001,-85.12802939,"North Indian, Street Food",10.0,50.00,3.4,14,10,30,Brookville
+1462,39.83247865,-85.89924556,"Cafe, Desserts, French, Bakery, European",25.0,50.00,4.6,1502,819,30,McCordsville
+1463,39.64484724,-85.69627777,South Indian,15.0,50.00,3.5,25,13,30,Morristown
+1464,39.97725613,-85.90910279,"Salad, Continental, Italian, Mexican, Desserts, Beverages",50.0,50.00,4.4,538,314,45,McCordsville
+1465,39.6663186,-85.41678965,Fast Food,20.0,50.00,0,0,0,30,Rushville
+1466,39.3177555,-85.01100076,"North Indian, Biryani",15.0,50.00,3.5,71,14,30,Brookville
+1467,39.47746902,-85.73887985,"North Indian, Chinese",20.0,50.00,3.2,33,11,45,Shelbyville
+1468,39.0167879,-85.86445587,"North Indian, Biryani, Chinese",15.0,50.00,3.3,64,35,30,Seymour
+1469,39.3918537,-85.99884370000001,"Biryani, North Indian",35.0,50.00,4.1,2264,1211,45,Edinburgh
+1470,39.50782967,-85.80668862,"Pizza, Fast Food",20.0,50.00,3.6,43,14,30,Shelbyville
+1471,39.88181542,-85.07418264,"North Indian, Chinese, Street Food",20.0,50.00,3.6,13,3,30,Hagerstown
+1472,39.93015246,-85.49463429,"Rolls, Fast Food",15.0,50.00,3.7,373,168,65,New Castle
+1473,39.11488515,-85.8257958,Fast Food,20.0,50.00,0,0,0,30,Columbus
+1474,39.74938613,-85.16280982,Mithai,20.0,50.00,3.3,12,5,30,Cambridge City
+1475,39.0944425,-85.37810159,"Chinese, Mughlai",15.0,50.00,3.7,59,12,45,Osgood
+1476,39.94358608,-85.94590734,"North Indian, Mughlai",30.0,50.00,4.3,570,224,65,McCordsville
+1477,39.28635773,-85.04718707,North Indian,15.0,50.00,0,0,0,30,Sunman
+1478,39.658626500000004,-85.62341428,Pizza,30.0,99.00,3.8,45,28,45,Morristown
+1479,39.47930565,-85.06762109999998,"Sandwich, Chinese, Fast Food, Beverages",15.0,50.00,3.1,7,2,30,Brookville
+1480,39.9020056,-85.06484042,North Indian,15.0,50.00,3.0,4,0,30,Hagerstown
+1481,39.11465220000001,-85.09498133,Healthy Food,25.0,0.00,3.9,66,23,30,Milan
+1482,39.77932974,-85.79304507,"Burger, Fast Food",20.0,50.00,3.5,406,111,30,Greenfield
+1483,39.96667868,-85.58131623,"South Indian, Chinese",15.0,50.00,3.8,143,31,30,Middletown
+1484,39.55365816,-85.47392165,"North Indian, Biryani, Rolls",20.0,50.00,3.6,54,27,30,Rushville
+1485,39.02273241,-85.14468927,"Chinese, South Indian, Fast Food, North Indian",20.0,99.00,3.6,56,8,30,Dillsboro
+1486,39.03963849,-85.54047393,"North Indian, Chinese, Mughlai",30.0,50.00,3.6,179,95,45,North Vernon
+1487,39.14649561,-85.61971079,"Mithai, North Indian, South Indian, Street Food, Chinese",15.0,99.00,3.9,206,55,45,Westport
+1488,39.83539511,-85.94958536,North Indian,10.0,50.00,3.3,12,1,30,Cumberland
+1489,39.19651052,-85.58479515,Pizza,20.0,50.00,3.2,7,0,30,Westport
+1490,39.20735988,-85.90802169,"Beverages, Fast Food",10.0,50.00,3.3,7,5,30,Columbus
+1491,39.93027028,-85.73381855,"Fast Food, Healthy Food, Sandwich, Salad",20.0,50.00,3.1,254,91,30,Pendleton
+1492,39.13148845,-85.22256899,"North Indian, Chinese",10.0,50.00,3.5,20,11,30,Versailles
+1493,39.09038721,-85.70974665,"North Indian, Mughlai, Chinese, Momos",20.0,50.00,3.6,26,21,30,Country Squire Lakes
+1494,39.53725657,-85.84280509,"Fast Food, Street Food, North Indian",15.0,50.00,3.9,251,105,65,Shelbyville
+1495,39.76229809,-85.33581473,"Mithai, North Indian, Fast Food, Desserts, South Indian, Street Food, Bakery, Chinese",25.0,50.00,3.1,6,6,30,New Castle
+1496,39.14316422,-85.55760667,"Fast Food, Chinese, North Indian",15.0,50.00,3.2,9,1,30,Westport
+1497,39.38141656,-85.75962184,"Chinese, North Indian",20.0,50.00,3.7,95,51,30,Geneva
+1498,39.82286994,-85.1179005,Fast Food,10.0,50.00,3.2,16,4,30,Cambridge City
+1499,39.36438246,-85.55621169,"Asian, Continental, European",35.0,99.00,3.8,41,17,45,Greensburg
+1500,39.92752153,-85.28932873,"North Indian, Mughlai, Chinese",20.0,50.00,3.7,277,143,45,New Castle
+1501,39.54138477,-85.58897872,"North Indian, Chinese, Kebab, Mughlai",80.0,50.00,4.7,1112,972,45,Saint Paul
+1502,39.73637742,-85.65619596,"Cafe, Desserts, Sandwich",35.0,50.00,4.0,773,426,65,Morristown
+1503,39.83689308,-85.38444343,"Continental, North Indian, Italian",75.0,50.00,4.0,297,205,30,New Castle
+1504,39.05446676,-85.8261482,"Chinese, Asian, Momos",15.0,99.00,3.7,429,257,45,Seymour
+1505,39.41424103,-85.86507138,"Bakery, Desserts",25.0,0.00,4.4,557,358,45,Edinburgh
+1506,39.73642939,-85.08802414,"North Indian, Sandwich",20.0,50.00,3.4,15,2,30,Connersville
+1507,39.17437176,-85.49314042,North Indian,20.0,50.00,3.3,98,21,65,Westport
+1508,39.82200552,-85.33524919,South Indian,10.0,50.00,4.2,726,110,45,New Castle
+1509,39.40499161,-85.77694479,North Indian,15.0,50.00,3.5,0,0,30,Geneva
+1510,39.8690594,-85.2575751,"Desserts, Bakery, Fast Food",10.0,50.00,3.5,73,14,45,Cambridge City
+1511,39.42680128,-85.42361564,"Biryani, North Indian, Rolls, Kashmiri, Mughlai",30.0,50.00,3.9,195,117,45,Greensburg
+1512,39.61093977,-85.6554388,"Sandwich, Fast Food, Beverages, Mexican, Desserts",20.0,50.00,3.9,864,362,65,Morristown
+1513,39.48498712,-85.13531562,Paan,5.0,50.00,3.6,36,2,30,Brookville
+1514,39.93266293,-85.69207006,"Fast Food, North Indian, Mishti",10.0,50.00,4.1,272,55,45,Pendleton
+1515,39.78339501,-85.80718396,"South Indian, North Indian, Biryani",40.0,50.00,3.9,157,68,30,Greenfield
+1517,39.98413564,-85.89861305,North Indian,20.0,99.00,3.8,146,31,45,Fortville
+1520,39.79135626,-85.33153102,"Cafe, Healthy Food, Salad, Beverages",30.0,99.00,4.0,80,47,45,New Castle
+1521,39.66323239,-85.01073921,"Mangalorean, Chinese, North Indian",30.0,50.00,3.2,6,1,30,Liberty
+1522,39.34776933,-85.03160277,"North Indian, Fast Food",40.0,50.00,4.2,68,56,30,Brookville
+1523,39.36206973,-85.04188334,North Indian,10.0,50.00,3.7,266,85,65,Brookville
+1524,39.43833595,-85.56780917,North Indian,20.0,50.00,0,0,0,30,Saint Paul
+1525,39.1205266,-85.85261605,"Chinese, North Indian",10.0,50.00,3.2,8,0,30,Columbus
+1526,39.89620237,-85.75490586,"Bakery, Desserts",20.0,50.00,3.7,39,25,30,Ingalls
+1527,39.13689832,-85.01775763,"Mughlai, North Indian",30.0,50.00,3.6,30,12,30,Milan
+1528,39.62847538,-85.2291218,"Cafe, Fast Food, Beverages",15.0,50.00,0,0,0,30,Connersville
+1529,39.415481799999995,-85.67261752,"North Indian, Lucknowi",25.0,50.00,3.5,28,11,30,Saint Paul
+1530,39.97273449,-85.54664068,North Indian,20.0,50.00,0,0,0,30,Middletown
+1531,39.60078347,-85.76903613,"Biryani, North Indian, Andhra, Chinese",35.0,50.00,4.1,2319,892,45,Shelbyville
+1533,39.52066071,-85.97183685,"Rolls, Sandwich, Fast Food",15.0,50.00,3.7,304,127,65,Franklin
+1534,39.06090045,-85.57213608,North Indian,20.0,99.00,3.5,47,9,30,North Vernon
+1535,39.318719200000004,-85.69816856,"South Indian, North Indian",30.0,50.00,3.6,34,7,30,Hope
+1536,39.53473631,-85.07851078,"South Indian, North Indian, Chinese",15.0,50.00,3.5,11,5,30,Connersville
+1537,39.98853764,-85.49695831,Healthy Food,20.0,50.00,3.1,8,6,30,Middletown
+1538,39.81398191,-85.44857226,South Indian,10.0,50.00,3.5,237,2,45,Knightstown
+1539,39.38546479,-85.30773183,"North Indian, Chinese, Continental",80.0,99.00,4.0,365,208,45,Batesville
+1540,39.65926622,-85.54517351,South Indian,10.0,50.00,3.8,203,67,30,Rushville
+1541,39.38252852,-85.24176602,North Indian,10.0,50.00,3.3,27,5,30,Batesville
+1542,39.54696997,-85.55786229,"North Indian, Biryani, Mughlai",15.0,50.00,3.3,14,2,30,Rushville
+1543,39.45331824,-85.77901731,"Burger, Fast Food",20.0,50.00,4.0,1233,581,65,Shelbyville
+1544,39.03195041,-85.61301856,"European, Mediterranean",85.0,50.00,4.1,1261,652,30,North Vernon
+1545,39.05239757,-85.37472907,"Chinese, North Indian",30.0,99.00,3.5,106,43,45,Osgood
+1546,39.741775700000005,-85.91594834,"North Indian, Chinese",20.0,99.00,3.0,8,4,30,New Palestine
+1547,39.55160437,-85.40026973,Fast Food,15.0,50.00,3.3,12,6,30,Rushville
+1548,39.85373303,-85.87974432,"North Indian, Street Food, Fast Food, Chinese",20.0,50.00,3.1,4,1,45,McCordsville
+1549,39.98755164,-85.75776433,"North Indian, Mughlai",35.0,50.00,2.5,27,10,45,Pendleton
+1550,39.70002178,-85.17655045,"North Indian, Fast Food",10.0,50.00,4.3,55,29,30,Connersville
+1551,39.84061466,-85.95720177,"South Indian, Chinese",15.0,50.00,3.7,87,23,65,Cumberland
+1552,39.05328406,-85.89751926,South Indian,10.0,50.00,3.4,14,4,30,Seymour
+1553,39.21971645,-85.96893693,"North Indian, South Indian",15.0,50.00,0,0,0,30,Lowell
+1554,39.33636619,-85.81192796,Mishti,5.0,50.00,3.7,109,24,65,Hope
+1555,39.99602786,-85.19330314,"North Indian, Chinese",20.0,50.00,3.1,0,0,30,Hagerstown
+1557,39.67063737,-85.71955358,"Fast Food, Chinese, Mughlai, Rolls",20.0,50.00,3.9,208,86,45,Morristown
+1558,39.94409191,-85.91351883,Rolls,10.0,50.00,3.9,171,56,30,McCordsville
+1559,39.95743256,-85.64825007,"Italian, Street Food",25.0,50.00,3.3,107,43,45,Pendleton
+1560,39.64853028,-85.50678888,Bakery,15.0,50.00,3.2,8,3,30,Rushville
+1561,39.14368836,-85.85535138,"Biryani, North Indian",10.0,50.00,0,0,0,45,Columbus
+1562,39.14481504,-85.55785657,Bakery,20.0,50.00,3.0,4,1,30,Westport
+1563,39.16363547,-85.05090594,Desserts,10.0,50.00,3.9,73,46,30,Sunman
+1564,39.53998445,-85.80372288,"Mithai, Fast Food, South Indian",10.0,50.00,3.4,11,4,30,Shelbyville
+1565,39.7729676,-85.74381382,North Indian,50.0,50.00,4.4,272,172,30,Greenfield
+1567,39.92252076,-85.16077267,Desserts,5.0,50.00,0,0,0,45,Hagerstown
+1568,39.5392425,-85.49489697,"Desserts, Ice Cream",10.0,50.00,4.4,406,241,45,Rushville
+1569,39.51143591,-85.71396487,North Indian,25.0,99.00,3.5,36,8,65,Shelbyville
+1570,39.10563026,-85.71951156,"Continental, North Indian, Seafood, Cafe, Salad, Chinese",65.0,50.00,4.1,3860,1962,45,Country Squire Lakes
+1571,39.99681885,-85.53632017,Chinese,40.0,50.00,4.1,2133,981,45,Middletown
+1572,39.86428781,-85.32265902,"Burger, Fast Food, Beverages, Sandwich, Wraps",20.0,50.00,3.9,121,43,45,New Castle
+1573,39.40370054,-85.72884196,"North Indian, Fast Food, Biryani, Rolls, Wraps",25.0,50.00,4.0,206,68,65,Geneva
+1574,39.04905177,-85.165786,"North Indian, Chinese, Continental, Fast Food, Pizza",25.0,50.00,0,0,0,30,Milan
+1575,39.97943597,-85.9566911,South Indian,10.0,50.00,0,0,0,30,Fishers
+1577,39.42379581,-85.11043673,"North Indian, Chinese, South Indian",20.0,50.00,3.0,5,2,30,Brookville
+1578,39.85576068,-85.16405938,"Pizza, Fast Food",10.0,50.00,3.1,7,3,30,Cambridge City
+1579,39.30110571,-85.14390363,"Bihari, North Indian",10.0,50.00,3.0,4,0,30,Batesville
+1580,39.73097385,-85.38260186,"Fast Food, Beverages",5.0,99.00,3.4,15,8,45,Rushville
+1581,39.11727341,-85.96877494,"North Indian, Chinese",20.0,50.00,3.7,324,125,30,Columbus
+1582,39.83385976,-85.60995346,"Chinese, North Indian, Continental, Beverages",30.0,50.00,4.0,644,325,30,Knightstown
+1583,39.30298641,-85.35777594,South Indian,25.0,50.00,3.6,19,4,30,Greensburg
+1584,39.69096264,-85.57407732,"Biryani, North Indian",15.0,50.00,3.6,51,11,30,Knightstown
+1585,39.14116402,-85.54093263,Mughlai,20.0,50.00,0,0,0,30,Westport
+1586,39.97460762,-85.60580978,"Continental, Asian",60.0,50.00,4.0,305,210,30,Middletown
+1587,39.33808752,-85.93288591,"North Indian, Chinese, Mughlai",25.0,99.00,4.0,551,310,45,Edinburgh
+1588,39.96878921,-85.21796196,"South Indian, Fast Food, North Indian, Chinese, Biryani",30.0,50.00,3.6,294,58,45,Hagerstown
+1589,39.16064374,-85.21667138,"Thai, Salad, Seafood",40.0,99.00,4.1,88,43,45,Osgood
+1590,39.22662864,-85.28437877,"North Indian, Mughlai, Biryani",40.0,50.00,4.3,217,145,30,Batesville
+1591,39.43490115,-85.91062698,"North Indian, Chinese",20.0,50.00,3.4,96,61,45,Edinburgh
+1592,39.81367184,-85.83780206,North Indian,15.0,50.00,3.5,0,0,30,Greenfield
+1593,39.58344365,-85.03320934,"North Indian, South Indian, Chinese, Fast Food, Mithai",20.0,50.00,3.9,224,147,30,Liberty
+1594,39.30549831,-85.45122879,"North Indian, South Indian, Fast Food, Chinese",40.0,50.00,4.2,1256,925,30,Greensburg
+1595,39.72177453,-85.32479271,"Mithai, Street Food",10.0,50.00,4.0,205,49,30,Rushville
+1597,39.45283373,-85.83416203,Paan,10.0,50.00,3.5,21,12,30,Shelbyville
+1598,39.97160271,-85.05953346,"Chinese, North Indian, Fast Food",20.0,50.00,3.4,42,14,45,Hagerstown
+1600,39.52357283,-85.45095205,"South Indian, Beverages",15.0,50.00,3.7,108,80,30,Rushville
+1601,39.42735403,-85.25578359999999,"North Indian, Chinese, Seafood",20.0,50.00,3.7,30,10,30,Batesville
+1602,39.88246327,-85.48666134,"Bakery, Desserts",15.0,50.00,4.3,196,109,45,Knightstown
+1603,39.52399744,-85.80355658,"Fast Food, Beverages",25.0,50.00,4.3,913,751,30,Shelbyville
+1604,39.6564867,-85.79306343,Biryani,15.0,50.00,3.7,279,90,65,Morristown
+1605,39.46629195,-85.01481616,"Biryani, North Indian, Rolls, Kashmiri, Mughlai",30.0,50.00,3.9,195,117,45,Brookville
+1606,39.77475658,-85.16118349,"North Indian, Seafood, Biryani",25.0,50.00,3.5,893,196,30,Cambridge City
+1607,39.04975839,-85.22707323,"Chinese, Momos, Seafood",25.0,50.00,4.0,1016,437,30,Versailles
+1608,39.71932965,-85.70175504,"North Indian, Chinese",10.0,50.00,0,0,0,30,Morristown
+1609,39.95180644,-85.58528221,North Indian,10.0,50.00,4.0,81,42,30,Middletown
+1611,39.23970477,-85.09478282,"Portuguese, Wraps, Burger, Salad",50.0,50.00,4.1,835,593,45,Sunman
+1612,39.73050338,-85.03556901,"North Indian, Seafood, Biryani, Kerala",40.0,50.00,3.9,276,59,45,Centerville
+1613,39.17972966,-85.89327744,"Ice Cream, Fast Food",15.0,50.00,3.5,24,12,30,Columbus
+1614,39.6561862,-85.19904937,"Pizza, Fast Food",20.0,50.00,3.9,108,60,30,Connersville
+1615,39.78133869,-85.65380132,North Indian,25.0,50.00,3.8,89,54,30,Greenfield
+1616,39.88907814,-85.84764199,Ice Cream,10.0,50.00,4.0,84,40,30,Fortville
+1617,39.89241187,-85.69156289,"Bakery, Desserts",15.0,50.00,3.4,5,1,30,Pendleton
+1619,39.81833023,-85.96667225,"Bakery, Desserts",15.0,50.00,3.7,45,30,45,Cumberland
+1620,39.74755936,-85.21347077,"Momos, Tibetan, Beverages",10.0,50.00,4.5,647,251,30,Cambridge City
+1621,39.7566585,-85.34333585,South Indian,15.0,99.00,4.1,1008,245,45,New Castle
+1622,39.86895113,-85.56066667,North Indian,20.0,50.00,3.3,12,0,30,Knightstown
+1624,39.94219171,-85.00290978,"North Indian, Chinese, Fast Food",15.0,50.00,2.9,83,35,45,Centerville
+1625,39.2285378,-85.73801607,"Desserts, Bakery, Beverages",15.0,50.00,3.9,77,37,30,Hope
+1626,39.13379905,-85.86102507,"North Indian, Rolls",15.0,50.00,3.8,229,64,45,Columbus
+1627,39.96418711,-85.48872149,"North Indian, Charcoal Chicken, Fast Food, Mughlai, Biryani, Kebab",20.0,50.00,3.8,25,13,30,Middletown
+1628,39.26713529999999,-85.30995488,Cafe,30.0,50.00,2.9,61,26,65,Batesville
+1629,39.46625678,-85.88001326,Ice Cream,10.0,50.00,3.9,166,79,45,Shelbyville
+1630,39.16574048,-85.50083466,Bakery,10.0,50.00,4.1,205,116,45,Westport
+1631,39.6824648,-85.12620134,"Biryani, North Indian, Sandwich, Juices",15.0,50.00,3.2,15,7,30,Connersville
+1632,39.62769283,-85.38177669,"Bengali, Chinese, North Indian",15.0,50.00,3.1,5,0,30,Rushville
+1633,39.15185432,-85.88832153,"Healthy Food, Salad",35.0,50.00,4.3,523,206,65,Columbus
+1634,39.64949835,-85.02983258,"Cafe, Italian, Continental, Bakery",40.0,50.00,4.3,343,292,45,Liberty
+1635,39.412710499999996,-85.15431447,"North Indian, Chinese",25.0,50.00,4.0,503,238,45,Batesville
+1636,39.35667554,-85.33332029,"North Indian, Chinese",20.0,50.00,3.2,20,8,30,Batesville
+1637,39.92579138,-85.65399815,Sandwich,10.0,50.00,3.5,44,4,45,Pendleton
+1638,39.32117387,-85.29523962,"Chinese, North Indian, South Indian, Fast Food",20.0,50.00,3.2,4,0,30,Batesville
+1639,39.979020299999995,-85.39802784,"North Indian, South Indian",10.0,50.00,3.4,243,73,65,New Castle
+1640,39.26527207,-85.79652772,"North Indian, South Indian",15.0,50.00,3.9,190,27,45,Hope
+1641,39.09972766,-85.03739683,North Indian,15.0,50.00,3.7,110,62,30,Dillsboro
+1642,39.02016175,-85.56204687,Chinese,10.0,50.00,0,0,0,30,North Vernon
+1643,39.19732669,-85.05606015,"Biryani, Chinese, North Indian",10.0,50.00,3.7,28,7,30,Sunman
+1644,39.31721716,-85.75955115,"North Indian, South Indian, Street Food",10.0,50.00,3.2,11,2,30,Hope
+1645,39.14793921,-85.32202272,"North Indian, Chinese",10.0,50.00,3.7,564,72,45,Osgood
+1646,39.02155979,-85.74107846,Beverages,10.0,50.00,3.4,14,4,30,Country Squire Lakes
+1647,39.08163402,-85.31677672,"North Indian, Chinese, Mughlai, Biryani, Beverages",25.0,50.00,3.5,37,15,30,Osgood
+1648,39.50565306,-85.28505806,"North Indian, Mughlai, Chinese",20.0,99.00,3.7,164,84,65,Rushville
+1649,39.46135005,-85.78685672,North Indian,10.0,0.00,2.7,427,225,65,Shelbyville
+1650,39.6248364,-85.42358993,"North Indian, Chinese, Odia",20.0,50.00,3.3,76,29,30,Rushville
+1651,39.2287907,-85.91116290000001,"South Indian, North Indian, Chinese",15.0,50.00,4.0,929,160,45,Columbus
+1652,39.91559407,-85.60442976,Fast Food,10.0,50.00,3.3,7,5,30,Knightstown
+1653,39.19599479,-85.06223821,"Fast Food, Beverages",15.0,50.00,3.4,19,3,30,Sunman
+1655,39.70737043,-85.85964015,"Mithai, Street Food",15.0,50.00,3.8,112,19,30,New Palestine
+1656,39.47195945,-85.28867838,"North Indian, Maharashtrian",20.0,50.00,3.5,34,21,45,Batesville
+1657,39.18126292,-85.93173585,"Street Food, Fast Food",15.0,50.00,3.4,20,16,30,Columbus
+1658,39.95902115,-85.23026009,"Wraps, Healthy Food, Sandwich, Salad",15.0,50.00,3.5,264,131,65,Hagerstown
+1659,39.15123677,-85.91717556,"Biryani, Chinese, North Indian",20.0,50.00,2.6,61,32,65,Columbus
+1660,39.98734816,-85.56365424,Beverages,5.0,50.00,0,0,0,30,Middletown
+1661,39.52763888,-85.59446275,"Mithai, Chinese, South Indian",10.0,50.00,2.9,24,4,30,Saint Paul
+1662,39.94417934,-85.52203777,"Chinese, Fast Food",15.0,50.00,3.5,187,65,30,Middletown
+1663,39.12220375,-85.16922846,"Biryani, North Indian",35.0,50.00,3.4,45,20,30,Milan
+1664,39.62343072,-85.90382225,North Indian,10.0,50.00,3.6,16,4,30,New Palestine
+1666,39.68381763,-85.44572625,"Italian, Mexican",55.0,50.00,4.3,748,387,30,Rushville
+1667,39.25010220000001,-85.39846816,"Sandwich, Beverages, Fast Food",20.0,50.00,3.2,5,2,30,Greensburg
+1668,39.74644562,-85.89439045,North Indian,20.0,50.00,3.2,6,2,30,New Palestine
+1669,39.545238899999994,-85.33914288,"Seafood, Mughlai, North Indian",25.0,50.00,0,0,0,30,Rushville
+1670,39.43321051,-85.42433457,North Indian,20.0,50.00,3.6,26,7,30,Greensburg
+1671,39.37593105,-85.01621554,North Indian,40.0,50.00,3.8,36,23,65,Brookville
+1672,39.68290782,-85.71833438,"Fast Food, Street Food",10.0,50.00,3.3,6,1,30,Morristown
+1673,39.78114454,-85.56706517,"Mithai, Street Food",10.0,50.00,3.7,44,10,30,Knightstown
+1674,39.51439134,-85.15909139,"Biryani, North Indian, Mughlai",45.0,99.00,4.0,1104,681,65,Connersville
+1675,39.12270188,-85.76908355,"North Indian, Mughlai",20.0,50.00,3.0,4,1,30,Country Squire Lakes
+1676,39.4187076,-85.32421959,Desserts,15.0,50.00,3.5,12,9,45,Batesville
+1677,39.10706276,-85.65908035,"North Indian, Fast Food",15.0,50.00,2.7,31,15,45,Country Squire Lakes
+1678,39.634386600000006,-85.17421385,North Indian,10.0,50.00,3.5,66,15,45,Connersville
+1679,39.28777331,-85.17396778,"Cafe, Italian, Chinese, Fast Food, North Indian, Beverages",50.0,50.00,4.1,1801,965,30,Batesville
+1680,39.70180669,-85.01032195,"North Indian, Chinese, South Indian",20.0,99.00,3.8,219,97,45,Liberty
+1681,39.14359379,-85.63779883,"Wraps, Healthy Food, Sandwich, Salad",15.0,0.00,3.8,428,133,65,Westport
+1682,39.02649661,-85.39512954,"Ice Cream, Beverages, Fast Food",25.0,50.00,3.5,52,10,30,Osgood
+1683,39.4753005,-85.53266656,"Salad, Beverages, Healthy Food, Desserts",20.0,50.00,3.5,36,24,65,Saint Paul
+1684,39.74420409,-85.76160854,"European, Italian, Continental, Salad, Beverages",60.0,50.00,4.0,646,370,45,Greenfield
+1685,39.26442893,-85.83036353,North Indian,25.0,50.00,3.6,217,57,45,Hope
+1686,39.52427844,-85.06899106,"North Indian, Chinese",20.0,50.00,2.8,6,1,30,Brookville
+1687,39.52660433,-85.75315972,"North Indian, Chinese, Street Food",20.0,50.00,0,0,0,30,Shelbyville
+1688,39.25314451,-85.82522414,"Continental, Thai, Italian, Salad",35.0,50.00,3.9,1298,450,65,Hope
+1689,39.77607401,-85.23210745,"South Indian, Chinese",10.0,50.00,3.6,67,17,30,Cambridge City
+1690,39.44279516,-85.12141611,"Desserts, Beverages",20.0,50.00,0,0,0,30,Brookville
+1691,39.80599139,-85.39525759,"Sandwich, Fast Food, North Indian, Street Food, Maharashtrian, Beverages",15.0,50.00,3.6,16,6,30,New Castle
+1692,39.83490388,-85.47225405,North Indian,20.0,50.00,3.9,363,163,30,Knightstown
+1693,39.88496361,-85.61640891,"North Indian, Mughlai, Chinese",25.0,50.00,3.8,345,154,65,Knightstown
+1694,39.86330255,-85.10489067,"Pizza, Fast Food",20.0,50.00,4.0,123,61,30,Hagerstown
+1695,39.28262473,-85.79076719,"Fast Food, Pizza",15.0,50.00,2.9,7,3,30,Hope
+1696,39.99804046,-85.41317403,"North Indian, Chinese",20.0,50.00,3.7,123,62,45,New Castle
+1697,39.93297291,-85.23952741,"Cafe, Desserts",30.0,50.00,4.3,716,382,45,Hagerstown
+1698,39.22371366,-85.82901806,"Mughlai, North Indian, Biryani, Kebab",35.0,50.00,3.8,494,294,45,Columbus
+1699,39.27151571,-85.02792001,"South Indian, North Indian, Chinese",20.0,50.00,3.8,551,53,45,Sunman
+1700,39.81968638,-85.39888351,"American, Italian, Cafe, Salad",25.0,50.00,4.2,943,580,45,New Castle
+1701,39.12703936,-85.62330638,Kerala,10.0,50.00,3.5,42,7,30,Westport
+1703,39.30119718,-85.91508279,"North Indian, Cafe, Fast Food, Beverages",10.0,50.00,3.8,433,201,45,Lowell
+1704,39.59672248,-85.14435485,Fast Food,15.0,50.00,3.3,19,6,30,Connersville
+1705,39.99230735,-85.90799243,North Indian,10.0,50.00,3.1,5,0,30,Fortville
+1706,39.01193135,-85.32581838,"Beverages, Juices, Fast Food",10.0,50.00,3.9,51,24,30,Versailles
+1707,39.82136312,-85.63350811,"Chinese, Fast Food, South Indian, North Indian",15.0,50.00,0,0,0,45,Knightstown
+1708,39.97858925,-85.32571661,Bakery,20.0,50.00,3.9,139,74,30,New Castle
+1709,39.08753621,-85.23007023,"Finger Food, American, Continental, Burger, Pizza",60.0,50.00,4.0,635,214,45,Versailles
+1710,39.92628363,-85.54893396,"North Indian, Fast Food, Chinese",35.0,50.00,4.3,269,173,30,Middletown
+1711,39.86754533,-85.79403537,"North Indian, Chinese",10.0,50.00,3.3,19,7,30,Fortville
+1712,39.80813816,-85.51315313,"North Indian, Chinese",10.0,50.00,3.7,120,55,20,Knightstown
+1713,39.62039373,-85.91978488,"Bar Food, Asian, North Indian, Italian",65.0,50.00,4.0,1372,609,30,New Palestine
+1714,39.73325272,-85.35655145,Biryani,15.0,50.00,3.2,10,5,30,Rushville
+1715,39.14946375,-85.21450918,"Fast Food, Chinese",10.0,50.00,3.3,11,1,45,Osgood
+1716,39.62305768,-85.94460378,"Fast Food, Burger, Chinese, Beverages",15.0,50.00,3.3,15,6,30,New Palestine
+1717,39.87121696,-85.98002134,"Cafe, Sushi, Continental, Italian",35.0,50.00,4.3,193,90,30,Lawrence
+1718,39.58335863,-85.47554217,"Mithai, North Indian, Chinese, South Indian, Street Food, Italian, Desserts, Beverages",20.0,50.00,3.9,155,59,30,Rushville
+1719,39.15586496,-85.99400469,North Indian,10.0,50.00,3.7,110,18,30,Columbus
+1720,39.50851749,-85.52631365,North Indian,35.0,50.00,3.7,83,46,45,Rushville
+1721,39.35173648,-85.89828173,"North Indian, South Indian, Chinese, Bengali, Odia, Biryani, Beverages",15.0,50.00,3.5,45,29,45,Edinburgh
+1722,39.8278775,-85.48040141,"Chinese, Fast Food",10.0,50.00,2.8,9,3,30,Knightstown
+1723,39.34549297,-85.88974996,"North Indian, Fast Food",10.0,50.00,0,0,0,30,Edinburgh
+1724,39.23663019,-85.89967235,"Bakery, Desserts",10.0,50.00,0,0,0,30,Columbus
+1726,39.80398541,-85.799564,"North Indian, Biryani, Chinese",25.0,50.00,3.3,6,0,30,Greenfield
+1727,39.53164522,-85.71827279,"Italian, Pizza, Salad, Lebanese",50.0,99.00,3.9,452,243,45,Shelbyville
+1728,39.51356442,-85.43330919,"Fast Food, North Indian, Biryani, Rolls, Wraps",20.0,50.00,4.0,233,105,65,Rushville
+1729,39.88029078,-85.59320275,"Mughlai, North Indian, Biryani, Kebab",35.0,50.00,3.8,494,294,45,Knightstown
+1730,39.5487297,-85.24924961,"South Indian, Chinese",10.0,50.00,3.5,19,7,30,Connersville
+1731,39.59130288,-85.45222136,"Biryani, Chinese, North Indian",20.0,50.00,3.3,4,2,30,Rushville
+1732,39.01916369,-85.61141276,"Chinese, North Indian, Mughlai",20.0,50.00,3.7,172,70,45,North Vernon
+1733,39.99688067,-85.25640517,"Pizza, Fast Food",15.0,50.00,0,0,0,30,Hagerstown
+1734,39.18942361,-85.64957743,"North Indian, Healthy Food, Lucknowi, Awadhi, Biryani",20.0,50.00,3.9,28,21,30,Westport
+1735,39.45588755,-85.34678518,Fast Food,20.0,50.00,3.8,80,35,30,Greensburg
+1736,39.27673341,-85.7103859,"Bakery, Fast Food",15.0,50.00,0,0,0,30,Hope
+1737,39.42097575,-85.95879271,Desserts,10.0,50.00,0,0,0,30,Edinburgh
+1738,39.50882194,-85.66114453,"Tea, Beverages, Fast Food",10.0,50.00,3.7,35,4,30,Saint Paul
+1739,39.84290104,-85.20714338,"Chinese, Fast Food, North Indian, Healthy Food",25.0,0.00,3.6,66,18,30,Cambridge City
+1740,39.81793375,-85.14399311,"South Indian, North Indian, Chinese, Street Food",15.0,50.00,3.9,94,29,30,Cambridge City
+1741,39.95671943,-85.46251077,Mithai,10.0,50.00,4.1,551,24,30,New Castle
+1743,39.85123018,-85.04186547,"Cafe, Salad, Italian, American, Bakery, Beverages",40.0,50.00,4.5,879,518,45,Centerville
+1744,39.36058594,-85.80410128,Beverages,10.0,50.00,4.1,139,70,30,Hope
+1745,39.56212627,-85.55291046,"North Indian, Rolls",20.0,50.00,4.0,82,53,30,Rushville
+1746,39.47269403,-85.08659483,"Tea, Fast Food",10.0,50.00,3.3,12,6,30,Brookville
+1747,39.52448471,-85.389208,"North Indian, Fast Food",20.0,50.00,3.4,25,2,30,Rushville
+1748,39.72527262,-85.07586585,"Finger Food, European, North Indian, Mughlai",80.0,50.00,3.8,840,399,45,Connersville
+1749,39.86975787,-85.02264438,"North Indian, Chinese",40.0,50.00,4.0,387,158,45,Centerville
+1750,39.84404368,-85.02784668,North Indian,10.0,50.00,3.7,107,32,30,Centerville
+1751,39.50609379,-85.01938132,Street Food,10.0,50.00,4.0,329,131,65,Brookville
+1752,39.67526184,-85.28177821,North Indian,10.0,50.00,2.9,13,10,30,Connersville
+1753,39.87396832,-85.09302624,"Chinese, Tibetan, Thai",25.0,50.00,2.9,17,2,45,Hagerstown
+1754,39.09437539,-85.11363066,"Cafe, Fast Food, Desserts",10.0,50.00,3.2,7,2,30,Milan
+1755,39.44657472,-85.3736455,South Indian,20.0,50.00,4.1,416,225,30,Greensburg
+1756,39.52492669,-85.32827637,"Cafe, Bakery, Italian",25.0,50.00,3.9,902,362,30,Rushville
+1757,39.48833115,-85.0414661,"Chinese, Rolls",25.0,50.00,0,0,0,30,Brookville
+1758,39.54951678,-85.43253344,North Indian,25.0,50.00,3.6,91,71,65,Rushville
+1759,39.72651802,-85.70435873,"Mediterranean, Pizza, Italian, Beverages",60.0,50.00,4.4,467,262,65,Morristown
+1760,39.18308185,-85.00327016,North Indian,20.0,50.00,3.2,11,3,30,Sunman
+1761,39.00010511,-85.4974177,"Chinese, Thai",45.0,50.00,3.4,20,6,45,North Vernon
+1762,39.25450699,-85.56408764,"Pizza, Burger, Fast Food",20.0,50.00,3.8,39,29,30,Westport
+1763,39.98110222,-85.44990032,"Chinese, North Indian, South Indian, Fast Food, Street Food",20.0,50.00,3.5,14,8,30,New Castle
+1764,39.81383961,-85.32102064,"Gujarati, Rajasthani, Maharashtrian",50.0,50.00,3.6,1057,626,45,New Castle
+1765,39.82639414,-85.43792306,Chinese,20.0,50.00,3.7,47,25,30,Knightstown
+1768,39.00049978,-85.79095164,Street Food,10.0,50.00,3.2,6,4,30,Country Squire Lakes
+1769,39.70289218,-85.98829396,Street Food,10.0,50.00,3.9,36,18,30,Cumberland
+1770,39.01496822,-85.51638194,South Indian,5.0,50.00,3.7,22,8,30,North Vernon
+1771,39.89665616,-85.45514606,"North Indian, South Indian, Chinese, Beverages",15.0,50.00,3.9,390,44,45,New Castle
+1772,39.18000482,-85.25591048,"North Indian, Continental, Chinese, Italian",60.0,50.00,4.4,257,172,30,Osgood
+1774,39.85740625,-85.13644953,"Beverages, Desserts",20.0,50.00,4.0,182,104,45,Cambridge City
+1775,39.76072482,-85.28154762,"Biryani, North Indian, Seafood, Chinese",20.0,50.00,0,0,0,30,Cambridge City
+1776,39.29667937,-85.18550118,Chinese,20.0,50.00,3.1,15,12,65,Batesville
+1777,39.30460066,-85.70030839,"Asian, Thai, Japanese, Chinese, Momos",60.0,50.00,4.2,1473,849,65,Hope
+1778,39.32937311,-85.99675493,"Beverages, Ice Cream, Desserts",10.0,50.00,3.7,72,29,30,Edinburgh
+1779,39.867149,-85.20101228,"Biryani, Hyderabadi",15.0,50.00,3.4,49,19,30,Hagerstown
+1780,39.56051209,-85.82613749,"Bakery, Desserts, Sandwich",15.0,50.00,4.1,4606,2311,45,Shelbyville
+1781,39.41825844,-85.84249662,"Fast Food, Beverages",20.0,50.00,4.0,143,112,30,Shelbyville
+1782,39.99262052,-85.2020271,"North Indian, Biryani",15.0,50.00,3.1,6,1,30,Hagerstown
+1784,39.66457271,-85.19036621,North Indian,15.0,50.00,3.5,30,4,30,Connersville
+1785,39.3245482,-85.26782682,"Cafe, Tea",20.0,50.00,3.6,9,3,30,Batesville
+1787,39.97948514,-85.29061321,"Mughlai, North Indian, Chinese",45.0,200.00,3.8,2534,1336,65,New Castle
+1788,39.36997866,-85.96854687,"Portuguese, Wraps, Burger, Salad",50.0,50.00,4.1,835,593,45,Edinburgh
+1789,39.99172634,-85.17889052,"Kerala, South Indian",10.0,50.00,3.3,159,24,30,Hagerstown
+1790,39.33152645,-85.68647977,"Beverages, Desserts, Ice Cream",20.0,50.00,4.1,289,181,30,Geneva
+1791,39.48935372,-85.97129467,"Fast Food, Momos, Rolls",10.0,50.00,0,0,0,30,Franklin
+1792,39.03716882,-85.1768718,"Chinese, Thai",25.0,50.00,3.7,80,60,30,Versailles
+1793,39.64751566,-85.60577162,North Indian,15.0,50.00,3.0,8,2,30,Morristown
+1794,39.75221188,-85.02861887,"Beverages, Desserts",25.0,50.00,2.8,23,17,30,Centerville
+1795,39.75664084,-85.94749264,"Juices, Fast Food",20.0,99.00,3.6,73,51,45,Cumberland
+1796,39.19939357,-85.52966374,"Street Food, Beverages",10.0,50.00,3.9,4438,2576,45,Westport
+1797,39.43800123,-85.59872454,"North Indian, Chinese, Mughlai, Momos",20.0,0.00,3.8,551,173,65,Saint Paul
+1798,39.317059,-85.42654624,"North Indian, Mughlai, Chinese, Kebab",60.0,50.00,4.3,906,569,45,Greensburg
+1799,39.30468354,-85.40326967,"Pizza, Fast Food",40.0,50.00,3.8,630,240,30,Greensburg
+1800,39.50018674,-85.79648158,Fast Food,10.0,50.00,0,0,0,30,Shelbyville
+1802,39.44050884,-85.08239986,"Healthy Food, Beverages",20.0,50.00,3.2,15,9,30,Brookville
+1803,39.4061532,-85.92908299999999,"North Indian, Chinese, South Indian",20.0,50.00,4.7,129,79,45,Edinburgh
+1804,39.24656853,-85.00598749,"North Indian, Chinese",35.0,50.00,3.9,109,64,65,Sunman
+1805,39.10981154,-85.06328690000001,"Continental, North Indian, Italian, Finger Food",60.0,50.00,4.1,486,244,30,Milan
+1806,39.58954842,-85.07785227,"North Indian, Mughlai, Beverages",15.0,50.00,3.2,13,2,30,Connersville
+1807,39.0981152,-85.89715188,"Desserts, Beverages",20.0,50.00,4.2,148,104,30,Columbus
+1808,39.64332741,-85.91562732,"Rolls, North Indian",10.0,50.00,0,0,0,30,New Palestine
+1809,39.14232647,-85.1810932,"Cafe, North Indian, Italian",25.0,99.00,3.7,438,273,45,Milan
+1810,39.96599838,-85.43532768,Fast Food,15.0,50.00,3.9,58,44,30,New Castle
+1812,39.33220684,-85.57339319,"Pizza, Italian, Desserts, Beverages",25.0,50.00,4.1,198,69,30,Greensburg
+1813,39.77384255,-85.70471055,Kerala,10.0,50.00,3.5,21,5,45,Greenfield
+1814,39.53574626,-85.27510837,"North Indian, Chinese",20.0,50.00,0,0,0,30,Connersville
+1815,39.63579647,-85.95792935,Fast Food,15.0,50.00,3.5,108,46,45,New Palestine
+1816,39.98217623,-85.85498577,"South Indian, North Indian, Fast Food, Chinese",25.0,50.00,2.7,12,8,30,Fortville
+1818,39.31846236,-85.33643738,"North Indian, Chinese",15.0,50.00,0,0,0,30,Batesville
+1819,39.08841314,-85.15356209,"North Indian, Chinese, Seafood",35.0,50.00,3.7,40,20,30,Milan
+1820,39.42400381,-85.79593976,Chinese,15.0,50.00,3.5,11,8,30,Geneva
+1821,39.35847755,-85.27095416,North Indian,15.0,50.00,0,0,0,30,Batesville
+1822,39.09731471,-85.94285369,"Bakery, Desserts",15.0,50.00,2.9,15,10,30,Columbus
+1823,39.37878601,-85.27866556,"North Indian, Mughlai",30.0,50.00,4.2,174,124,45,Batesville
+1824,39.89488933,-85.53527312,South Indian,5.0,50.00,0,0,0,30,Knightstown
+1825,39.87464186,-85.81084908,"North Indian, Kebab, Mughlai",50.0,99.00,3.9,842,405,65,Fortville
+1826,39.11349466,-85.36558984,"North Indian, Mughlai",15.0,50.00,2.8,0,0,30,Osgood
+1827,39.41133358,-85.71330217,North Indian,40.0,50.00,4.3,886,530,65,Geneva
+1828,39.122609000000004,-85.43929411,"Frozen Yogurt, Fast Food, Desserts, Beverages",15.0,50.00,4.1,197,106,45,Westport
+1829,39.47260835,-85.41818556,"Fast Food, Desserts, Beverages",15.0,50.00,4.1,3535,1631,30,Rushville
+1830,39.85500532,-85.63293957,"North Indian, Mughlai, Chinese, Italian",15.0,50.00,3.9,73,39,45,Knightstown
+1831,39.28918096,-85.20683296,Street Food,10.0,50.00,0,0,0,30,Batesville
+1832,39.91515592,-85.3097139,"Chinese, Fast Food",10.0,50.00,0,0,0,30,New Castle
+1833,39.36378358,-85.2702342,"Fast Food, Beverages",10.0,50.00,3.7,27,7,30,Batesville
+1834,39.12893641,-85.12693179,"Mughlai, Chinese",15.0,50.00,0,0,0,30,Milan
+1835,39.89063045,-85.45603704,"Burger, Fast Food",15.0,50.00,3.2,9,3,30,New Castle
+1836,39.97708392,-85.14762538,"North Indian, Chinese",40.0,50.00,3.7,34,27,30,Hagerstown
+1838,39.44890358,-85.23394769,South Indian,15.0,50.00,4.2,536,459,45,Batesville
+1839,39.02380783,-85.09529489,"Paan, Fast Food",10.0,50.00,3.1,4,2,30,Dillsboro
+1840,39.38494892,-85.32072149,"Cafe, Fast Food",20.0,50.00,3.3,20,9,30,Batesville
+1841,39.41288026,-85.41967845,"Fast Food, Sandwich",15.0,50.00,3.4,14,3,30,Greensburg
+1842,39.9458806,-85.19077288,"Fast Food, Desserts",10.0,50.00,0,0,0,30,Hagerstown
+1843,39.84702133,-85.82092678,"Italian, Pizza, Salad",50.0,50.00,3.8,689,304,65,Greenfield
+1844,39.61642007,-85.10699268,South Indian,5.0,50.00,4.1,141,19,30,Connersville
+1845,39.46789801,-85.78557011,"Continental, Italian, Fast Food",40.0,50.00,4.1,242,157,30,Shelbyville
+1846,39.30124116,-85.25265217,"Biryani, North Indian",10.0,99.00,3.1,20,6,45,Batesville
+1847,39.69492436,-85.47227614,"Pizza, Fast Food, Beverages",20.0,50.00,4.0,143,33,30,Rushville
+1848,39.6206681,-85.11472674,"North Indian, Continental, Italian",25.0,50.00,0,0,0,30,Connersville
+1849,39.79659701,-85.49873781,"North Indian, South Indian, Chinese",20.0,50.00,3.6,33,23,30,Knightstown
+1850,39.59532299,-85.23417484,"North Indian, Biryani, Chinese",15.0,50.00,3.1,7,7,30,Connersville
+1851,39.33805232,-85.36387996,"North Indian, Chinese, Rolls",20.0,50.00,3.8,277,101,45,Greensburg
+1852,39.15452726,-85.0557766,"Ice Cream, Beverages, Desserts",15.0,50.00,3.0,18,5,30,Milan
+1854,39.70872447,-85.92780623,"Mithai, Street Food, Bakery",15.0,50.00,3.3,10,3,65,New Palestine
+1855,39.56114806,-85.71358543,"North Indian, Chinese, Fast Food",30.0,50.00,3.8,65,39,30,Shelbyville
+1856,39.35048646,-85.51491316,"South Indian, North Indian",20.0,50.00,3.5,48,16,30,Greensburg
+1857,39.25133971,-85.29133028,"Bakery, Desserts, Fast Food",25.0,0.00,4.0,421,189,45,Batesville
+1858,39.37247007,-85.71460988,"Fast Food, Ice Cream, Beverages",20.0,50.00,3.8,39,19,30,Geneva
+1859,39.68993277,-85.48783849,Biryani,15.0,50.00,2.8,8,3,30,Rushville
+1860,39.71145825,-85.77765859,South Indian,10.0,50.00,3.9,49,22,30,Greenfield
+1861,39.06024031,-85.65496995,"North Indian, Kebab",15.0,50.00,3.1,14,11,30,Country Squire Lakes
+1862,39.59344764,-85.25918922,Fast Food,20.0,50.00,0,0,0,30,Connersville
+1863,39.30986747,-85.99357197,"Chinese, Mughlai, North Indian",20.0,50.00,3.3,17,5,30,Edinburgh
+1864,39.50205649,-85.9259114,"Maharashtrian, Street Food",10.0,50.00,3.0,9,3,30,Franklin
+1865,39.91854801,-85.36209601,"Rolls, North Indian",20.0,50.00,0,0,0,30,New Castle
+1866,39.19000722,-85.38259367,Parsi,20.0,50.00,2.9,9,7,30,Osgood
+1867,39.67796072,-85.33338461,"North Indian, South Indian, Street Food, Chinese",35.0,50.00,3.8,1857,1306,45,Rushville
+1869,39.20436352,-85.31640516,"Paan, Fast Food",10.0,50.00,3.1,4,2,30,Osgood
+1870,39.94938525,-85.00414702,"Biryani, Chinese",15.0,50.00,3.7,35,12,30,Lynn
+1871,39.63333101,-85.20772693,"North Indian, Chinese",20.0,50.00,3.8,133,99,30,Connersville
+1872,39.61052992,-85.60367852,"Biryani, North Indian",25.0,50.00,0,0,0,30,Morristown
+1873,39.28364753,-85.94525475,Chinese,10.0,50.00,3.5,52,20,30,Lowell
+1874,39.63493318,-85.19380882,"North Indian, Mughlai, Chinese",20.0,50.00,0,0,0,30,Connersville
+1875,39.61889305,-85.31400089,North Indian,20.0,50.00,3.6,104,40,30,Rushville
+1876,39.06279951,-85.9751283,"North Indian, Chinese",25.0,50.00,3.8,182,84,45,Seymour
+1877,39.72549113,-85.40026572,"Beverages, Fast Food",20.0,50.00,3.6,33,13,45,Rushville
+1878,39.04529787,-85.09477128,Fast Food,15.0,50.00,3.4,31,9,45,Dillsboro
+1879,39.65638569,-85.88027084,"North Indian, Mughlai",35.0,99.00,4.1,73,59,30,New Palestine
+1880,39.57991675,-85.70477495,"Bakery, Desserts",20.0,50.00,3.5,51,30,30,Shelbyville
+1881,39.89153359,-85.72257668,Chinese,25.0,50.00,3.8,0,0,30,Ingalls
+1882,39.06002342,-85.83169346,"Healthy Food, Sandwich, Salad, Burger",10.0,50.00,3.3,14,5,30,Seymour
+1883,39.58647783,-85.04858073,"Chinese, Thai, Asian",65.0,50.00,3.6,94,38,45,Connersville
+1884,39.70772236,-85.43714573,"Fast Food, Beverages",10.0,50.00,3.9,17,11,30,Rushville
+1885,39.11911509,-85.34612188,"Biryani, North Indian, Chinese, Rajasthani",25.0,99.00,3.8,390,207,45,Osgood
+1886,39.81262809,-85.88002161,Chinese,20.0,50.00,3.2,0,0,30,Cumberland
+1887,39.0036642,-85.73939909,North Indian,10.0,50.00,3.7,133,27,65,Country Squire Lakes
+1888,39.88069733,-85.19304066,Fast Food,10.0,50.00,0,0,0,30,Hagerstown
+1889,39.14342199,-85.04617967,"Afghan, BBQ, Biryani, Seafood",20.0,50.00,3.5,26,15,30,Milan
+1891,39.56049549,-85.41246847,"Biryani, North Indian",20.0,99.00,2.7,30,2,65,Rushville
+1892,39.83929435,-85.51184134,North Indian,15.0,50.00,3.5,27,5,30,Knightstown
+1893,39.07556609,-85.00637004,Fast Food,10.0,50.00,3.8,48,29,30,Dillsboro
+1894,39.84186929,-85.54434472,Bengali,10.0,50.00,3.0,15,10,30,Knightstown
+1895,39.30869013,-85.97560934,"Chinese, Bengali, Bangladeshi, Rolls",10.0,50.00,3.3,16,4,30,Edinburgh
+1896,39.03992549,-85.40686517,"Bakery, Cafe",30.0,50.00,4.2,657,383,45,Osgood
+1897,39.75570037,-85.61176768,"Pizza, Fast Food, Beverages",20.0,50.00,3.4,9,9,30,Knightstown
+1898,39.86030712,-85.8067033,"Pizza, Fast Food",15.0,50.00,3.3,12,2,30,Fortville
+1899,39.488831899999994,-85.40123504,Fast Food,10.0,50.00,3.6,90,31,30,Rushville
+1900,39.66764442,-85.29025390000001,"North Indian, Chinese, Mughlai",20.0,99.00,3.0,10,4,45,Connersville
+1901,39.68571634,-85.60360479,Chinese,20.0,50.00,3.4,31,6,30,Morristown
+1902,39.44700981,-85.21213314,"North Indian, Biryani",20.0,50.00,0,0,0,30,Batesville
+1903,39.33963831,-85.89039566,"South Indian, North Indian, Chinese, Street Food",20.0,50.00,3.3,15,6,30,Edinburgh
+1904,39.23633545,-85.83739244,"Arabian, Biryani, Burger, Sandwich, Desserts",30.0,50.00,4.0,100,46,30,Columbus
+1905,39.01620961,-85.93943558,North Indian,20.0,50.00,3.9,51,39,45,Seymour
+1906,39.6252792,-85.77965584,"North Indian, Chinese, Rolls",15.0,50.00,3.8,269,46,45,Morristown
+1907,39.30188217,-85.66768391,South Indian,20.0,99.00,3.8,362,108,45,Hope
+1908,39.944253499999995,-85.7129797,"Cafe, Salad, Biryani, Chinese, Continental, Italian, Desserts, Pizza",25.0,99.00,4.0,498,272,45,Pendleton
+1909,39.18786283,-85.59590801,"Ice Cream, Desserts, Fast Food",20.0,50.00,2.8,35,14,30,Westport
+1910,39.22260524,-85.56925014,Fast Food,10.0,50.00,3.7,22,6,30,Westport
+1911,39.90663537,-85.83108279,"North Indian, Chinese, Mughlai",25.0,50.00,3.1,8,3,30,Fortville
+1912,39.58061726,-85.40225193,Fast Food,20.0,50.00,2.9,57,24,30,Rushville
+1913,39.88236503,-85.54945953,"Chinese, Thai, Continental",20.0,50.00,0,0,0,30,Knightstown
+1914,39.96572385,-85.46723436,Fast Food,10.0,50.00,2.8,12,6,30,New Castle
+1915,39.33314707,-85.60792863,"Beverages, Fast Food",20.0,50.00,3.2,22,11,30,Saint Paul
+1916,39.25245753,-85.19112927,"Fast Food, Burger",10.0,50.00,3.7,33,12,30,Batesville
+1917,39.26843359,-85.0413515,"North Indian, Chinese",20.0,50.00,3.8,133,99,30,Sunman
+1918,39.17559551,-85.47552777,"Desserts, Fast Food",15.0,50.00,3.6,20,6,30,Westport
+1919,39.31735879,-85.36734344,Biryani,15.0,50.00,0,0,0,30,Greensburg
+1920,39.33016613,-85.67289123,Chinese,20.0,50.00,0,0,0,30,Geneva
+1921,39.64252218,-85.93858638,North Indian,10.0,50.00,3.2,6,1,30,New Palestine
+1922,39.35998984,-85.1486941,North Indian,20.0,50.00,0,0,0,30,Batesville
+1923,39.52391758,-85.10310478,"Chinese, North Indian, Mughlai",20.0,50.00,3.3,11,7,30,Connersville
+1924,39.2954343,-85.87804363,North Indian,10.0,50.00,0,0,0,30,Lowell
+1925,39.2977533,-85.46857275,"Bakery, Desserts",25.0,50.00,3.8,214,110,30,Greensburg
+1926,39.59102515,-85.99089327,"Pizza, Mexican, Italian",30.0,50.00,3.8,241,148,65,Whiteland
+1927,39.94141214,-85.98239174,"North Indian, Chinese, South Indian, Desserts",30.0,50.00,3.4,31,12,45,Fishers
+1928,39.42833955,-85.66130133,"Fast Food, Chinese",15.0,50.00,3.7,66,20,30,Saint Paul
+1929,39.80926507,-85.66940913,"Fast Food, Coffee",10.0,50.00,3.3,9,5,30,Greenfield
+1930,39.34603586,-85.66047567,"North Indian, Chinese",25.0,50.00,4.2,347,246,45,Geneva
+1931,39.21152889,-85.52823723,Fast Food,5.0,50.00,0,0,0,30,Westport
+1932,39.96747665,-85.22753844,Continental,30.0,50.00,0,0,0,30,Hagerstown
+1933,39.56769879,-85.9181452,South Indian,10.0,50.00,3.1,4,0,30,Shelbyville
+1934,39.47097182,-85.33265266,"Cafe, Coffee, Tea, Desserts",30.0,50.00,4.3,295,103,30,Rushville
+1935,39.87063828,-85.3931547,Bakery,10.0,50.00,3.4,14,12,30,New Castle
+1936,39.73957946,-85.67457061,Chinese,20.0,50.00,0,0,0,30,Morristown
+1937,39.95341521,-85.60775762,"Beverages, Fast Food",20.0,50.00,3.9,113,37,65,Middletown
+1938,39.31133624,-85.75053247,Fast Food,10.0,50.00,3.2,7,3,30,Hope
+1939,39.85787994,-85.17387559999999,South Indian,10.0,50.00,3.7,27,9,30,Cambridge City
+1940,39.95150776,-85.5158301,Chinese,20.0,50.00,3.1,5,0,30,Middletown
+1941,39.61091889,-85.84546749,North Indian,15.0,50.00,3.3,18,5,30,Shelbyville
+1942,39.34658119,-85.28477944,North Indian,5.0,50.00,4.0,305,85,45,Batesville
+1943,39.64347079,-85.4774188,"North Indian, Chinese, Healthy Food",20.0,50.00,3.4,45,11,30,Rushville
+1944,39.97784312,-85.49023011,Sandwich,10.0,50.00,3.2,7,2,30,Middletown
+1945,39.97076812,-85.02456986,"North Indian, Chinese, Maharashtrian, Continental",40.0,50.00,3.3,12,4,45,Lynn
+1946,39.95857537,-85.65256907,"Chinese, Thai",30.0,50.00,4.0,559,228,65,Pendleton
+1947,39.37501472,-85.6220337,Bakery,15.0,99.00,2.8,177,81,120,Saint Paul
+1948,39.03709386,-85.27184423,"Desserts, Juices",15.0,50.00,3.9,281,127,30,Versailles
+1949,39.59967431,-85.44458177,North Indian,30.0,50.00,4.7,81,74,45,Rushville
+1950,39.86978738,-85.66444164,"Healthy Food, Salad, Continental, Desserts, Beverages",30.0,50.00,4.1,335,76,45,Greenfield
+1951,39.54591964,-85.95573475,"North Indian, Chinese, Rolls",20.0,50.00,3.8,242,53,45,Franklin
+1952,39.57831821,-85.87682881,"Asian, Thai, Malaysian, Chinese, Japanese",35.0,99.00,4.4,453,246,65,Shelbyville
+1953,39.60670476,-85.83943078,"North Indian, Chinese, Beverages",20.0,50.00,3.4,15,6,45,Shelbyville
+1955,39.3347175,-85.58652765,Cafe,30.0,99.00,3.8,75,43,45,Saint Paul
+1956,39.27159846,-85.74571435,"Fast Food, Beverages",25.0,50.00,3.3,14,5,30,Hope
+1958,39.59269508,-85.15908447,"North Indian, Street Food, South Indian, Fast Food, Chinese",20.0,50.00,3.9,322,131,45,Connersville
+1959,39.98010599,-85.45899436,"North Indian, Mughlai, Italian, Chinese",50.0,50.00,3.9,271,143,65,New Castle
+1960,39.60405635,-85.05876101,"Fast Food, North Indian",10.0,50.00,3.1,4,2,30,Connersville
+1961,39.89024158,-85.69167008,"North Indian, Chinese",20.0,50.00,4.4,113,74,65,Pendleton
+1962,39.83017228,-85.43854747,"Biryani, Kebab",15.0,50.00,3.4,20,4,30,Knightstown
+1963,39.393395899999994,-85.28201252,"Bakery, Fast Food",20.0,50.00,3.4,20,10,30,Batesville
+1964,39.80962438,-85.45635064,"Biryani, Andhra, North Indian, Chinese",35.0,50.00,3.8,446,232,45,Knightstown
+1965,39.97051346,-85.06539322,North Indian,20.0,50.00,0,0,0,65,Hagerstown
+1966,39.35457043,-85.30539302,"North Indian, Chinese, Mughlai",20.0,50.00,3.2,8,2,30,Batesville
+1967,39.72218647,-85.59112442,"North Indian, Mughlai, Biryani",55.0,50.00,4.6,473,294,30,Knightstown
+1968,39.92234322,-85.2731217,"Fast Food, Chinese, South Indian",15.0,50.00,2.5,12,9,30,New Castle
+1969,39.33661291,-85.21477406,"Cafe, Beverages",20.0,50.00,0,0,0,30,Batesville
+1970,39.87016914,-85.60833284,"Burger, Fast Food, Continental",30.0,50.00,4.3,367,179,45,Knightstown
+1971,39.38739688,-85.30333342,"Chinese, North Indian",15.0,50.00,3.3,55,23,30,Batesville
+1972,39.92426986,-85.23165555,"North Indian, Chinese, Italian, Finger Food, American",80.0,99.00,4.4,1102,766,30,Hagerstown
+1973,39.84855302,-85.10813823,North Indian,20.0,50.00,3.5,40,8,45,Cambridge City
+1974,39.19680229,-85.14383713,"North Indian, Chinese, Fast Food",20.0,50.00,3.3,16,1,30,Sunman
+1975,39.43756835,-85.23904594,"Coffee, Cafe, Fast Food, Desserts, Beverages",25.0,50.00,3.5,15,11,30,Batesville
+1976,39.39493845,-85.62563726,South Indian,10.0,50.00,3.6,8,1,30,Saint Paul
+1977,39.853610700000004,-85.09379583,North Indian,20.0,50.00,3.0,7,1,30,Cambridge City
+1978,39.57252357,-85.02380662,"North Indian, Fast Food",5.0,50.00,0,0,0,30,Liberty
+1979,39.71496242,-85.08570141,"Fast Food, South Indian",20.0,50.00,3.1,8,2,30,Connersville
+1980,39.7961351,-85.65676317,"North Indian, South Indian",15.0,50.00,3.3,16,3,30,Greenfield
+1981,39.77462679,-85.06083101,Beverages,10.0,50.00,3.7,31,12,45,Centerville
+1982,39.67331422,-85.5443358,"North Indian, Chinese",20.0,50.00,3.7,32,21,30,Rushville
+1983,39.88977228,-85.49377133,"Fast Food, Beverages",15.0,50.00,3.6,24,10,30,Knightstown
+1984,39.25933867,-85.86314727,Italian,15.0,50.00,3.9,121,94,65,Columbus
+1985,39.840803,-85.66075378,"Cafe, Fast Food, Beverages, Desserts, Tea",20.0,50.00,4.3,356,230,30,Greenfield
+1986,39.00433672,-85.14036296,"North Indian, Chinese",25.0,99.00,3.6,182,65,65,Dillsboro
+1987,39.2506219,-85.82945215,Desserts,20.0,50.00,4.5,247,178,30,Hope
+1988,39.11012076,-85.6922052,South Indian,10.0,50.00,3.1,39,18,45,Country Squire Lakes
+1989,39.46783317,-85.68389219,"Cafe, Beverages, Sandwich, Fast Food, Desserts",25.0,50.00,3.6,57,35,45,Saint Paul
+1991,39.58040005,-85.16468171,"North Indian, Chinese",30.0,50.00,2.9,60,26,45,Connersville
+1992,39.67857697,-85.09899717,"Biryani, Andhra, South Indian, Chinese",15.0,99.00,3.7,248,47,45,Connersville
+1993,39.88129284,-85.50432544,"Chinese, Asian",50.0,50.00,4.2,384,214,45,Knightstown
+1994,39.56415974,-85.14472141,"North Indian, Chinese",20.0,99.00,3.8,32,20,30,Connersville
+1995,39.697117299999995,-85.85908151,"Healthy Food, Continental, Fast Food",20.0,50.00,3.7,14,5,30,New Palestine
+1996,39.75426959,-85.99001721,Fast Food,15.0,50.00,3.5,63,23,45,Cumberland
+1997,39.89311181,-85.01088709,"North Indian, Chinese",15.0,50.00,3.6,25,7,30,Centerville
+1999,39.28960549,-85.84695722,"Fast Food, Beverages",15.0,50.00,3.9,241,124,45,Hope
+2000,39.19663163,-85.64930663,"Bakery, Desserts, Ice Cream",15.0,50.00,3.9,58,30,45,Westport
+2001,39.064830900000004,-85.28368118,"Bakery, Desserts",10.0,50.00,3.9,41,28,30,Versailles
+2002,39.64928579,-85.26510045,"Street Food, Maharashtrian",10.0,50.00,0,0,0,30,Connersville
+2004,39.35536734,-85.77666226,"North Indian, Fast Food, Chinese",15.0,50.00,3.1,61,11,45,Hope
+2005,39.51887825,-85.85853829999999,"Fast Food, Mughlai",15.0,50.00,0,0,0,30,Shelbyville
+2006,39.66268855,-85.33236345,"North Indian, Continental, Chinese, Juices",10.0,50.00,3.4,25,20,30,Rushville
+2007,39.81684225,-85.19414029999999,Fast Food,15.0,50.00,0,0,0,30,Cambridge City
+2008,39.4375917,-85.19193004,"North Indian, Chinese, South Indian",25.0,50.00,4.3,112,33,30,Batesville
+2010,39.371826899999995,-85.07699441,"Chinese, North Indian, Mughlai",80.0,50.00,2.6,175,78,30,Brookville
+2011,39.35368184,-85.07187817,"North Indian, South Indian, Chinese, Fast Food",25.0,50.00,3.3,29,6,45,Brookville
+2012,39.039147,-85.11450497,"Beverages, Fast Food",15.0,50.00,3.7,22,16,30,Dillsboro
+2013,39.76474496,-85.12156666,Bengali,20.0,50.00,3.3,16,6,30,Cambridge City
+2014,39.62497789,-85.18921152,"North Indian, Pizza, Burger, Continental",40.0,0.00,0,0,0,30,Connersville
+2015,39.13371907,-85.50302006,"Awadhi, Bihari",40.0,99.00,4.1,118,91,30,Westport
+2017,39.30176507,-85.66276798,"Kebab, Fast Food",10.0,50.00,0,0,0,30,Geneva
+2018,39.46094352,-85.48435476,"Desserts, Beverages",150.0,50.00,4.1,271,172,45,Greensburg
